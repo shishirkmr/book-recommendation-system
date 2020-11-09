@@ -1,0 +1,4676 @@
+users,book,rating,user_id,book_id
+Ben,The Hitchhiker's Guide To The Galaxy,5,1,1
+Ben,Watership Down,0,1,2
+Ben,The Five People You Meet in Heaven,0,1,3
+Ben,Speak,0,1,4
+Ben,I Know Why the Caged Bird Sings,0,1,5
+Ben,Thirteen Reasons Why,0,1,6
+Ben,Foundation Series,0,1,7
+Ben,The Sisterhood of the Travelling Pants,3,1,8
+Ben,A Great and Terrible Beauty,0,1,9
+Ben,The Da Vinci Code,3,1,10
+Ben,The Princess Diaries,2,1,11
+Ben,Ender's Game,5,1,12
+Ben,The Hunt for Red October,0,1,13
+Ben,The Hunger Games,0,1,14
+Ben,The Great Gatsby,0,1,15
+Ben,Ranger's Apprentice Series,5,1,16
+Ben,Inkheart,5,1,17
+Ben,Neuromancer,0,1,18
+Ben,Lord of the Flies,0,1,19
+Ben,The Princess Bride,0,1,20
+Ben,Dinotopia: A Land Apart from Time,0,1,21
+Ben,Far North,5,1,22
+Ben,Practical Magic,0,1,23
+Ben,Brave New World,0,1,24
+Ben,The Summer Tree,0,1,25
+Ben,Flowers For Algernon,0,1,26
+Ben,Owl in Love,0,1,27
+Ben,Naruto,0,1,28
+Ben,Bleach (graphic novel),0,1,29
+Ben,Kiss the Dust,0,1,30
+Ben,To Kill a Mockingbird,3,1,31
+Ben,The Lion the Witch and the Wardrobe,4,1,32
+Ben,The Bourne Series,0,1,33
+Ben,Life of Pi,3,1,34
+Ben,Breathless,0,1,35
+Ben,Twilight Series,1,1,36
+Ben,Sabriel,0,1,37
+Ben,Nineteen Eighty-Four (1984),0,1,38
+Ben,Eragon,5,1,39
+Ben,Hatchet,5,1,40
+Ben,My Sister's Keeper,0,1,41
+Ben,The Golden Compass,5,1,42
+Ben,Harry Potter Series,5,1,43
+Ben,Holes,5,1,44
+Ben,Shonen Jump Series,0,1,45
+Ben,The Shadow Club,5,1,46
+Ben,Bone Series,5,1,47
+Ben,Maus: A Survivor's Tale,0,1,48
+Ben,The Joy Luck Club,0,1,49
+Ben,The Lord of the Rings,0,1,50
+Ben,The Hobbit,5,1,51
+Ben,Shattered,5,1,52
+Ben,The War Of The Worlds,5,1,53
+Ben,Dealing with Dragons,5,1,54
+Ben,The Chrysalids,1,1,55
+Moose,The Hitchhiker's Guide To The Galaxy,5,2,1
+Moose,Watership Down,5,2,2
+Moose,The Five People You Meet in Heaven,0,2,3
+Moose,Speak,0,2,4
+Moose,I Know Why the Caged Bird Sings,0,2,5
+Moose,Thirteen Reasons Why,0,2,6
+Moose,Foundation Series,4,2,7
+Moose,The Sisterhood of the Travelling Pants,0,2,8
+Moose,A Great and Terrible Beauty,0,2,9
+Moose,The Da Vinci Code,3,2,10
+Moose,The Princess Diaries,0,2,11
+Moose,Ender's Game,5,2,12
+Moose,The Hunt for Red October,4,2,13
+Moose,The Hunger Games,0,2,14
+Moose,The Great Gatsby,5,2,15
+Moose,Ranger's Apprentice Series,0,2,16
+Moose,Inkheart,4,2,17
+Moose,Neuromancer,4,2,18
+Moose,Lord of the Flies,5,2,19
+Moose,The Princess Bride,0,2,20
+Moose,Dinotopia: A Land Apart from Time,0,2,21
+Moose,Far North,0,2,22
+Moose,Practical Magic,0,2,23
+Moose,Brave New World,0,2,24
+Moose,The Summer Tree,5,2,25
+Moose,Flowers For Algernon,0,2,26
+Moose,Owl in Love,0,2,27
+Moose,Naruto,0,2,28
+Moose,Bleach (graphic novel),0,2,29
+Moose,Kiss the Dust,0,2,30
+Moose,To Kill a Mockingbird,4,2,31
+Moose,The Lion the Witch and the Wardrobe,5,2,32
+Moose,The Bourne Series,0,2,33
+Moose,Life of Pi,0,2,34
+Moose,Breathless,0,2,35
+Moose,Twilight Series,0,2,36
+Moose,Sabriel,0,2,37
+Moose,Nineteen Eighty-Four (1984),5,2,38
+Moose,Eragon,2,2,39
+Moose,Hatchet,0,2,40
+Moose,My Sister's Keeper,0,2,41
+Moose,The Golden Compass,0,2,42
+Moose,Harry Potter Series,5,2,43
+Moose,Holes,0,2,44
+Moose,Shonen Jump Series,0,2,45
+Moose,The Shadow Club,0,2,46
+Moose,Bone Series,0,2,47
+Moose,Maus: A Survivor's Tale,0,2,48
+Moose,The Joy Luck Club,0,2,49
+Moose,The Lord of the Rings,5,2,50
+Moose,The Hobbit,5,2,51
+Moose,Shattered,0,2,52
+Moose,The War Of The Worlds,4,2,53
+Moose,Dealing with Dragons,0,2,54
+Moose,The Chrysalids,0,2,55
+Reuven,The Hitchhiker's Guide To The Galaxy,5,3,1
+Reuven,Watership Down,1,3,2
+Reuven,The Five People You Meet in Heaven,0,3,3
+Reuven,Speak,0,3,4
+Reuven,I Know Why the Caged Bird Sings,0,3,5
+Reuven,Thirteen Reasons Why,0,3,6
+Reuven,Foundation Series,2,3,7
+Reuven,The Sisterhood of the Travelling Pants,1,3,8
+Reuven,A Great and Terrible Beauty,0,3,9
+Reuven,The Da Vinci Code,3,3,10
+Reuven,The Princess Diaries,1,3,11
+Reuven,Ender's Game,5,3,12
+Reuven,The Hunt for Red October,0,3,13
+Reuven,The Hunger Games,3,3,14
+Reuven,The Great Gatsby,0,3,15
+Reuven,Ranger's Apprentice Series,3,3,16
+Reuven,Inkheart,2,3,17
+Reuven,Neuromancer,3,3,18
+Reuven,Lord of the Flies,1,3,19
+Reuven,The Princess Bride,0,3,20
+Reuven,Dinotopia: A Land Apart from Time,0,3,21
+Reuven,Far North,0,3,22
+Reuven,Practical Magic,0,3,23
+Reuven,Brave New World,0,3,24
+Reuven,The Summer Tree,0,3,25
+Reuven,Flowers For Algernon,4,3,26
+Reuven,Owl in Love,0,3,27
+Reuven,Naruto,0,3,28
+Reuven,Bleach (graphic novel),0,3,29
+Reuven,Kiss the Dust,0,3,30
+Reuven,To Kill a Mockingbird,1,3,31
+Reuven,The Lion the Witch and the Wardrobe,3,3,32
+Reuven,The Bourne Series,0,3,33
+Reuven,Life of Pi,3,3,34
+Reuven,Breathless,0,3,35
+Reuven,Twilight Series,1,3,36
+Reuven,Sabriel,0,3,37
+Reuven,Nineteen Eighty-Four (1984),4,3,38
+Reuven,Eragon,2,3,39
+Reuven,Hatchet,4,3,40
+Reuven,My Sister's Keeper,0,3,41
+Reuven,The Golden Compass,3,3,42
+Reuven,Harry Potter Series,5,3,43
+Reuven,Holes,3,3,44
+Reuven,Shonen Jump Series,0,3,45
+Reuven,The Shadow Club,0,3,46
+Reuven,Bone Series,0,3,47
+Reuven,Maus: A Survivor's Tale,0,3,48
+Reuven,The Joy Luck Club,0,3,49
+Reuven,The Lord of the Rings,3,3,50
+Reuven,The Hobbit,4,3,51
+Reuven,Shattered,3,3,52
+Reuven,The War Of The Worlds,5,3,53
+Reuven,Dealing with Dragons,3,3,54
+Reuven,The Chrysalids,4,3,55
+Cust1,The Hitchhiker's Guide To The Galaxy,4,4,1
+Cust1,Watership Down,4,4,2
+Cust1,The Five People You Meet in Heaven,5,4,3
+Cust1,Speak,0,4,4
+Cust1,I Know Why the Caged Bird Sings,0,4,5
+Cust1,Thirteen Reasons Why,0,4,6
+Cust1,Foundation Series,4,4,7
+Cust1,The Sisterhood of the Travelling Pants,0,4,8
+Cust1,A Great and Terrible Beauty,0,4,9
+Cust1,The Da Vinci Code,4,4,10
+Cust1,The Princess Diaries,0,4,11
+Cust1,Ender's Game,4,4,12
+Cust1,The Hunt for Red October,0,4,13
+Cust1,The Hunger Games,0,4,14
+Cust1,The Great Gatsby,0,4,15
+Cust1,Ranger's Apprentice Series,0,4,16
+Cust1,Inkheart,0,4,17
+Cust1,Neuromancer,4,4,18
+Cust1,Lord of the Flies,0,4,19
+Cust1,The Princess Bride,5,4,20
+Cust1,Dinotopia: A Land Apart from Time,0,4,21
+Cust1,Far North,0,4,22
+Cust1,Practical Magic,0,4,23
+Cust1,Brave New World,3,4,24
+Cust1,The Summer Tree,4,4,25
+Cust1,Flowers For Algernon,3,4,26
+Cust1,Owl in Love,0,4,27
+Cust1,Naruto,0,4,28
+Cust1,Bleach (graphic novel),0,4,29
+Cust1,Kiss the Dust,0,4,30
+Cust1,To Kill a Mockingbird,0,4,31
+Cust1,The Lion the Witch and the Wardrobe,4,4,32
+Cust1,The Bourne Series,0,4,33
+Cust1,Life of Pi,4,4,34
+Cust1,Breathless,0,4,35
+Cust1,Twilight Series,0,4,36
+Cust1,Sabriel,0,4,37
+Cust1,Nineteen Eighty-Four (1984),3,4,38
+Cust1,Eragon,4,4,39
+Cust1,Hatchet,0,4,40
+Cust1,My Sister's Keeper,0,4,41
+Cust1,The Golden Compass,4,4,42
+Cust1,Harry Potter Series,4,4,43
+Cust1,Holes,0,4,44
+Cust1,Shonen Jump Series,0,4,45
+Cust1,The Shadow Club,0,4,46
+Cust1,Bone Series,5,4,47
+Cust1,Maus: A Survivor's Tale,0,4,48
+Cust1,The Joy Luck Club,0,4,49
+Cust1,The Lord of the Rings,4,4,50
+Cust1,The Hobbit,3,4,51
+Cust1,Shattered,0,4,52
+Cust1,The War Of The Worlds,0,4,53
+Cust1,Dealing with Dragons,0,4,54
+Cust1,The Chrysalids,0,4,55
+Cust2,The Hitchhiker's Guide To The Galaxy,4,5,1
+Cust2,Watership Down,0,5,2
+Cust2,The Five People You Meet in Heaven,0,5,3
+Cust2,Speak,0,5,4
+Cust2,I Know Why the Caged Bird Sings,0,5,5
+Cust2,Thirteen Reasons Why,0,5,6
+Cust2,Foundation Series,0,5,7
+Cust2,The Sisterhood of the Travelling Pants,0,5,8
+Cust2,A Great and Terrible Beauty,0,5,9
+Cust2,The Da Vinci Code,0,5,10
+Cust2,The Princess Diaries,0,5,11
+Cust2,Ender's Game,0,5,12
+Cust2,The Hunt for Red October,0,5,13
+Cust2,The Hunger Games,0,5,14
+Cust2,The Great Gatsby,0,5,15
+Cust2,Ranger's Apprentice Series,0,5,16
+Cust2,Inkheart,0,5,17
+Cust2,Neuromancer,0,5,18
+Cust2,Lord of the Flies,3,5,19
+Cust2,The Princess Bride,0,5,20
+Cust2,Dinotopia: A Land Apart from Time,0,5,21
+Cust2,Far North,0,5,22
+Cust2,Practical Magic,0,5,23
+Cust2,Brave New World,0,5,24
+Cust2,The Summer Tree,0,5,25
+Cust2,Flowers For Algernon,0,5,26
+Cust2,Owl in Love,0,5,27
+Cust2,Naruto,0,5,28
+Cust2,Bleach (graphic novel),0,5,29
+Cust2,Kiss the Dust,0,5,30
+Cust2,To Kill a Mockingbird,0,5,31
+Cust2,The Lion the Witch and the Wardrobe,5,5,32
+Cust2,The Bourne Series,0,5,33
+Cust2,Life of Pi,0,5,34
+Cust2,Breathless,0,5,35
+Cust2,Twilight Series,0,5,36
+Cust2,Sabriel,0,5,37
+Cust2,Nineteen Eighty-Four (1984),4,5,38
+Cust2,Eragon,3,5,39
+Cust2,Hatchet,0,5,40
+Cust2,My Sister's Keeper,0,5,41
+Cust2,The Golden Compass,0,5,42
+Cust2,Harry Potter Series,4,5,43
+Cust2,Holes,0,5,44
+Cust2,Shonen Jump Series,0,5,45
+Cust2,The Shadow Club,0,5,46
+Cust2,Bone Series,4,5,47
+Cust2,Maus: A Survivor's Tale,0,5,48
+Cust2,The Joy Luck Club,4,5,49
+Cust2,The Lord of the Rings,4,5,50
+Cust2,The Hobbit,5,5,51
+Cust2,Shattered,0,5,52
+Cust2,The War Of The Worlds,4,5,53
+Cust2,Dealing with Dragons,0,5,54
+Cust2,The Chrysalids,4,5,55
+Francois,The Hitchhiker's Guide To The Galaxy,4,6,1
+Francois,Watership Down,4,6,2
+Francois,The Five People You Meet in Heaven,5,6,3
+Francois,Speak,0,6,4
+Francois,I Know Why the Caged Bird Sings,0,6,5
+Francois,Thirteen Reasons Why,0,6,6
+Francois,Foundation Series,4,6,7
+Francois,The Sisterhood of the Travelling Pants,0,6,8
+Francois,A Great and Terrible Beauty,0,6,9
+Francois,The Da Vinci Code,4,6,10
+Francois,The Princess Diaries,0,6,11
+Francois,Ender's Game,4,6,12
+Francois,The Hunt for Red October,0,6,13
+Francois,The Hunger Games,0,6,14
+Francois,The Great Gatsby,0,6,15
+Francois,Ranger's Apprentice Series,0,6,16
+Francois,Inkheart,0,6,17
+Francois,Neuromancer,4,6,18
+Francois,Lord of the Flies,0,6,19
+Francois,The Princess Bride,5,6,20
+Francois,Dinotopia: A Land Apart from Time,0,6,21
+Francois,Far North,0,6,22
+Francois,Practical Magic,0,6,23
+Francois,Brave New World,3,6,24
+Francois,The Summer Tree,4,6,25
+Francois,Flowers For Algernon,3,6,26
+Francois,Owl in Love,0,6,27
+Francois,Naruto,0,6,28
+Francois,Bleach (graphic novel),0,6,29
+Francois,Kiss the Dust,0,6,30
+Francois,To Kill a Mockingbird,0,6,31
+Francois,The Lion the Witch and the Wardrobe,4,6,32
+Francois,The Bourne Series,0,6,33
+Francois,Life of Pi,4,6,34
+Francois,Breathless,0,6,35
+Francois,Twilight Series,0,6,36
+Francois,Sabriel,0,6,37
+Francois,Nineteen Eighty-Four (1984),3,6,38
+Francois,Eragon,4,6,39
+Francois,Hatchet,0,6,40
+Francois,My Sister's Keeper,0,6,41
+Francois,The Golden Compass,4,6,42
+Francois,Harry Potter Series,4,6,43
+Francois,Holes,0,6,44
+Francois,Shonen Jump Series,0,6,45
+Francois,The Shadow Club,0,6,46
+Francois,Bone Series,5,6,47
+Francois,Maus: A Survivor's Tale,0,6,48
+Francois,The Joy Luck Club,0,6,49
+Francois,The Lord of the Rings,4,6,50
+Francois,The Hobbit,3,6,51
+Francois,Shattered,0,6,52
+Francois,The War Of The Worlds,0,6,53
+Francois,Dealing with Dragons,0,6,54
+Francois,The Chrysalids,0,6,55
+Jim C,The Hitchhiker's Guide To The Galaxy,5,7,1
+Jim C,Watership Down,4,7,2
+Jim C,The Five People You Meet in Heaven,0,7,3
+Jim C,Speak,0,7,4
+Jim C,I Know Why the Caged Bird Sings,0,7,5
+Jim C,Thirteen Reasons Why,0,7,6
+Jim C,Foundation Series,4,7,7
+Jim C,The Sisterhood of the Travelling Pants,0,7,8
+Jim C,A Great and Terrible Beauty,0,7,9
+Jim C,The Da Vinci Code,0,7,10
+Jim C,The Princess Diaries,0,7,11
+Jim C,Ender's Game,0,7,12
+Jim C,The Hunt for Red October,0,7,13
+Jim C,The Hunger Games,0,7,14
+Jim C,The Great Gatsby,3,7,15
+Jim C,Ranger's Apprentice Series,0,7,16
+Jim C,Inkheart,0,7,17
+Jim C,Neuromancer,0,7,18
+Jim C,Lord of the Flies,0,7,19
+Jim C,The Princess Bride,0,7,20
+Jim C,Dinotopia: A Land Apart from Time,0,7,21
+Jim C,Far North,0,7,22
+Jim C,Practical Magic,0,7,23
+Jim C,Brave New World,4,7,24
+Jim C,The Summer Tree,0,7,25
+Jim C,Flowers For Algernon,4,7,26
+Jim C,Owl in Love,0,7,27
+Jim C,Naruto,0,7,28
+Jim C,Bleach (graphic novel),0,7,29
+Jim C,Kiss the Dust,0,7,30
+Jim C,To Kill a Mockingbird,0,7,31
+Jim C,The Lion the Witch and the Wardrobe,5,7,32
+Jim C,The Bourne Series,0,7,33
+Jim C,Life of Pi,5,7,34
+Jim C,Breathless,0,7,35
+Jim C,Twilight Series,0,7,36
+Jim C,Sabriel,0,7,37
+Jim C,Nineteen Eighty-Four (1984),0,7,38
+Jim C,Eragon,0,7,39
+Jim C,Hatchet,0,7,40
+Jim C,My Sister's Keeper,0,7,41
+Jim C,The Golden Compass,0,7,42
+Jim C,Harry Potter Series,0,7,43
+Jim C,Holes,0,7,44
+Jim C,Shonen Jump Series,0,7,45
+Jim C,The Shadow Club,0,7,46
+Jim C,Bone Series,0,7,47
+Jim C,Maus: A Survivor's Tale,0,7,48
+Jim C,The Joy Luck Club,4,7,49
+Jim C,The Lord of the Rings,4,7,50
+Jim C,The Hobbit,4,7,51
+Jim C,Shattered,0,7,52
+Jim C,The War Of The Worlds,0,7,53
+Jim C,Dealing with Dragons,0,7,54
+Jim C,The Chrysalids,0,7,55
+Iren,The Hitchhiker's Guide To The Galaxy,0,8,1
+Iren,Watership Down,0,8,2
+Iren,The Five People You Meet in Heaven,0,8,3
+Iren,Speak,0,8,4
+Iren,I Know Why the Caged Bird Sings,0,8,5
+Iren,Thirteen Reasons Why,0,8,6
+Iren,Foundation Series,0,8,7
+Iren,The Sisterhood of the Travelling Pants,0,8,8
+Iren,A Great and Terrible Beauty,0,8,9
+Iren,The Da Vinci Code,0,8,10
+Iren,The Princess Diaries,0,8,11
+Iren,Ender's Game,0,8,12
+Iren,The Hunt for Red October,0,8,13
+Iren,The Hunger Games,0,8,14
+Iren,The Great Gatsby,0,8,15
+Iren,Ranger's Apprentice Series,0,8,16
+Iren,Inkheart,3,8,17
+Iren,Neuromancer,0,8,18
+Iren,Lord of the Flies,0,8,19
+Iren,The Princess Bride,0,8,20
+Iren,Dinotopia: A Land Apart from Time,0,8,21
+Iren,Far North,0,8,22
+Iren,Practical Magic,0,8,23
+Iren,Brave New World,0,8,24
+Iren,The Summer Tree,0,8,25
+Iren,Flowers For Algernon,0,8,26
+Iren,Owl in Love,0,8,27
+Iren,Naruto,5,8,28
+Iren,Bleach (graphic novel),0,8,29
+Iren,Kiss the Dust,0,8,30
+Iren,To Kill a Mockingbird,0,8,31
+Iren,The Lion the Witch and the Wardrobe,3,8,32
+Iren,The Bourne Series,0,8,33
+Iren,Life of Pi,0,8,34
+Iren,Breathless,0,8,35
+Iren,Twilight Series,3,8,36
+Iren,Sabriel,0,8,37
+Iren,Nineteen Eighty-Four (1984),0,8,38
+Iren,Eragon,5,8,39
+Iren,Hatchet,0,8,40
+Iren,My Sister's Keeper,0,8,41
+Iren,The Golden Compass,0,8,42
+Iren,Harry Potter Series,5,8,43
+Iren,Holes,4,8,44
+Iren,Shonen Jump Series,5,8,45
+Iren,The Shadow Club,0,8,46
+Iren,Bone Series,0,8,47
+Iren,Maus: A Survivor's Tale,0,8,48
+Iren,The Joy Luck Club,0,8,49
+Iren,The Lord of the Rings,5,8,50
+Iren,The Hobbit,4,8,51
+Iren,Shattered,0,8,52
+Iren,The War Of The Worlds,4,8,53
+Iren,Dealing with Dragons,0,8,54
+Iren,The Chrysalids,1,8,55
+Cust3,The Hitchhiker's Guide To The Galaxy,0,9,1
+Cust3,Watership Down,0,9,2
+Cust3,The Five People You Meet in Heaven,0,9,3
+Cust3,Speak,2,9,4
+Cust3,I Know Why the Caged Bird Sings,0,9,5
+Cust3,Thirteen Reasons Why,0,9,6
+Cust3,Foundation Series,0,9,7
+Cust3,The Sisterhood of the Travelling Pants,0,9,8
+Cust3,A Great and Terrible Beauty,0,9,9
+Cust3,The Da Vinci Code,0,9,10
+Cust3,The Princess Diaries,0,9,11
+Cust3,Ender's Game,0,9,12
+Cust3,The Hunt for Red October,0,9,13
+Cust3,The Hunger Games,0,9,14
+Cust3,The Great Gatsby,0,9,15
+Cust3,Ranger's Apprentice Series,0,9,16
+Cust3,Inkheart,4,9,17
+Cust3,Neuromancer,0,9,18
+Cust3,Lord of the Flies,0,9,19
+Cust3,The Princess Bride,0,9,20
+Cust3,Dinotopia: A Land Apart from Time,0,9,21
+Cust3,Far North,0,9,22
+Cust3,Practical Magic,0,9,23
+Cust3,Brave New World,0,9,24
+Cust3,The Summer Tree,0,9,25
+Cust3,Flowers For Algernon,0,9,26
+Cust3,Owl in Love,0,9,27
+Cust3,Naruto,5,9,28
+Cust3,Bleach (graphic novel),5,9,29
+Cust3,Kiss the Dust,0,9,30
+Cust3,To Kill a Mockingbird,0,9,31
+Cust3,The Lion the Witch and the Wardrobe,0,9,32
+Cust3,The Bourne Series,0,9,33
+Cust3,Life of Pi,0,9,34
+Cust3,Breathless,0,9,35
+Cust3,Twilight Series,0,9,36
+Cust3,Sabriel,0,9,37
+Cust3,Nineteen Eighty-Four (1984),0,9,38
+Cust3,Eragon,3,9,39
+Cust3,Hatchet,3,9,40
+Cust3,My Sister's Keeper,0,9,41
+Cust3,The Golden Compass,2,9,42
+Cust3,Harry Potter Series,5,9,43
+Cust3,Holes,4,9,44
+Cust3,Shonen Jump Series,0,9,45
+Cust3,The Shadow Club,0,9,46
+Cust3,Bone Series,3,9,47
+Cust3,Maus: A Survivor's Tale,0,9,48
+Cust3,The Joy Luck Club,0,9,49
+Cust3,The Lord of the Rings,0,9,50
+Cust3,The Hobbit,3,9,51
+Cust3,Shattered,0,9,52
+Cust3,The War Of The Worlds,0,9,53
+Cust3,Dealing with Dragons,0,9,54
+Cust3,The Chrysalids,0,9,55
+Cust4,The Hitchhiker's Guide To The Galaxy,0,10,1
+Cust4,Watership Down,0,10,2
+Cust4,The Five People You Meet in Heaven,0,10,3
+Cust4,Speak,0,10,4
+Cust4,I Know Why the Caged Bird Sings,0,10,5
+Cust4,Thirteen Reasons Why,0,10,6
+Cust4,Foundation Series,0,10,7
+Cust4,The Sisterhood of the Travelling Pants,5,10,8
+Cust4,A Great and Terrible Beauty,0,10,9
+Cust4,The Da Vinci Code,0,10,10
+Cust4,The Princess Diaries,0,10,11
+Cust4,Ender's Game,0,10,12
+Cust4,The Hunt for Red October,0,10,13
+Cust4,The Hunger Games,0,10,14
+Cust4,The Great Gatsby,0,10,15
+Cust4,Ranger's Apprentice Series,0,10,16
+Cust4,Inkheart,0,10,17
+Cust4,Neuromancer,0,10,18
+Cust4,Lord of the Flies,0,10,19
+Cust4,The Princess Bride,0,10,20
+Cust4,Dinotopia: A Land Apart from Time,0,10,21
+Cust4,Far North,0,10,22
+Cust4,Practical Magic,0,10,23
+Cust4,Brave New World,0,10,24
+Cust4,The Summer Tree,0,10,25
+Cust4,Flowers For Algernon,0,10,26
+Cust4,Owl in Love,0,10,27
+Cust4,Naruto,0,10,28
+Cust4,Bleach (graphic novel),0,10,29
+Cust4,Kiss the Dust,0,10,30
+Cust4,To Kill a Mockingbird,0,10,31
+Cust4,The Lion the Witch and the Wardrobe,0,10,32
+Cust4,The Bourne Series,0,10,33
+Cust4,Life of Pi,0,10,34
+Cust4,Breathless,0,10,35
+Cust4,Twilight Series,5,10,36
+Cust4,Sabriel,0,10,37
+Cust4,Nineteen Eighty-Four (1984),0,10,38
+Cust4,Eragon,1,10,39
+Cust4,Hatchet,0,10,40
+Cust4,My Sister's Keeper,0,10,41
+Cust4,The Golden Compass,1,10,42
+Cust4,Harry Potter Series,5,10,43
+Cust4,Holes,0,10,44
+Cust4,Shonen Jump Series,0,10,45
+Cust4,The Shadow Club,0,10,46
+Cust4,Bone Series,0,10,47
+Cust4,Maus: A Survivor's Tale,0,10,48
+Cust4,The Joy Luck Club,0,10,49
+Cust4,The Lord of the Rings,0,10,50
+Cust4,The Hobbit,2,10,51
+Cust4,Shattered,0,10,52
+Cust4,The War Of The Worlds,0,10,53
+Cust4,Dealing with Dragons,0,10,54
+Cust4,The Chrysalids,2,10,55
+Cust5,The Hitchhiker's Guide To The Galaxy,0,11,1
+Cust5,Watership Down,2,11,2
+Cust5,The Five People You Meet in Heaven,0,11,3
+Cust5,Speak,0,11,4
+Cust5,I Know Why the Caged Bird Sings,0,11,5
+Cust5,Thirteen Reasons Why,0,11,6
+Cust5,Foundation Series,0,11,7
+Cust5,The Sisterhood of the Travelling Pants,0,11,8
+Cust5,A Great and Terrible Beauty,0,11,9
+Cust5,The Da Vinci Code,0,11,10
+Cust5,The Princess Diaries,0,11,11
+Cust5,Ender's Game,0,11,12
+Cust5,The Hunt for Red October,0,11,13
+Cust5,The Hunger Games,0,11,14
+Cust5,The Great Gatsby,0,11,15
+Cust5,Ranger's Apprentice Series,0,11,16
+Cust5,Inkheart,0,11,17
+Cust5,Neuromancer,0,11,18
+Cust5,Lord of the Flies,0,11,19
+Cust5,The Princess Bride,0,11,20
+Cust5,Dinotopia: A Land Apart from Time,0,11,21
+Cust5,Far North,0,11,22
+Cust5,Practical Magic,0,11,23
+Cust5,Brave New World,0,11,24
+Cust5,The Summer Tree,0,11,25
+Cust5,Flowers For Algernon,4,11,26
+Cust5,Owl in Love,0,11,27
+Cust5,Naruto,0,11,28
+Cust5,Bleach (graphic novel),0,11,29
+Cust5,Kiss the Dust,0,11,30
+Cust5,To Kill a Mockingbird,5,11,31
+Cust5,The Lion the Witch and the Wardrobe,4,11,32
+Cust5,The Bourne Series,0,11,33
+Cust5,Life of Pi,0,11,34
+Cust5,Breathless,0,11,35
+Cust5,Twilight Series,0,11,36
+Cust5,Sabriel,0,11,37
+Cust5,Nineteen Eighty-Four (1984),5,11,38
+Cust5,Eragon,0,11,39
+Cust5,Hatchet,4,11,40
+Cust5,My Sister's Keeper,0,11,41
+Cust5,The Golden Compass,4,11,42
+Cust5,Harry Potter Series,5,11,43
+Cust5,Holes,4,11,44
+Cust5,Shonen Jump Series,0,11,45
+Cust5,The Shadow Club,0,11,46
+Cust5,Bone Series,0,11,47
+Cust5,Maus: A Survivor's Tale,4,11,48
+Cust5,The Joy Luck Club,0,11,49
+Cust5,The Lord of the Rings,5,11,50
+Cust5,The Hobbit,5,11,51
+Cust5,Shattered,0,11,52
+Cust5,The War Of The Worlds,0,11,53
+Cust5,Dealing with Dragons,5,11,54
+Cust5,The Chrysalids,0,11,55
+Cust6,The Hitchhiker's Guide To The Galaxy,3,12,1
+Cust6,Watership Down,3,12,2
+Cust6,The Five People You Meet in Heaven,4,12,3
+Cust6,Speak,4,12,4
+Cust6,I Know Why the Caged Bird Sings,2,12,5
+Cust6,Thirteen Reasons Why,4,12,6
+Cust6,Foundation Series,4,12,7
+Cust6,The Sisterhood of the Travelling Pants,5,12,8
+Cust6,A Great and Terrible Beauty,5,12,9
+Cust6,The Da Vinci Code,5,12,10
+Cust6,The Princess Diaries,5,12,11
+Cust6,Ender's Game,3,12,12
+Cust6,The Hunt for Red October,4,12,13
+Cust6,The Hunger Games,3,12,14
+Cust6,The Great Gatsby,3,12,15
+Cust6,Ranger's Apprentice Series,0,12,16
+Cust6,Inkheart,5,12,17
+Cust6,Neuromancer,0,12,18
+Cust6,Lord of the Flies,4,12,19
+Cust6,The Princess Bride,0,12,20
+Cust6,Dinotopia: A Land Apart from Time,0,12,21
+Cust6,Far North,0,12,22
+Cust6,Practical Magic,0,12,23
+Cust6,Brave New World,0,12,24
+Cust6,The Summer Tree,0,12,25
+Cust6,Flowers For Algernon,0,12,26
+Cust6,Owl in Love,0,12,27
+Cust6,Naruto,0,12,28
+Cust6,Bleach (graphic novel),0,12,29
+Cust6,Kiss the Dust,0,12,30
+Cust6,To Kill a Mockingbird,0,12,31
+Cust6,The Lion the Witch and the Wardrobe,0,12,32
+Cust6,The Bourne Series,0,12,33
+Cust6,Life of Pi,0,12,34
+Cust6,Breathless,0,12,35
+Cust6,Twilight Series,4,12,36
+Cust6,Sabriel,4,12,37
+Cust6,Nineteen Eighty-Four (1984),0,12,38
+Cust6,Eragon,4,12,39
+Cust6,Hatchet,0,12,40
+Cust6,My Sister's Keeper,4,12,41
+Cust6,The Golden Compass,5,12,42
+Cust6,Harry Potter Series,5,12,43
+Cust6,Holes,5,12,44
+Cust6,Shonen Jump Series,0,12,45
+Cust6,The Shadow Club,2,12,46
+Cust6,Bone Series,0,12,47
+Cust6,Maus: A Survivor's Tale,0,12,48
+Cust6,The Joy Luck Club,0,12,49
+Cust6,The Lord of the Rings,0,12,50
+Cust6,The Hobbit,0,12,51
+Cust6,Shattered,0,12,52
+Cust6,The War Of The Worlds,4,12,53
+Cust6,Dealing with Dragons,3,12,54
+Cust6,The Chrysalids,3,12,55
+Cust7,The Hitchhiker's Guide To The Galaxy,0,13,1
+Cust7,Watership Down,0,13,2
+Cust7,The Five People You Meet in Heaven,0,13,3
+Cust7,Speak,0,13,4
+Cust7,I Know Why the Caged Bird Sings,0,13,5
+Cust7,Thirteen Reasons Why,0,13,6
+Cust7,Foundation Series,0,13,7
+Cust7,The Sisterhood of the Travelling Pants,0,13,8
+Cust7,A Great and Terrible Beauty,0,13,9
+Cust7,The Da Vinci Code,0,13,10
+Cust7,The Princess Diaries,0,13,11
+Cust7,Ender's Game,5,13,12
+Cust7,The Hunt for Red October,0,13,13
+Cust7,The Hunger Games,0,13,14
+Cust7,The Great Gatsby,0,13,15
+Cust7,Ranger's Apprentice Series,0,13,16
+Cust7,Inkheart,0,13,17
+Cust7,Neuromancer,0,13,18
+Cust7,Lord of the Flies,0,13,19
+Cust7,The Princess Bride,0,13,20
+Cust7,Dinotopia: A Land Apart from Time,0,13,21
+Cust7,Far North,0,13,22
+Cust7,Practical Magic,0,13,23
+Cust7,Brave New World,0,13,24
+Cust7,The Summer Tree,0,13,25
+Cust7,Flowers For Algernon,0,13,26
+Cust7,Owl in Love,0,13,27
+Cust7,Naruto,3,13,28
+Cust7,Bleach (graphic novel),2,13,29
+Cust7,Kiss the Dust,0,13,30
+Cust7,To Kill a Mockingbird,0,13,31
+Cust7,The Lion the Witch and the Wardrobe,5,13,32
+Cust7,The Bourne Series,5,13,33
+Cust7,Life of Pi,0,13,34
+Cust7,Breathless,0,13,35
+Cust7,Twilight Series,5,13,36
+Cust7,Sabriel,0,13,37
+Cust7,Nineteen Eighty-Four (1984),0,13,38
+Cust7,Eragon,4,13,39
+Cust7,Hatchet,0,13,40
+Cust7,My Sister's Keeper,0,13,41
+Cust7,The Golden Compass,0,13,42
+Cust7,Harry Potter Series,5,13,43
+Cust7,Holes,0,13,44
+Cust7,Shonen Jump Series,0,13,45
+Cust7,The Shadow Club,0,13,46
+Cust7,Bone Series,0,13,47
+Cust7,Maus: A Survivor's Tale,0,13,48
+Cust7,The Joy Luck Club,0,13,49
+Cust7,The Lord of the Rings,0,13,50
+Cust7,The Hobbit,0,13,51
+Cust7,Shattered,0,13,52
+Cust7,The War Of The Worlds,5,13,53
+Cust7,Dealing with Dragons,0,13,54
+Cust7,The Chrysalids,5,13,55
+Cust8,The Hitchhiker's Guide To The Galaxy,4,14,1
+Cust8,Watership Down,0,14,2
+Cust8,The Five People You Meet in Heaven,0,14,3
+Cust8,Speak,5,14,4
+Cust8,I Know Why the Caged Bird Sings,0,14,5
+Cust8,Thirteen Reasons Why,0,14,6
+Cust8,Foundation Series,0,14,7
+Cust8,The Sisterhood of the Travelling Pants,5,14,8
+Cust8,A Great and Terrible Beauty,0,14,9
+Cust8,The Da Vinci Code,5,14,10
+Cust8,The Princess Diaries,4,14,11
+Cust8,Ender's Game,0,14,12
+Cust8,The Hunt for Red October,0,14,13
+Cust8,The Hunger Games,0,14,14
+Cust8,The Great Gatsby,0,14,15
+Cust8,Ranger's Apprentice Series,0,14,16
+Cust8,Inkheart,4,14,17
+Cust8,Neuromancer,0,14,18
+Cust8,Lord of the Flies,5,14,19
+Cust8,The Princess Bride,5,14,20
+Cust8,Dinotopia: A Land Apart from Time,0,14,21
+Cust8,Far North,0,14,22
+Cust8,Practical Magic,0,14,23
+Cust8,Brave New World,0,14,24
+Cust8,The Summer Tree,0,14,25
+Cust8,Flowers For Algernon,0,14,26
+Cust8,Owl in Love,0,14,27
+Cust8,Naruto,0,14,28
+Cust8,Bleach (graphic novel),5,14,29
+Cust8,Kiss the Dust,0,14,30
+Cust8,To Kill a Mockingbird,5,14,31
+Cust8,The Lion the Witch and the Wardrobe,5,14,32
+Cust8,The Bourne Series,4,14,33
+Cust8,Life of Pi,0,14,34
+Cust8,Breathless,0,14,35
+Cust8,Twilight Series,5,14,36
+Cust8,Sabriel,0,14,37
+Cust8,Nineteen Eighty-Four (1984),0,14,38
+Cust8,Eragon,5,14,39
+Cust8,Hatchet,5,14,40
+Cust8,My Sister's Keeper,5,14,41
+Cust8,The Golden Compass,4,14,42
+Cust8,Harry Potter Series,5,14,43
+Cust8,Holes,5,14,44
+Cust8,Shonen Jump Series,0,14,45
+Cust8,The Shadow Club,0,14,46
+Cust8,Bone Series,5,14,47
+Cust8,Maus: A Survivor's Tale,0,14,48
+Cust8,The Joy Luck Club,0,14,49
+Cust8,The Lord of the Rings,5,14,50
+Cust8,The Hobbit,5,14,51
+Cust8,Shattered,0,14,52
+Cust8,The War Of The Worlds,5,14,53
+Cust8,Dealing with Dragons,0,14,54
+Cust8,The Chrysalids,5,14,55
+Cust9,The Hitchhiker's Guide To The Galaxy,5,15,1
+Cust9,Watership Down,0,15,2
+Cust9,The Five People You Meet in Heaven,0,15,3
+Cust9,Speak,0,15,4
+Cust9,I Know Why the Caged Bird Sings,0,15,5
+Cust9,Thirteen Reasons Why,0,15,6
+Cust9,Foundation Series,4,15,7
+Cust9,The Sisterhood of the Travelling Pants,0,15,8
+Cust9,A Great and Terrible Beauty,0,15,9
+Cust9,The Da Vinci Code,0,15,10
+Cust9,The Princess Diaries,0,15,11
+Cust9,Ender's Game,4,15,12
+Cust9,The Hunt for Red October,0,15,13
+Cust9,The Hunger Games,0,15,14
+Cust9,The Great Gatsby,0,15,15
+Cust9,Ranger's Apprentice Series,0,15,16
+Cust9,Inkheart,0,15,17
+Cust9,Neuromancer,0,15,18
+Cust9,Lord of the Flies,3,15,19
+Cust9,The Princess Bride,0,15,20
+Cust9,Dinotopia: A Land Apart from Time,0,15,21
+Cust9,Far North,0,15,22
+Cust9,Practical Magic,0,15,23
+Cust9,Brave New World,0,15,24
+Cust9,The Summer Tree,0,15,25
+Cust9,Flowers For Algernon,5,15,26
+Cust9,Owl in Love,0,15,27
+Cust9,Naruto,0,15,28
+Cust9,Bleach (graphic novel),0,15,29
+Cust9,Kiss the Dust,0,15,30
+Cust9,To Kill a Mockingbird,3,15,31
+Cust9,The Lion the Witch and the Wardrobe,0,15,32
+Cust9,The Bourne Series,0,15,33
+Cust9,Life of Pi,0,15,34
+Cust9,Breathless,0,15,35
+Cust9,Twilight Series,0,15,36
+Cust9,Sabriel,0,15,37
+Cust9,Nineteen Eighty-Four (1984),0,15,38
+Cust9,Eragon,0,15,39
+Cust9,Hatchet,0,15,40
+Cust9,My Sister's Keeper,0,15,41
+Cust9,The Golden Compass,0,15,42
+Cust9,Harry Potter Series,0,15,43
+Cust9,Holes,0,15,44
+Cust9,Shonen Jump Series,0,15,45
+Cust9,The Shadow Club,0,15,46
+Cust9,Bone Series,0,15,47
+Cust9,Maus: A Survivor's Tale,0,15,48
+Cust9,The Joy Luck Club,0,15,49
+Cust9,The Lord of the Rings,2,15,50
+Cust9,The Hobbit,0,15,51
+Cust9,Shattered,0,15,52
+Cust9,The War Of The Worlds,0,15,53
+Cust9,Dealing with Dragons,0,15,54
+Cust9,The Chrysalids,4,15,55
+andrew,The Hitchhiker's Guide To The Galaxy,4,16,1
+andrew,Watership Down,4,16,2
+andrew,The Five People You Meet in Heaven,3,16,3
+andrew,Speak,0,16,4
+andrew,I Know Why the Caged Bird Sings,4,16,5
+andrew,Thirteen Reasons Why,0,16,6
+andrew,Foundation Series,4,16,7
+andrew,The Sisterhood of the Travelling Pants,0,16,8
+andrew,A Great and Terrible Beauty,0,16,9
+andrew,The Da Vinci Code,2,16,10
+andrew,The Princess Diaries,0,16,11
+andrew,Ender's Game,5,16,12
+andrew,The Hunt for Red October,4,16,13
+andrew,The Hunger Games,0,16,14
+andrew,The Great Gatsby,3,16,15
+andrew,Ranger's Apprentice Series,0,16,16
+andrew,Inkheart,0,16,17
+andrew,Neuromancer,5,16,18
+andrew,Lord of the Flies,4,16,19
+andrew,The Princess Bride,0,16,20
+andrew,Dinotopia: A Land Apart from Time,0,16,21
+andrew,Far North,0,16,22
+andrew,Practical Magic,0,16,23
+andrew,Brave New World,3,16,24
+andrew,The Summer Tree,0,16,25
+andrew,Flowers For Algernon,4,16,26
+andrew,Owl in Love,0,16,27
+andrew,Naruto,3,16,28
+andrew,Bleach (graphic novel),0,16,29
+andrew,Kiss the Dust,0,16,30
+andrew,To Kill a Mockingbird,4,16,31
+andrew,The Lion the Witch and the Wardrobe,5,16,32
+andrew,The Bourne Series,4,16,33
+andrew,Life of Pi,4,16,34
+andrew,Breathless,0,16,35
+andrew,Twilight Series,0,16,36
+andrew,Sabriel,0,16,37
+andrew,Nineteen Eighty-Four (1984),5,16,38
+andrew,Eragon,0,16,39
+andrew,Hatchet,5,16,40
+andrew,My Sister's Keeper,0,16,41
+andrew,The Golden Compass,4,16,42
+andrew,Harry Potter Series,4,16,43
+andrew,Holes,0,16,44
+andrew,Shonen Jump Series,2,16,45
+andrew,The Shadow Club,0,16,46
+andrew,Bone Series,0,16,47
+andrew,Maus: A Survivor's Tale,5,16,48
+andrew,The Joy Luck Club,3,16,49
+andrew,The Lord of the Rings,5,16,50
+andrew,The Hobbit,4,16,51
+andrew,Shattered,0,16,52
+andrew,The War Of The Worlds,4,16,53
+andrew,Dealing with Dragons,0,16,54
+andrew,The Chrysalids,0,16,55
+ma,The Hitchhiker's Guide To The Galaxy,0,17,1
+ma,Watership Down,0,17,2
+ma,The Five People You Meet in Heaven,0,17,3
+ma,Speak,0,17,4
+ma,I Know Why the Caged Bird Sings,5,17,5
+ma,Thirteen Reasons Why,0,17,6
+ma,Foundation Series,0,17,7
+ma,The Sisterhood of the Travelling Pants,0,17,8
+ma,A Great and Terrible Beauty,0,17,9
+ma,The Da Vinci Code,4,17,10
+ma,The Princess Diaries,0,17,11
+ma,Ender's Game,0,17,12
+ma,The Hunt for Red October,0,17,13
+ma,The Hunger Games,0,17,14
+ma,The Great Gatsby,0,17,15
+ma,Ranger's Apprentice Series,0,17,16
+ma,Inkheart,0,17,17
+ma,Neuromancer,0,17,18
+ma,Lord of the Flies,2,17,19
+ma,The Princess Bride,0,17,20
+ma,Dinotopia: A Land Apart from Time,0,17,21
+ma,Far North,0,17,22
+ma,Practical Magic,0,17,23
+ma,Brave New World,2,17,24
+ma,The Summer Tree,0,17,25
+ma,Flowers For Algernon,0,17,26
+ma,Owl in Love,0,17,27
+ma,Naruto,0,17,28
+ma,Bleach (graphic novel),0,17,29
+ma,Kiss the Dust,0,17,30
+ma,To Kill a Mockingbird,0,17,31
+ma,The Lion the Witch and the Wardrobe,4,17,32
+ma,The Bourne Series,0,17,33
+ma,Life of Pi,4,17,34
+ma,Breathless,0,17,35
+ma,Twilight Series,0,17,36
+ma,Sabriel,0,17,37
+ma,Nineteen Eighty-Four (1984),2,17,38
+ma,Eragon,0,17,39
+ma,Hatchet,0,17,40
+ma,My Sister's Keeper,0,17,41
+ma,The Golden Compass,0,17,42
+ma,Harry Potter Series,4,17,43
+ma,Holes,0,17,44
+ma,Shonen Jump Series,0,17,45
+ma,The Shadow Club,0,17,46
+ma,Bone Series,0,17,47
+ma,Maus: A Survivor's Tale,0,17,48
+ma,The Joy Luck Club,0,17,49
+ma,The Lord of the Rings,2,17,50
+ma,The Hobbit,2,17,51
+ma,Shattered,0,17,52
+ma,The War Of The Worlds,0,17,53
+ma,Dealing with Dragons,0,17,54
+ma,The Chrysalids,0,17,55
+matt c,The Hitchhiker's Guide To The Galaxy,0,18,1
+matt c,Watership Down,4,18,2
+matt c,The Five People You Meet in Heaven,0,18,3
+matt c,Speak,0,18,4
+matt c,I Know Why the Caged Bird Sings,0,18,5
+matt c,Thirteen Reasons Why,0,18,6
+matt c,Foundation Series,0,18,7
+matt c,The Sisterhood of the Travelling Pants,0,18,8
+matt c,A Great and Terrible Beauty,0,18,9
+matt c,The Da Vinci Code,5,18,10
+matt c,The Princess Diaries,0,18,11
+matt c,Ender's Game,5,18,12
+matt c,The Hunt for Red October,0,18,13
+matt c,The Hunger Games,0,18,14
+matt c,The Great Gatsby,2,18,15
+matt c,Ranger's Apprentice Series,5,18,16
+matt c,Inkheart,0,18,17
+matt c,Neuromancer,0,18,18
+matt c,Lord of the Flies,3,18,19
+matt c,The Princess Bride,0,18,20
+matt c,Dinotopia: A Land Apart from Time,0,18,21
+matt c,Far North,4,18,22
+matt c,Practical Magic,0,18,23
+matt c,Brave New World,0,18,24
+matt c,The Summer Tree,4,18,25
+matt c,Flowers For Algernon,0,18,26
+matt c,Owl in Love,0,18,27
+matt c,Naruto,0,18,28
+matt c,Bleach (graphic novel),0,18,29
+matt c,Kiss the Dust,0,18,30
+matt c,To Kill a Mockingbird,3,18,31
+matt c,The Lion the Witch and the Wardrobe,4,18,32
+matt c,The Bourne Series,4,18,33
+matt c,Life of Pi,0,18,34
+matt c,Breathless,0,18,35
+matt c,Twilight Series,0,18,36
+matt c,Sabriel,0,18,37
+matt c,Nineteen Eighty-Four (1984),0,18,38
+matt c,Eragon,5,18,39
+matt c,Hatchet,0,18,40
+matt c,My Sister's Keeper,0,18,41
+matt c,The Golden Compass,0,18,42
+matt c,Harry Potter Series,5,18,43
+matt c,Holes,4,18,44
+matt c,Shonen Jump Series,0,18,45
+matt c,The Shadow Club,4,18,46
+matt c,Bone Series,0,18,47
+matt c,Maus: A Survivor's Tale,0,18,48
+matt c,The Joy Luck Club,0,18,49
+matt c,The Lord of the Rings,5,18,50
+matt c,The Hobbit,5,18,51
+matt c,Shattered,4,18,52
+matt c,The War Of The Worlds,0,18,53
+matt c,Dealing with Dragons,0,18,54
+matt c,The Chrysalids,0,18,55
+Ocelot,The Hitchhiker's Guide To The Galaxy,5,19,1
+Ocelot,Watership Down,3,19,2
+Ocelot,The Five People You Meet in Heaven,0,19,3
+Ocelot,Speak,0,19,4
+Ocelot,I Know Why the Caged Bird Sings,0,19,5
+Ocelot,Thirteen Reasons Why,0,19,6
+Ocelot,Foundation Series,0,19,7
+Ocelot,The Sisterhood of the Travelling Pants,0,19,8
+Ocelot,A Great and Terrible Beauty,0,19,9
+Ocelot,The Da Vinci Code,0,19,10
+Ocelot,The Princess Diaries,0,19,11
+Ocelot,Ender's Game,5,19,12
+Ocelot,The Hunt for Red October,0,19,13
+Ocelot,The Hunger Games,0,19,14
+Ocelot,The Great Gatsby,4,19,15
+Ocelot,Ranger's Apprentice Series,0,19,16
+Ocelot,Inkheart,0,19,17
+Ocelot,Neuromancer,5,19,18
+Ocelot,Lord of the Flies,4,19,19
+Ocelot,The Princess Bride,0,19,20
+Ocelot,Dinotopia: A Land Apart from Time,0,19,21
+Ocelot,Far North,0,19,22
+Ocelot,Practical Magic,0,19,23
+Ocelot,Brave New World,4,19,24
+Ocelot,The Summer Tree,0,19,25
+Ocelot,Flowers For Algernon,3,19,26
+Ocelot,Owl in Love,3,19,27
+Ocelot,Naruto,0,19,28
+Ocelot,Bleach (graphic novel),0,19,29
+Ocelot,Kiss the Dust,0,19,30
+Ocelot,To Kill a Mockingbird,4,19,31
+Ocelot,The Lion the Witch and the Wardrobe,4,19,32
+Ocelot,The Bourne Series,0,19,33
+Ocelot,Life of Pi,5,19,34
+Ocelot,Breathless,0,19,35
+Ocelot,Twilight Series,2,19,36
+Ocelot,Sabriel,0,19,37
+Ocelot,Nineteen Eighty-Four (1984),4,19,38
+Ocelot,Eragon,0,19,39
+Ocelot,Hatchet,0,19,40
+Ocelot,My Sister's Keeper,0,19,41
+Ocelot,The Golden Compass,5,19,42
+Ocelot,Harry Potter Series,4,19,43
+Ocelot,Holes,0,19,44
+Ocelot,Shonen Jump Series,0,19,45
+Ocelot,The Shadow Club,0,19,46
+Ocelot,Bone Series,0,19,47
+Ocelot,Maus: A Survivor's Tale,0,19,48
+Ocelot,The Joy Luck Club,0,19,49
+Ocelot,The Lord of the Rings,0,19,50
+Ocelot,The Hobbit,4,19,51
+Ocelot,Shattered,0,19,52
+Ocelot,The War Of The Worlds,3,19,53
+Ocelot,Dealing with Dragons,0,19,54
+Ocelot,The Chrysalids,0,19,55
+Cust10,The Hitchhiker's Guide To The Galaxy,5,20,1
+Cust10,Watership Down,0,20,2
+Cust10,The Five People You Meet in Heaven,0,20,3
+Cust10,Speak,0,20,4
+Cust10,I Know Why the Caged Bird Sings,3,20,5
+Cust10,Thirteen Reasons Why,0,20,6
+Cust10,Foundation Series,0,20,7
+Cust10,The Sisterhood of the Travelling Pants,0,20,8
+Cust10,A Great and Terrible Beauty,0,20,9
+Cust10,The Da Vinci Code,1,20,10
+Cust10,The Princess Diaries,0,20,11
+Cust10,Ender's Game,5,20,12
+Cust10,The Hunt for Red October,0,20,13
+Cust10,The Hunger Games,0,20,14
+Cust10,The Great Gatsby,0,20,15
+Cust10,Ranger's Apprentice Series,0,20,16
+Cust10,Inkheart,0,20,17
+Cust10,Neuromancer,4,20,18
+Cust10,Lord of the Flies,2,20,19
+Cust10,The Princess Bride,4,20,20
+Cust10,Dinotopia: A Land Apart from Time,0,20,21
+Cust10,Far North,0,20,22
+Cust10,Practical Magic,0,20,23
+Cust10,Brave New World,5,20,24
+Cust10,The Summer Tree,0,20,25
+Cust10,Flowers For Algernon,5,20,26
+Cust10,Owl in Love,0,20,27
+Cust10,Naruto,0,20,28
+Cust10,Bleach (graphic novel),0,20,29
+Cust10,Kiss the Dust,0,20,30
+Cust10,To Kill a Mockingbird,4,20,31
+Cust10,The Lion the Witch and the Wardrobe,4,20,32
+Cust10,The Bourne Series,0,20,33
+Cust10,Life of Pi,5,20,34
+Cust10,Breathless,0,20,35
+Cust10,Twilight Series,0,20,36
+Cust10,Sabriel,0,20,37
+Cust10,Nineteen Eighty-Four (1984),5,20,38
+Cust10,Eragon,0,20,39
+Cust10,Hatchet,0,20,40
+Cust10,My Sister's Keeper,0,20,41
+Cust10,The Golden Compass,0,20,42
+Cust10,Harry Potter Series,4,20,43
+Cust10,Holes,0,20,44
+Cust10,Shonen Jump Series,0,20,45
+Cust10,The Shadow Club,0,20,46
+Cust10,Bone Series,0,20,47
+Cust10,Maus: A Survivor's Tale,5,20,48
+Cust10,The Joy Luck Club,0,20,49
+Cust10,The Lord of the Rings,0,20,50
+Cust10,The Hobbit,0,20,51
+Cust10,Shattered,0,20,52
+Cust10,The War Of The Worlds,0,20,53
+Cust10,Dealing with Dragons,0,20,54
+Cust10,The Chrysalids,0,20,55
+crom,The Hitchhiker's Guide To The Galaxy,0,21,1
+crom,Watership Down,0,21,2
+crom,The Five People You Meet in Heaven,4,21,3
+crom,Speak,0,21,4
+crom,I Know Why the Caged Bird Sings,0,21,5
+crom,Thirteen Reasons Why,0,21,6
+crom,Foundation Series,0,21,7
+crom,The Sisterhood of the Travelling Pants,0,21,8
+crom,A Great and Terrible Beauty,0,21,9
+crom,The Da Vinci Code,2,21,10
+crom,The Princess Diaries,0,21,11
+crom,Ender's Game,0,21,12
+crom,The Hunt for Red October,0,21,13
+crom,The Hunger Games,0,21,14
+crom,The Great Gatsby,5,21,15
+crom,Ranger's Apprentice Series,0,21,16
+crom,Inkheart,0,21,17
+crom,Neuromancer,0,21,18
+crom,Lord of the Flies,5,21,19
+crom,The Princess Bride,0,21,20
+crom,Dinotopia: A Land Apart from Time,0,21,21
+crom,Far North,0,21,22
+crom,Practical Magic,0,21,23
+crom,Brave New World,0,21,24
+crom,The Summer Tree,0,21,25
+crom,Flowers For Algernon,0,21,26
+crom,Owl in Love,0,21,27
+crom,Naruto,0,21,28
+crom,Bleach (graphic novel),0,21,29
+crom,Kiss the Dust,0,21,30
+crom,To Kill a Mockingbird,5,21,31
+crom,The Lion the Witch and the Wardrobe,0,21,32
+crom,The Bourne Series,0,21,33
+crom,Life of Pi,0,21,34
+crom,Breathless,0,21,35
+crom,Twilight Series,0,21,36
+crom,Sabriel,0,21,37
+crom,Nineteen Eighty-Four (1984),5,21,38
+crom,Eragon,0,21,39
+crom,Hatchet,0,21,40
+crom,My Sister's Keeper,0,21,41
+crom,The Golden Compass,0,21,42
+crom,Harry Potter Series,0,21,43
+crom,Holes,0,21,44
+crom,Shonen Jump Series,0,21,45
+crom,The Shadow Club,0,21,46
+crom,Bone Series,0,21,47
+crom,Maus: A Survivor's Tale,0,21,48
+crom,The Joy Luck Club,0,21,49
+crom,The Lord of the Rings,4,21,50
+crom,The Hobbit,4,21,51
+crom,Shattered,0,21,52
+crom,The War Of The Worlds,0,21,53
+crom,Dealing with Dragons,0,21,54
+crom,The Chrysalids,0,21,55
+joe,The Hitchhiker's Guide To The Galaxy,4,22,1
+joe,Watership Down,0,22,2
+joe,The Five People You Meet in Heaven,0,22,3
+joe,Speak,0,22,4
+joe,I Know Why the Caged Bird Sings,0,22,5
+joe,Thirteen Reasons Why,0,22,6
+joe,Foundation Series,0,22,7
+joe,The Sisterhood of the Travelling Pants,0,22,8
+joe,A Great and Terrible Beauty,0,22,9
+joe,The Da Vinci Code,4,22,10
+joe,The Princess Diaries,0,22,11
+joe,Ender's Game,5,22,12
+joe,The Hunt for Red October,0,22,13
+joe,The Hunger Games,0,22,14
+joe,The Great Gatsby,5,22,15
+joe,Ranger's Apprentice Series,0,22,16
+joe,Inkheart,3,22,17
+joe,Neuromancer,3,22,18
+joe,Lord of the Flies,4,22,19
+joe,The Princess Bride,0,22,20
+joe,Dinotopia: A Land Apart from Time,3,22,21
+joe,Far North,0,22,22
+joe,Practical Magic,4,22,23
+joe,Brave New World,0,22,24
+joe,The Summer Tree,0,22,25
+joe,Flowers For Algernon,0,22,26
+joe,Owl in Love,0,22,27
+joe,Naruto,4,22,28
+joe,Bleach (graphic novel),4,22,29
+joe,Kiss the Dust,0,22,30
+joe,To Kill a Mockingbird,5,22,31
+joe,The Lion the Witch and the Wardrobe,4,22,32
+joe,The Bourne Series,3,22,33
+joe,Life of Pi,4,22,34
+joe,Breathless,0,22,35
+joe,Twilight Series,3,22,36
+joe,Sabriel,0,22,37
+joe,Nineteen Eighty-Four (1984),4,22,38
+joe,Eragon,3,22,39
+joe,Hatchet,0,22,40
+joe,My Sister's Keeper,0,22,41
+joe,The Golden Compass,5,22,42
+joe,Harry Potter Series,4,22,43
+joe,Holes,0,22,44
+joe,Shonen Jump Series,5,22,45
+joe,The Shadow Club,0,22,46
+joe,Bone Series,3,22,47
+joe,Maus: A Survivor's Tale,0,22,48
+joe,The Joy Luck Club,0,22,49
+joe,The Lord of the Rings,3,22,50
+joe,The Hobbit,5,22,51
+joe,Shattered,0,22,52
+joe,The War Of The Worlds,0,22,53
+joe,Dealing with Dragons,0,22,54
+joe,The Chrysalids,0,22,55
+Priscilla,The Hitchhiker's Guide To The Galaxy,5,23,1
+Priscilla,Watership Down,0,23,2
+Priscilla,The Five People You Meet in Heaven,0,23,3
+Priscilla,Speak,0,23,4
+Priscilla,I Know Why the Caged Bird Sings,0,23,5
+Priscilla,Thirteen Reasons Why,0,23,6
+Priscilla,Foundation Series,5,23,7
+Priscilla,The Sisterhood of the Travelling Pants,0,23,8
+Priscilla,A Great and Terrible Beauty,0,23,9
+Priscilla,The Da Vinci Code,0,23,10
+Priscilla,The Princess Diaries,0,23,11
+Priscilla,Ender's Game,4,23,12
+Priscilla,The Hunt for Red October,4,23,13
+Priscilla,The Hunger Games,0,23,14
+Priscilla,The Great Gatsby,3,23,15
+Priscilla,Ranger's Apprentice Series,0,23,16
+Priscilla,Inkheart,0,23,17
+Priscilla,Neuromancer,0,23,18
+Priscilla,Lord of the Flies,0,23,19
+Priscilla,The Princess Bride,0,23,20
+Priscilla,Dinotopia: A Land Apart from Time,0,23,21
+Priscilla,Far North,0,23,22
+Priscilla,Practical Magic,4,23,23
+Priscilla,Brave New World,5,23,24
+Priscilla,The Summer Tree,0,23,25
+Priscilla,Flowers For Algernon,0,23,26
+Priscilla,Owl in Love,0,23,27
+Priscilla,Naruto,0,23,28
+Priscilla,Bleach (graphic novel),0,23,29
+Priscilla,Kiss the Dust,0,23,30
+Priscilla,To Kill a Mockingbird,0,23,31
+Priscilla,The Lion the Witch and the Wardrobe,3,23,32
+Priscilla,The Bourne Series,0,23,33
+Priscilla,Life of Pi,4,23,34
+Priscilla,Breathless,0,23,35
+Priscilla,Twilight Series,0,23,36
+Priscilla,Sabriel,0,23,37
+Priscilla,Nineteen Eighty-Four (1984),5,23,38
+Priscilla,Eragon,0,23,39
+Priscilla,Hatchet,0,23,40
+Priscilla,My Sister's Keeper,0,23,41
+Priscilla,The Golden Compass,0,23,42
+Priscilla,Harry Potter Series,0,23,43
+Priscilla,Holes,0,23,44
+Priscilla,Shonen Jump Series,0,23,45
+Priscilla,The Shadow Club,0,23,46
+Priscilla,Bone Series,0,23,47
+Priscilla,Maus: A Survivor's Tale,0,23,48
+Priscilla,The Joy Luck Club,0,23,49
+Priscilla,The Lord of the Rings,2,23,50
+Priscilla,The Hobbit,3,23,51
+Priscilla,Shattered,0,23,52
+Priscilla,The War Of The Worlds,3,23,53
+Priscilla,Dealing with Dragons,0,23,54
+Priscilla,The Chrysalids,2,23,55
+Harry Potter,The Hitchhiker's Guide To The Galaxy,0,24,1
+Harry Potter,Watership Down,0,24,2
+Harry Potter,The Five People You Meet in Heaven,0,24,3
+Harry Potter,Speak,0,24,4
+Harry Potter,I Know Why the Caged Bird Sings,0,24,5
+Harry Potter,Thirteen Reasons Why,0,24,6
+Harry Potter,Foundation Series,0,24,7
+Harry Potter,The Sisterhood of the Travelling Pants,0,24,8
+Harry Potter,A Great and Terrible Beauty,0,24,9
+Harry Potter,The Da Vinci Code,1,24,10
+Harry Potter,The Princess Diaries,0,24,11
+Harry Potter,Ender's Game,3,24,12
+Harry Potter,The Hunt for Red October,0,24,13
+Harry Potter,The Hunger Games,0,24,14
+Harry Potter,The Great Gatsby,0,24,15
+Harry Potter,Ranger's Apprentice Series,0,24,16
+Harry Potter,Inkheart,0,24,17
+Harry Potter,Neuromancer,0,24,18
+Harry Potter,Lord of the Flies,3,24,19
+Harry Potter,The Princess Bride,0,24,20
+Harry Potter,Dinotopia: A Land Apart from Time,0,24,21
+Harry Potter,Far North,0,24,22
+Harry Potter,Practical Magic,0,24,23
+Harry Potter,Brave New World,0,24,24
+Harry Potter,The Summer Tree,0,24,25
+Harry Potter,Flowers For Algernon,0,24,26
+Harry Potter,Owl in Love,0,24,27
+Harry Potter,Naruto,3,24,28
+Harry Potter,Bleach (graphic novel),3,24,29
+Harry Potter,Kiss the Dust,0,24,30
+Harry Potter,To Kill a Mockingbird,0,24,31
+Harry Potter,The Lion the Witch and the Wardrobe,0,24,32
+Harry Potter,The Bourne Series,0,24,33
+Harry Potter,Life of Pi,0,24,34
+Harry Potter,Breathless,0,24,35
+Harry Potter,Twilight Series,0,24,36
+Harry Potter,Sabriel,0,24,37
+Harry Potter,Nineteen Eighty-Four (1984),4,24,38
+Harry Potter,Eragon,0,24,39
+Harry Potter,Hatchet,0,24,40
+Harry Potter,My Sister's Keeper,0,24,41
+Harry Potter,The Golden Compass,0,24,42
+Harry Potter,Harry Potter Series,5,24,43
+Harry Potter,Holes,0,24,44
+Harry Potter,Shonen Jump Series,0,24,45
+Harry Potter,The Shadow Club,0,24,46
+Harry Potter,Bone Series,0,24,47
+Harry Potter,Maus: A Survivor's Tale,0,24,48
+Harry Potter,The Joy Luck Club,0,24,49
+Harry Potter,The Lord of the Rings,4,24,50
+Harry Potter,The Hobbit,0,24,51
+Harry Potter,Shattered,0,24,52
+Harry Potter,The War Of The Worlds,0,24,53
+Harry Potter,Dealing with Dragons,0,24,54
+Harry Potter,The Chrysalids,0,24,55
+I. Ned,The Hitchhiker's Guide To The Galaxy,0,25,1
+I. Ned,Watership Down,0,25,2
+I. Ned,The Five People You Meet in Heaven,0,25,3
+I. Ned,Speak,0,25,4
+I. Ned,I Know Why the Caged Bird Sings,0,25,5
+I. Ned,Thirteen Reasons Why,0,25,6
+I. Ned,Foundation Series,0,25,7
+I. Ned,The Sisterhood of the Travelling Pants,0,25,8
+I. Ned,A Great and Terrible Beauty,0,25,9
+I. Ned,The Da Vinci Code,3,25,10
+I. Ned,The Princess Diaries,0,25,11
+I. Ned,Ender's Game,0,25,12
+I. Ned,The Hunt for Red October,0,25,13
+I. Ned,The Hunger Games,0,25,14
+I. Ned,The Great Gatsby,0,25,15
+I. Ned,Ranger's Apprentice Series,0,25,16
+I. Ned,Inkheart,0,25,17
+I. Ned,Neuromancer,0,25,18
+I. Ned,Lord of the Flies,4,25,19
+I. Ned,The Princess Bride,0,25,20
+I. Ned,Dinotopia: A Land Apart from Time,0,25,21
+I. Ned,Far North,0,25,22
+I. Ned,Practical Magic,0,25,23
+I. Ned,Brave New World,2,25,24
+I. Ned,The Summer Tree,0,25,25
+I. Ned,Flowers For Algernon,0,25,26
+I. Ned,Owl in Love,0,25,27
+I. Ned,Naruto,0,25,28
+I. Ned,Bleach (graphic novel),0,25,29
+I. Ned,Kiss the Dust,0,25,30
+I. Ned,To Kill a Mockingbird,3,25,31
+I. Ned,The Lion the Witch and the Wardrobe,3,25,32
+I. Ned,The Bourne Series,0,25,33
+I. Ned,Life of Pi,0,25,34
+I. Ned,Breathless,0,25,35
+I. Ned,Twilight Series,2,25,36
+I. Ned,Sabriel,0,25,37
+I. Ned,Nineteen Eighty-Four (1984),0,25,38
+I. Ned,Eragon,4,25,39
+I. Ned,Hatchet,3,25,40
+I. Ned,My Sister's Keeper,0,25,41
+I. Ned,The Golden Compass,4,25,42
+I. Ned,Harry Potter Series,3,25,43
+I. Ned,Holes,0,25,44
+I. Ned,Shonen Jump Series,0,25,45
+I. Ned,The Shadow Club,0,25,46
+I. Ned,Bone Series,0,25,47
+I. Ned,Maus: A Survivor's Tale,0,25,48
+I. Ned,The Joy Luck Club,4,25,49
+I. Ned,The Lord of the Rings,0,25,50
+I. Ned,The Hobbit,0,25,51
+I. Ned,Shattered,0,25,52
+I. Ned,The War Of The Worlds,0,25,53
+I. Ned,Dealing with Dragons,0,25,54
+I. Ned,The Chrysalids,2,25,55
+ender,The Hitchhiker's Guide To The Galaxy,5,26,1
+ender,Watership Down,0,26,2
+ender,The Five People You Meet in Heaven,0,26,3
+ender,Speak,0,26,4
+ender,I Know Why the Caged Bird Sings,0,26,5
+ender,Thirteen Reasons Why,0,26,6
+ender,Foundation Series,5,26,7
+ender,The Sisterhood of the Travelling Pants,0,26,8
+ender,A Great and Terrible Beauty,0,26,9
+ender,The Da Vinci Code,4,26,10
+ender,The Princess Diaries,0,26,11
+ender,Ender's Game,5,26,12
+ender,The Hunt for Red October,0,26,13
+ender,The Hunger Games,0,26,14
+ender,The Great Gatsby,0,26,15
+ender,Ranger's Apprentice Series,0,26,16
+ender,Inkheart,0,26,17
+ender,Neuromancer,3,26,18
+ender,Lord of the Flies,0,26,19
+ender,The Princess Bride,0,26,20
+ender,Dinotopia: A Land Apart from Time,0,26,21
+ender,Far North,0,26,22
+ender,Practical Magic,0,26,23
+ender,Brave New World,0,26,24
+ender,The Summer Tree,0,26,25
+ender,Flowers For Algernon,0,26,26
+ender,Owl in Love,0,26,27
+ender,Naruto,0,26,28
+ender,Bleach (graphic novel),0,26,29
+ender,Kiss the Dust,0,26,30
+ender,To Kill a Mockingbird,0,26,31
+ender,The Lion the Witch and the Wardrobe,0,26,32
+ender,The Bourne Series,4,26,33
+ender,Life of Pi,0,26,34
+ender,Breathless,0,26,35
+ender,Twilight Series,0,26,36
+ender,Sabriel,0,26,37
+ender,Nineteen Eighty-Four (1984),0,26,38
+ender,Eragon,0,26,39
+ender,Hatchet,0,26,40
+ender,My Sister's Keeper,0,26,41
+ender,The Golden Compass,0,26,42
+ender,Harry Potter Series,0,26,43
+ender,Holes,0,26,44
+ender,Shonen Jump Series,0,26,45
+ender,The Shadow Club,0,26,46
+ender,Bone Series,0,26,47
+ender,Maus: A Survivor's Tale,0,26,48
+ender,The Joy Luck Club,0,26,49
+ender,The Lord of the Rings,5,26,50
+ender,The Hobbit,4,26,51
+ender,Shattered,0,26,52
+ender,The War Of The Worlds,5,26,53
+ender,Dealing with Dragons,0,26,54
+ender,The Chrysalids,4,26,55
+Apollo,The Hitchhiker's Guide To The Galaxy,0,27,1
+Apollo,Watership Down,0,27,2
+Apollo,The Five People You Meet in Heaven,5,27,3
+Apollo,Speak,0,27,4
+Apollo,I Know Why the Caged Bird Sings,0,27,5
+Apollo,Thirteen Reasons Why,0,27,6
+Apollo,Foundation Series,0,27,7
+Apollo,The Sisterhood of the Travelling Pants,4,27,8
+Apollo,A Great and Terrible Beauty,0,27,9
+Apollo,The Da Vinci Code,0,27,10
+Apollo,The Princess Diaries,3,27,11
+Apollo,Ender's Game,0,27,12
+Apollo,The Hunt for Red October,0,27,13
+Apollo,The Hunger Games,0,27,14
+Apollo,The Great Gatsby,1,27,15
+Apollo,Ranger's Apprentice Series,0,27,16
+Apollo,Inkheart,0,27,17
+Apollo,Neuromancer,0,27,18
+Apollo,Lord of the Flies,0,27,19
+Apollo,The Princess Bride,0,27,20
+Apollo,Dinotopia: A Land Apart from Time,0,27,21
+Apollo,Far North,0,27,22
+Apollo,Practical Magic,0,27,23
+Apollo,Brave New World,5,27,24
+Apollo,The Summer Tree,0,27,25
+Apollo,Flowers For Algernon,0,27,26
+Apollo,Owl in Love,0,27,27
+Apollo,Naruto,0,27,28
+Apollo,Bleach (graphic novel),0,27,29
+Apollo,Kiss the Dust,0,27,30
+Apollo,To Kill a Mockingbird,4,27,31
+Apollo,The Lion the Witch and the Wardrobe,1,27,32
+Apollo,The Bourne Series,0,27,33
+Apollo,Life of Pi,0,27,34
+Apollo,Breathless,0,27,35
+Apollo,Twilight Series,0,27,36
+Apollo,Sabriel,0,27,37
+Apollo,Nineteen Eighty-Four (1984),4,27,38
+Apollo,Eragon,0,27,39
+Apollo,Hatchet,0,27,40
+Apollo,My Sister's Keeper,0,27,41
+Apollo,The Golden Compass,0,27,42
+Apollo,Harry Potter Series,4,27,43
+Apollo,Holes,4,27,44
+Apollo,Shonen Jump Series,0,27,45
+Apollo,The Shadow Club,0,27,46
+Apollo,Bone Series,0,27,47
+Apollo,Maus: A Survivor's Tale,0,27,48
+Apollo,The Joy Luck Club,4,27,49
+Apollo,The Lord of the Rings,0,27,50
+Apollo,The Hobbit,2,27,51
+Apollo,Shattered,0,27,52
+Apollo,The War Of The Worlds,0,27,53
+Apollo,Dealing with Dragons,0,27,54
+Apollo,The Chrysalids,3,27,55
+Zax,The Hitchhiker's Guide To The Galaxy,0,28,1
+Zax,Watership Down,4,28,2
+Zax,The Five People You Meet in Heaven,0,28,3
+Zax,Speak,0,28,4
+Zax,I Know Why the Caged Bird Sings,0,28,5
+Zax,Thirteen Reasons Why,0,28,6
+Zax,Foundation Series,0,28,7
+Zax,The Sisterhood of the Travelling Pants,0,28,8
+Zax,A Great and Terrible Beauty,3,28,9
+Zax,The Da Vinci Code,0,28,10
+Zax,The Princess Diaries,0,28,11
+Zax,Ender's Game,0,28,12
+Zax,The Hunt for Red October,0,28,13
+Zax,The Hunger Games,0,28,14
+Zax,The Great Gatsby,0,28,15
+Zax,Ranger's Apprentice Series,0,28,16
+Zax,Inkheart,0,28,17
+Zax,Neuromancer,0,28,18
+Zax,Lord of the Flies,0,28,19
+Zax,The Princess Bride,5,28,20
+Zax,Dinotopia: A Land Apart from Time,0,28,21
+Zax,Far North,0,28,22
+Zax,Practical Magic,0,28,23
+Zax,Brave New World,0,28,24
+Zax,The Summer Tree,0,28,25
+Zax,Flowers For Algernon,0,28,26
+Zax,Owl in Love,0,28,27
+Zax,Naruto,0,28,28
+Zax,Bleach (graphic novel),0,28,29
+Zax,Kiss the Dust,0,28,30
+Zax,To Kill a Mockingbird,0,28,31
+Zax,The Lion the Witch and the Wardrobe,5,28,32
+Zax,The Bourne Series,0,28,33
+Zax,Life of Pi,0,28,34
+Zax,Breathless,0,28,35
+Zax,Twilight Series,0,28,36
+Zax,Sabriel,0,28,37
+Zax,Nineteen Eighty-Four (1984),0,28,38
+Zax,Eragon,5,28,39
+Zax,Hatchet,0,28,40
+Zax,My Sister's Keeper,0,28,41
+Zax,The Golden Compass,0,28,42
+Zax,Harry Potter Series,5,28,43
+Zax,Holes,0,28,44
+Zax,Shonen Jump Series,0,28,45
+Zax,The Shadow Club,0,28,46
+Zax,Bone Series,4,28,47
+Zax,Maus: A Survivor's Tale,0,28,48
+Zax,The Joy Luck Club,0,28,49
+Zax,The Lord of the Rings,5,28,50
+Zax,The Hobbit,5,28,51
+Zax,Shattered,0,28,52
+Zax,The War Of The Worlds,0,28,53
+Zax,Dealing with Dragons,0,28,54
+Zax,The Chrysalids,3,28,55
+Jaluka,The Hitchhiker's Guide To The Galaxy,0,29,1
+Jaluka,Watership Down,5,29,2
+Jaluka,The Five People You Meet in Heaven,0,29,3
+Jaluka,Speak,0,29,4
+Jaluka,I Know Why the Caged Bird Sings,0,29,5
+Jaluka,Thirteen Reasons Why,0,29,6
+Jaluka,Foundation Series,0,29,7
+Jaluka,The Sisterhood of the Travelling Pants,0,29,8
+Jaluka,A Great and Terrible Beauty,0,29,9
+Jaluka,The Da Vinci Code,3,29,10
+Jaluka,The Princess Diaries,0,29,11
+Jaluka,Ender's Game,0,29,12
+Jaluka,The Hunt for Red October,0,29,13
+Jaluka,The Hunger Games,0,29,14
+Jaluka,The Great Gatsby,0,29,15
+Jaluka,Ranger's Apprentice Series,0,29,16
+Jaluka,Inkheart,0,29,17
+Jaluka,Neuromancer,0,29,18
+Jaluka,Lord of the Flies,0,29,19
+Jaluka,The Princess Bride,0,29,20
+Jaluka,Dinotopia: A Land Apart from Time,0,29,21
+Jaluka,Far North,0,29,22
+Jaluka,Practical Magic,0,29,23
+Jaluka,Brave New World,4,29,24
+Jaluka,The Summer Tree,0,29,25
+Jaluka,Flowers For Algernon,0,29,26
+Jaluka,Owl in Love,0,29,27
+Jaluka,Naruto,0,29,28
+Jaluka,Bleach (graphic novel),0,29,29
+Jaluka,Kiss the Dust,0,29,30
+Jaluka,To Kill a Mockingbird,5,29,31
+Jaluka,The Lion the Witch and the Wardrobe,0,29,32
+Jaluka,The Bourne Series,0,29,33
+Jaluka,Life of Pi,0,29,34
+Jaluka,Breathless,0,29,35
+Jaluka,Twilight Series,0,29,36
+Jaluka,Sabriel,0,29,37
+Jaluka,Nineteen Eighty-Four (1984),4,29,38
+Jaluka,Eragon,0,29,39
+Jaluka,Hatchet,0,29,40
+Jaluka,My Sister's Keeper,0,29,41
+Jaluka,The Golden Compass,0,29,42
+Jaluka,Harry Potter Series,0,29,43
+Jaluka,Holes,0,29,44
+Jaluka,Shonen Jump Series,0,29,45
+Jaluka,The Shadow Club,0,29,46
+Jaluka,Bone Series,0,29,47
+Jaluka,Maus: A Survivor's Tale,0,29,48
+Jaluka,The Joy Luck Club,5,29,49
+Jaluka,The Lord of the Rings,0,29,50
+Jaluka,The Hobbit,0,29,51
+Jaluka,Shattered,0,29,52
+Jaluka,The War Of The Worlds,0,29,53
+Jaluka,Dealing with Dragons,0,29,54
+Jaluka,The Chrysalids,0,29,55
+Sanity,The Hitchhiker's Guide To The Galaxy,0,30,1
+Sanity,Watership Down,0,30,2
+Sanity,The Five People You Meet in Heaven,0,30,3
+Sanity,Speak,0,30,4
+Sanity,I Know Why the Caged Bird Sings,0,30,5
+Sanity,Thirteen Reasons Why,0,30,6
+Sanity,Foundation Series,0,30,7
+Sanity,The Sisterhood of the Travelling Pants,0,30,8
+Sanity,A Great and Terrible Beauty,0,30,9
+Sanity,The Da Vinci Code,0,30,10
+Sanity,The Princess Diaries,0,30,11
+Sanity,Ender's Game,0,30,12
+Sanity,The Hunt for Red October,0,30,13
+Sanity,The Hunger Games,0,30,14
+Sanity,The Great Gatsby,0,30,15
+Sanity,Ranger's Apprentice Series,0,30,16
+Sanity,Inkheart,0,30,17
+Sanity,Neuromancer,0,30,18
+Sanity,Lord of the Flies,5,30,19
+Sanity,The Princess Bride,0,30,20
+Sanity,Dinotopia: A Land Apart from Time,0,30,21
+Sanity,Far North,0,30,22
+Sanity,Practical Magic,0,30,23
+Sanity,Brave New World,0,30,24
+Sanity,The Summer Tree,0,30,25
+Sanity,Flowers For Algernon,0,30,26
+Sanity,Owl in Love,0,30,27
+Sanity,Naruto,0,30,28
+Sanity,Bleach (graphic novel),5,30,29
+Sanity,Kiss the Dust,0,30,30
+Sanity,To Kill a Mockingbird,0,30,31
+Sanity,The Lion the Witch and the Wardrobe,5,30,32
+Sanity,The Bourne Series,0,30,33
+Sanity,Life of Pi,4,30,34
+Sanity,Breathless,0,30,35
+Sanity,Twilight Series,0,30,36
+Sanity,Sabriel,0,30,37
+Sanity,Nineteen Eighty-Four (1984),0,30,38
+Sanity,Eragon,0,30,39
+Sanity,Hatchet,0,30,40
+Sanity,My Sister's Keeper,0,30,41
+Sanity,The Golden Compass,0,30,42
+Sanity,Harry Potter Series,5,30,43
+Sanity,Holes,0,30,44
+Sanity,Shonen Jump Series,0,30,45
+Sanity,The Shadow Club,0,30,46
+Sanity,Bone Series,0,30,47
+Sanity,Maus: A Survivor's Tale,0,30,48
+Sanity,The Joy Luck Club,0,30,49
+Sanity,The Lord of the Rings,0,30,50
+Sanity,The Hobbit,0,30,51
+Sanity,Shattered,0,30,52
+Sanity,The War Of The Worlds,0,30,53
+Sanity,Dealing with Dragons,0,30,54
+Sanity,The Chrysalids,0,30,55
+Brix,The Hitchhiker's Guide To The Galaxy,3,31,1
+Brix,Watership Down,0,31,2
+Brix,The Five People You Meet in Heaven,0,31,3
+Brix,Speak,0,31,4
+Brix,I Know Why the Caged Bird Sings,0,31,5
+Brix,Thirteen Reasons Why,0,31,6
+Brix,Foundation Series,0,31,7
+Brix,The Sisterhood of the Travelling Pants,0,31,8
+Brix,A Great and Terrible Beauty,0,31,9
+Brix,The Da Vinci Code,0,31,10
+Brix,The Princess Diaries,0,31,11
+Brix,Ender's Game,0,31,12
+Brix,The Hunt for Red October,0,31,13
+Brix,The Hunger Games,0,31,14
+Brix,The Great Gatsby,3,31,15
+Brix,Ranger's Apprentice Series,0,31,16
+Brix,Inkheart,0,31,17
+Brix,Neuromancer,0,31,18
+Brix,Lord of the Flies,3,31,19
+Brix,The Princess Bride,0,31,20
+Brix,Dinotopia: A Land Apart from Time,0,31,21
+Brix,Far North,0,31,22
+Brix,Practical Magic,0,31,23
+Brix,Brave New World,4,31,24
+Brix,The Summer Tree,0,31,25
+Brix,Flowers For Algernon,0,31,26
+Brix,Owl in Love,0,31,27
+Brix,Naruto,0,31,28
+Brix,Bleach (graphic novel),0,31,29
+Brix,Kiss the Dust,0,31,30
+Brix,To Kill a Mockingbird,2,31,31
+Brix,The Lion the Witch and the Wardrobe,0,31,32
+Brix,The Bourne Series,0,31,33
+Brix,Life of Pi,0,31,34
+Brix,Breathless,0,31,35
+Brix,Twilight Series,0,31,36
+Brix,Sabriel,0,31,37
+Brix,Nineteen Eighty-Four (1984),4,31,38
+Brix,Eragon,0,31,39
+Brix,Hatchet,0,31,40
+Brix,My Sister's Keeper,0,31,41
+Brix,The Golden Compass,0,31,42
+Brix,Harry Potter Series,0,31,43
+Brix,Holes,0,31,44
+Brix,Shonen Jump Series,0,31,45
+Brix,The Shadow Club,0,31,46
+Brix,Bone Series,0,31,47
+Brix,Maus: A Survivor's Tale,0,31,48
+Brix,The Joy Luck Club,0,31,49
+Brix,The Lord of the Rings,0,31,50
+Brix,The Hobbit,0,31,51
+Brix,Shattered,0,31,52
+Brix,The War Of The Worlds,0,31,53
+Brix,Dealing with Dragons,0,31,54
+Brix,The Chrysalids,4,31,55
+sage32,The Hitchhiker's Guide To The Galaxy,0,32,1
+sage32,Watership Down,0,32,2
+sage32,The Five People You Meet in Heaven,0,32,3
+sage32,Speak,0,32,4
+sage32,I Know Why the Caged Bird Sings,0,32,5
+sage32,Thirteen Reasons Why,0,32,6
+sage32,Foundation Series,0,32,7
+sage32,The Sisterhood of the Travelling Pants,2,32,8
+sage32,A Great and Terrible Beauty,0,32,9
+sage32,The Da Vinci Code,4,32,10
+sage32,The Princess Diaries,3,32,11
+sage32,Ender's Game,0,32,12
+sage32,The Hunt for Red October,0,32,13
+sage32,The Hunger Games,0,32,14
+sage32,The Great Gatsby,0,32,15
+sage32,Ranger's Apprentice Series,0,32,16
+sage32,Inkheart,0,32,17
+sage32,Neuromancer,0,32,18
+sage32,Lord of the Flies,4,32,19
+sage32,The Princess Bride,5,32,20
+sage32,Dinotopia: A Land Apart from Time,0,32,21
+sage32,Far North,0,32,22
+sage32,Practical Magic,0,32,23
+sage32,Brave New World,4,32,24
+sage32,The Summer Tree,0,32,25
+sage32,Flowers For Algernon,0,32,26
+sage32,Owl in Love,0,32,27
+sage32,Naruto,0,32,28
+sage32,Bleach (graphic novel),0,32,29
+sage32,Kiss the Dust,0,32,30
+sage32,To Kill a Mockingbird,4,32,31
+sage32,The Lion the Witch and the Wardrobe,0,32,32
+sage32,The Bourne Series,0,32,33
+sage32,Life of Pi,0,32,34
+sage32,Breathless,0,32,35
+sage32,Twilight Series,1,32,36
+sage32,Sabriel,0,32,37
+sage32,Nineteen Eighty-Four (1984),0,32,38
+sage32,Eragon,0,32,39
+sage32,Hatchet,3,32,40
+sage32,My Sister's Keeper,0,32,41
+sage32,The Golden Compass,0,32,42
+sage32,Harry Potter Series,5,32,43
+sage32,Holes,4,32,44
+sage32,Shonen Jump Series,4,32,45
+sage32,The Shadow Club,0,32,46
+sage32,Bone Series,0,32,47
+sage32,Maus: A Survivor's Tale,0,32,48
+sage32,The Joy Luck Club,3,32,49
+sage32,The Lord of the Rings,0,32,50
+sage32,The Hobbit,0,32,51
+sage32,Shattered,0,32,52
+sage32,The War Of The Worlds,0,32,53
+sage32,Dealing with Dragons,0,32,54
+sage32,The Chrysalids,5,32,55
+clipper,The Hitchhiker's Guide To The Galaxy,5,33,1
+clipper,Watership Down,0,33,2
+clipper,The Five People You Meet in Heaven,0,33,3
+clipper,Speak,0,33,4
+clipper,I Know Why the Caged Bird Sings,0,33,5
+clipper,Thirteen Reasons Why,0,33,6
+clipper,Foundation Series,0,33,7
+clipper,The Sisterhood of the Travelling Pants,3,33,8
+clipper,A Great and Terrible Beauty,4,33,9
+clipper,The Da Vinci Code,0,33,10
+clipper,The Princess Diaries,0,33,11
+clipper,Ender's Game,0,33,12
+clipper,The Hunt for Red October,0,33,13
+clipper,The Hunger Games,0,33,14
+clipper,The Great Gatsby,0,33,15
+clipper,Ranger's Apprentice Series,0,33,16
+clipper,Inkheart,0,33,17
+clipper,Neuromancer,0,33,18
+clipper,Lord of the Flies,2,33,19
+clipper,The Princess Bride,0,33,20
+clipper,Dinotopia: A Land Apart from Time,0,33,21
+clipper,Far North,0,33,22
+clipper,Practical Magic,0,33,23
+clipper,Brave New World,0,33,24
+clipper,The Summer Tree,0,33,25
+clipper,Flowers For Algernon,0,33,26
+clipper,Owl in Love,0,33,27
+clipper,Naruto,0,33,28
+clipper,Bleach (graphic novel),0,33,29
+clipper,Kiss the Dust,0,33,30
+clipper,To Kill a Mockingbird,3,33,31
+clipper,The Lion the Witch and the Wardrobe,5,33,32
+clipper,The Bourne Series,0,33,33
+clipper,Life of Pi,4,33,34
+clipper,Breathless,0,33,35
+clipper,Twilight Series,0,33,36
+clipper,Sabriel,0,33,37
+clipper,Nineteen Eighty-Four (1984),0,33,38
+clipper,Eragon,0,33,39
+clipper,Hatchet,0,33,40
+clipper,My Sister's Keeper,0,33,41
+clipper,The Golden Compass,5,33,42
+clipper,Harry Potter Series,5,33,43
+clipper,Holes,0,33,44
+clipper,Shonen Jump Series,0,33,45
+clipper,The Shadow Club,0,33,46
+clipper,Bone Series,0,33,47
+clipper,Maus: A Survivor's Tale,0,33,48
+clipper,The Joy Luck Club,4,33,49
+clipper,The Lord of the Rings,5,33,50
+clipper,The Hobbit,5,33,51
+clipper,Shattered,0,33,52
+clipper,The War Of The Worlds,0,33,53
+clipper,Dealing with Dragons,0,33,54
+clipper,The Chrysalids,0,33,55
+YJAM,The Hitchhiker's Guide To The Galaxy,0,34,1
+YJAM,Watership Down,0,34,2
+YJAM,The Five People You Meet in Heaven,0,34,3
+YJAM,Speak,0,34,4
+YJAM,I Know Why the Caged Bird Sings,0,34,5
+YJAM,Thirteen Reasons Why,0,34,6
+YJAM,Foundation Series,0,34,7
+YJAM,The Sisterhood of the Travelling Pants,0,34,8
+YJAM,A Great and Terrible Beauty,0,34,9
+YJAM,The Da Vinci Code,0,34,10
+YJAM,The Princess Diaries,0,34,11
+YJAM,Ender's Game,0,34,12
+YJAM,The Hunt for Red October,0,34,13
+YJAM,The Hunger Games,0,34,14
+YJAM,The Great Gatsby,0,34,15
+YJAM,Ranger's Apprentice Series,0,34,16
+YJAM,Inkheart,0,34,17
+YJAM,Neuromancer,0,34,18
+YJAM,Lord of the Flies,0,34,19
+YJAM,The Princess Bride,0,34,20
+YJAM,Dinotopia: A Land Apart from Time,0,34,21
+YJAM,Far North,0,34,22
+YJAM,Practical Magic,0,34,23
+YJAM,Brave New World,0,34,24
+YJAM,The Summer Tree,0,34,25
+YJAM,Flowers For Algernon,0,34,26
+YJAM,Owl in Love,0,34,27
+YJAM,Naruto,0,34,28
+YJAM,Bleach (graphic novel),0,34,29
+YJAM,Kiss the Dust,0,34,30
+YJAM,To Kill a Mockingbird,0,34,31
+YJAM,The Lion the Witch and the Wardrobe,3,34,32
+YJAM,The Bourne Series,0,34,33
+YJAM,Life of Pi,0,34,34
+YJAM,Breathless,0,34,35
+YJAM,Twilight Series,4,34,36
+YJAM,Sabriel,0,34,37
+YJAM,Nineteen Eighty-Four (1984),0,34,38
+YJAM,Eragon,4,34,39
+YJAM,Hatchet,0,34,40
+YJAM,My Sister's Keeper,0,34,41
+YJAM,The Golden Compass,0,34,42
+YJAM,Harry Potter Series,0,34,43
+YJAM,Holes,4,34,44
+YJAM,Shonen Jump Series,0,34,45
+YJAM,The Shadow Club,0,34,46
+YJAM,Bone Series,0,34,47
+YJAM,Maus: A Survivor's Tale,0,34,48
+YJAM,The Joy Luck Club,0,34,49
+YJAM,The Lord of the Rings,5,34,50
+YJAM,The Hobbit,5,34,51
+YJAM,Shattered,0,34,52
+YJAM,The War Of The Worlds,5,34,53
+YJAM,Dealing with Dragons,0,34,54
+YJAM,The Chrysalids,0,34,55
+Martin,The Hitchhiker's Guide To The Galaxy,3,35,1
+Martin,Watership Down,2,35,2
+Martin,The Five People You Meet in Heaven,0,35,3
+Martin,Speak,0,35,4
+Martin,I Know Why the Caged Bird Sings,0,35,5
+Martin,Thirteen Reasons Why,0,35,6
+Martin,Foundation Series,0,35,7
+Martin,The Sisterhood of the Travelling Pants,0,35,8
+Martin,A Great and Terrible Beauty,0,35,9
+Martin,The Da Vinci Code,0,35,10
+Martin,The Princess Diaries,0,35,11
+Martin,Ender's Game,4,35,12
+Martin,The Hunt for Red October,4,35,13
+Martin,The Hunger Games,0,35,14
+Martin,The Great Gatsby,2,35,15
+Martin,Ranger's Apprentice Series,0,35,16
+Martin,Inkheart,0,35,17
+Martin,Neuromancer,0,35,18
+Martin,Lord of the Flies,2,35,19
+Martin,The Princess Bride,0,35,20
+Martin,Dinotopia: A Land Apart from Time,0,35,21
+Martin,Far North,0,35,22
+Martin,Practical Magic,0,35,23
+Martin,Brave New World,0,35,24
+Martin,The Summer Tree,0,35,25
+Martin,Flowers For Algernon,0,35,26
+Martin,Owl in Love,0,35,27
+Martin,Naruto,0,35,28
+Martin,Bleach (graphic novel),0,35,29
+Martin,Kiss the Dust,0,35,30
+Martin,To Kill a Mockingbird,0,35,31
+Martin,The Lion the Witch and the Wardrobe,0,35,32
+Martin,The Bourne Series,0,35,33
+Martin,Life of Pi,0,35,34
+Martin,Breathless,0,35,35
+Martin,Twilight Series,0,35,36
+Martin,Sabriel,0,35,37
+Martin,Nineteen Eighty-Four (1984),2,35,38
+Martin,Eragon,2,35,39
+Martin,Hatchet,0,35,40
+Martin,My Sister's Keeper,0,35,41
+Martin,The Golden Compass,0,35,42
+Martin,Harry Potter Series,5,35,43
+Martin,Holes,0,35,44
+Martin,Shonen Jump Series,0,35,45
+Martin,The Shadow Club,0,35,46
+Martin,Bone Series,0,35,47
+Martin,Maus: A Survivor's Tale,0,35,48
+Martin,The Joy Luck Club,3,35,49
+Martin,The Lord of the Rings,4,35,50
+Martin,The Hobbit,5,35,51
+Martin,Shattered,0,35,52
+Martin,The War Of The Worlds,2,35,53
+Martin,Dealing with Dragons,0,35,54
+Martin,The Chrysalids,0,35,55
+Mike,The Hitchhiker's Guide To The Galaxy,5,36,1
+Mike,Watership Down,0,36,2
+Mike,The Five People You Meet in Heaven,0,36,3
+Mike,Speak,0,36,4
+Mike,I Know Why the Caged Bird Sings,0,36,5
+Mike,Thirteen Reasons Why,0,36,6
+Mike,Foundation Series,5,36,7
+Mike,The Sisterhood of the Travelling Pants,0,36,8
+Mike,A Great and Terrible Beauty,0,36,9
+Mike,The Da Vinci Code,3,36,10
+Mike,The Princess Diaries,0,36,11
+Mike,Ender's Game,5,36,12
+Mike,The Hunt for Red October,4,36,13
+Mike,The Hunger Games,0,36,14
+Mike,The Great Gatsby,0,36,15
+Mike,Ranger's Apprentice Series,0,36,16
+Mike,Inkheart,0,36,17
+Mike,Neuromancer,4,36,18
+Mike,Lord of the Flies,0,36,19
+Mike,The Princess Bride,0,36,20
+Mike,Dinotopia: A Land Apart from Time,0,36,21
+Mike,Far North,0,36,22
+Mike,Practical Magic,0,36,23
+Mike,Brave New World,4,36,24
+Mike,The Summer Tree,0,36,25
+Mike,Flowers For Algernon,5,36,26
+Mike,Owl in Love,0,36,27
+Mike,Naruto,0,36,28
+Mike,Bleach (graphic novel),0,36,29
+Mike,Kiss the Dust,0,36,30
+Mike,To Kill a Mockingbird,5,36,31
+Mike,The Lion the Witch and the Wardrobe,5,36,32
+Mike,The Bourne Series,5,36,33
+Mike,Life of Pi,4,36,34
+Mike,Breathless,0,36,35
+Mike,Twilight Series,0,36,36
+Mike,Sabriel,0,36,37
+Mike,Nineteen Eighty-Four (1984),4,36,38
+Mike,Eragon,0,36,39
+Mike,Hatchet,0,36,40
+Mike,My Sister's Keeper,0,36,41
+Mike,The Golden Compass,5,36,42
+Mike,Harry Potter Series,4,36,43
+Mike,Holes,0,36,44
+Mike,Shonen Jump Series,0,36,45
+Mike,The Shadow Club,0,36,46
+Mike,Bone Series,0,36,47
+Mike,Maus: A Survivor's Tale,5,36,48
+Mike,The Joy Luck Club,0,36,49
+Mike,The Lord of the Rings,5,36,50
+Mike,The Hobbit,4,36,51
+Mike,Shattered,0,36,52
+Mike,The War Of The Worlds,0,36,53
+Mike,Dealing with Dragons,0,36,54
+Mike,The Chrysalids,0,36,55
+Strongbad,The Hitchhiker's Guide To The Galaxy,5,37,1
+Strongbad,Watership Down,0,37,2
+Strongbad,The Five People You Meet in Heaven,2,37,3
+Strongbad,Speak,0,37,4
+Strongbad,I Know Why the Caged Bird Sings,2,37,5
+Strongbad,Thirteen Reasons Why,0,37,6
+Strongbad,Foundation Series,0,37,7
+Strongbad,The Sisterhood of the Travelling Pants,1,37,8
+Strongbad,A Great and Terrible Beauty,0,37,9
+Strongbad,The Da Vinci Code,0,37,10
+Strongbad,The Princess Diaries,0,37,11
+Strongbad,Ender's Game,0,37,12
+Strongbad,The Hunt for Red October,0,37,13
+Strongbad,The Hunger Games,0,37,14
+Strongbad,The Great Gatsby,0,37,15
+Strongbad,Ranger's Apprentice Series,0,37,16
+Strongbad,Inkheart,0,37,17
+Strongbad,Neuromancer,0,37,18
+Strongbad,Lord of the Flies,0,37,19
+Strongbad,The Princess Bride,0,37,20
+Strongbad,Dinotopia: A Land Apart from Time,0,37,21
+Strongbad,Far North,0,37,22
+Strongbad,Practical Magic,0,37,23
+Strongbad,Brave New World,1,37,24
+Strongbad,The Summer Tree,0,37,25
+Strongbad,Flowers For Algernon,0,37,26
+Strongbad,Owl in Love,0,37,27
+Strongbad,Naruto,0,37,28
+Strongbad,Bleach (graphic novel),0,37,29
+Strongbad,Kiss the Dust,0,37,30
+Strongbad,To Kill a Mockingbird,0,37,31
+Strongbad,The Lion the Witch and the Wardrobe,4,37,32
+Strongbad,The Bourne Series,0,37,33
+Strongbad,Life of Pi,4,37,34
+Strongbad,Breathless,0,37,35
+Strongbad,Twilight Series,0,37,36
+Strongbad,Sabriel,0,37,37
+Strongbad,Nineteen Eighty-Four (1984),1,37,38
+Strongbad,Eragon,0,37,39
+Strongbad,Hatchet,3,37,40
+Strongbad,My Sister's Keeper,0,37,41
+Strongbad,The Golden Compass,5,37,42
+Strongbad,Harry Potter Series,5,37,43
+Strongbad,Holes,3,37,44
+Strongbad,Shonen Jump Series,0,37,45
+Strongbad,The Shadow Club,0,37,46
+Strongbad,Bone Series,0,37,47
+Strongbad,Maus: A Survivor's Tale,5,37,48
+Strongbad,The Joy Luck Club,0,37,49
+Strongbad,The Lord of the Rings,3,37,50
+Strongbad,The Hobbit,3,37,51
+Strongbad,Shattered,0,37,52
+Strongbad,The War Of The Worlds,0,37,53
+Strongbad,Dealing with Dragons,0,37,54
+Strongbad,The Chrysalids,4,37,55
+Brian,The Hitchhiker's Guide To The Galaxy,5,38,1
+Brian,Watership Down,0,38,2
+Brian,The Five People You Meet in Heaven,0,38,3
+Brian,Speak,0,38,4
+Brian,I Know Why the Caged Bird Sings,0,38,5
+Brian,Thirteen Reasons Why,0,38,6
+Brian,Foundation Series,0,38,7
+Brian,The Sisterhood of the Travelling Pants,0,38,8
+Brian,A Great and Terrible Beauty,0,38,9
+Brian,The Da Vinci Code,4,38,10
+Brian,The Princess Diaries,0,38,11
+Brian,Ender's Game,0,38,12
+Brian,The Hunt for Red October,0,38,13
+Brian,The Hunger Games,0,38,14
+Brian,The Great Gatsby,5,38,15
+Brian,Ranger's Apprentice Series,0,38,16
+Brian,Inkheart,0,38,17
+Brian,Neuromancer,0,38,18
+Brian,Lord of the Flies,0,38,19
+Brian,The Princess Bride,5,38,20
+Brian,Dinotopia: A Land Apart from Time,0,38,21
+Brian,Far North,0,38,22
+Brian,Practical Magic,0,38,23
+Brian,Brave New World,5,38,24
+Brian,The Summer Tree,0,38,25
+Brian,Flowers For Algernon,4,38,26
+Brian,Owl in Love,0,38,27
+Brian,Naruto,0,38,28
+Brian,Bleach (graphic novel),0,38,29
+Brian,Kiss the Dust,0,38,30
+Brian,To Kill a Mockingbird,3,38,31
+Brian,The Lion the Witch and the Wardrobe,0,38,32
+Brian,The Bourne Series,0,38,33
+Brian,Life of Pi,0,38,34
+Brian,Breathless,0,38,35
+Brian,Twilight Series,3,38,36
+Brian,Sabriel,0,38,37
+Brian,Nineteen Eighty-Four (1984),5,38,38
+Brian,Eragon,4,38,39
+Brian,Hatchet,5,38,40
+Brian,My Sister's Keeper,0,38,41
+Brian,The Golden Compass,0,38,42
+Brian,Harry Potter Series,5,38,43
+Brian,Holes,4,38,44
+Brian,Shonen Jump Series,0,38,45
+Brian,The Shadow Club,0,38,46
+Brian,Bone Series,0,38,47
+Brian,Maus: A Survivor's Tale,0,38,48
+Brian,The Joy Luck Club,0,38,49
+Brian,The Lord of the Rings,4,38,50
+Brian,The Hobbit,5,38,51
+Brian,Shattered,0,38,52
+Brian,The War Of The Worlds,0,38,53
+Brian,Dealing with Dragons,0,38,54
+Brian,The Chrysalids,0,38,55
+Douglas Anderson,The Hitchhiker's Guide To The Galaxy,5,39,1
+Douglas Anderson,Watership Down,0,39,2
+Douglas Anderson,The Five People You Meet in Heaven,0,39,3
+Douglas Anderson,Speak,0,39,4
+Douglas Anderson,I Know Why the Caged Bird Sings,0,39,5
+Douglas Anderson,Thirteen Reasons Why,0,39,6
+Douglas Anderson,Foundation Series,0,39,7
+Douglas Anderson,The Sisterhood of the Travelling Pants,0,39,8
+Douglas Anderson,A Great and Terrible Beauty,0,39,9
+Douglas Anderson,The Da Vinci Code,4,39,10
+Douglas Anderson,The Princess Diaries,0,39,11
+Douglas Anderson,Ender's Game,0,39,12
+Douglas Anderson,The Hunt for Red October,0,39,13
+Douglas Anderson,The Hunger Games,0,39,14
+Douglas Anderson,The Great Gatsby,5,39,15
+Douglas Anderson,Ranger's Apprentice Series,0,39,16
+Douglas Anderson,Inkheart,0,39,17
+Douglas Anderson,Neuromancer,0,39,18
+Douglas Anderson,Lord of the Flies,0,39,19
+Douglas Anderson,The Princess Bride,5,39,20
+Douglas Anderson,Dinotopia: A Land Apart from Time,0,39,21
+Douglas Anderson,Far North,0,39,22
+Douglas Anderson,Practical Magic,0,39,23
+Douglas Anderson,Brave New World,5,39,24
+Douglas Anderson,The Summer Tree,0,39,25
+Douglas Anderson,Flowers For Algernon,4,39,26
+Douglas Anderson,Owl in Love,0,39,27
+Douglas Anderson,Naruto,0,39,28
+Douglas Anderson,Bleach (graphic novel),0,39,29
+Douglas Anderson,Kiss the Dust,0,39,30
+Douglas Anderson,To Kill a Mockingbird,3,39,31
+Douglas Anderson,The Lion the Witch and the Wardrobe,0,39,32
+Douglas Anderson,The Bourne Series,0,39,33
+Douglas Anderson,Life of Pi,0,39,34
+Douglas Anderson,Breathless,0,39,35
+Douglas Anderson,Twilight Series,3,39,36
+Douglas Anderson,Sabriel,0,39,37
+Douglas Anderson,Nineteen Eighty-Four (1984),5,39,38
+Douglas Anderson,Eragon,4,39,39
+Douglas Anderson,Hatchet,5,39,40
+Douglas Anderson,My Sister's Keeper,0,39,41
+Douglas Anderson,The Golden Compass,0,39,42
+Douglas Anderson,Harry Potter Series,5,39,43
+Douglas Anderson,Holes,4,39,44
+Douglas Anderson,Shonen Jump Series,0,39,45
+Douglas Anderson,The Shadow Club,0,39,46
+Douglas Anderson,Bone Series,0,39,47
+Douglas Anderson,Maus: A Survivor's Tale,0,39,48
+Douglas Anderson,The Joy Luck Club,0,39,49
+Douglas Anderson,The Lord of the Rings,4,39,50
+Douglas Anderson,The Hobbit,5,39,51
+Douglas Anderson,Shattered,0,39,52
+Douglas Anderson,The War Of The Worlds,0,39,53
+Douglas Anderson,Dealing with Dragons,0,39,54
+Douglas Anderson,The Chrysalids,0,39,55
+chrispeh,The Hitchhiker's Guide To The Galaxy,0,40,1
+chrispeh,Watership Down,0,40,2
+chrispeh,The Five People You Meet in Heaven,0,40,3
+chrispeh,Speak,0,40,4
+chrispeh,I Know Why the Caged Bird Sings,0,40,5
+chrispeh,Thirteen Reasons Why,0,40,6
+chrispeh,Foundation Series,0,40,7
+chrispeh,The Sisterhood of the Travelling Pants,0,40,8
+chrispeh,A Great and Terrible Beauty,0,40,9
+chrispeh,The Da Vinci Code,0,40,10
+chrispeh,The Princess Diaries,0,40,11
+chrispeh,Ender's Game,0,40,12
+chrispeh,The Hunt for Red October,0,40,13
+chrispeh,The Hunger Games,0,40,14
+chrispeh,The Great Gatsby,0,40,15
+chrispeh,Ranger's Apprentice Series,0,40,16
+chrispeh,Inkheart,0,40,17
+chrispeh,Neuromancer,0,40,18
+chrispeh,Lord of the Flies,0,40,19
+chrispeh,The Princess Bride,0,40,20
+chrispeh,Dinotopia: A Land Apart from Time,0,40,21
+chrispeh,Far North,0,40,22
+chrispeh,Practical Magic,0,40,23
+chrispeh,Brave New World,0,40,24
+chrispeh,The Summer Tree,0,40,25
+chrispeh,Flowers For Algernon,0,40,26
+chrispeh,Owl in Love,0,40,27
+chrispeh,Naruto,0,40,28
+chrispeh,Bleach (graphic novel),0,40,29
+chrispeh,Kiss the Dust,0,40,30
+chrispeh,To Kill a Mockingbird,4,40,31
+chrispeh,The Lion the Witch and the Wardrobe,0,40,32
+chrispeh,The Bourne Series,0,40,33
+chrispeh,Life of Pi,1,40,34
+chrispeh,Breathless,0,40,35
+chrispeh,Twilight Series,0,40,36
+chrispeh,Sabriel,0,40,37
+chrispeh,Nineteen Eighty-Four (1984),0,40,38
+chrispeh,Eragon,0,40,39
+chrispeh,Hatchet,0,40,40
+chrispeh,My Sister's Keeper,0,40,41
+chrispeh,The Golden Compass,0,40,42
+chrispeh,Harry Potter Series,0,40,43
+chrispeh,Holes,0,40,44
+chrispeh,Shonen Jump Series,0,40,45
+chrispeh,The Shadow Club,0,40,46
+chrispeh,Bone Series,0,40,47
+chrispeh,Maus: A Survivor's Tale,0,40,48
+chrispeh,The Joy Luck Club,0,40,49
+chrispeh,The Lord of the Rings,0,40,50
+chrispeh,The Hobbit,0,40,51
+chrispeh,Shattered,0,40,52
+chrispeh,The War Of The Worlds,0,40,53
+chrispeh,Dealing with Dragons,0,40,54
+chrispeh,The Chrysalids,0,40,55
+Rudy A,The Hitchhiker's Guide To The Galaxy,0,41,1
+Rudy A,Watership Down,0,41,2
+Rudy A,The Five People You Meet in Heaven,0,41,3
+Rudy A,Speak,0,41,4
+Rudy A,I Know Why the Caged Bird Sings,0,41,5
+Rudy A,Thirteen Reasons Why,0,41,6
+Rudy A,Foundation Series,0,41,7
+Rudy A,The Sisterhood of the Travelling Pants,0,41,8
+Rudy A,A Great and Terrible Beauty,0,41,9
+Rudy A,The Da Vinci Code,0,41,10
+Rudy A,The Princess Diaries,0,41,11
+Rudy A,Ender's Game,0,41,12
+Rudy A,The Hunt for Red October,0,41,13
+Rudy A,The Hunger Games,0,41,14
+Rudy A,The Great Gatsby,0,41,15
+Rudy A,Ranger's Apprentice Series,0,41,16
+Rudy A,Inkheart,0,41,17
+Rudy A,Neuromancer,0,41,18
+Rudy A,Lord of the Flies,0,41,19
+Rudy A,The Princess Bride,0,41,20
+Rudy A,Dinotopia: A Land Apart from Time,0,41,21
+Rudy A,Far North,0,41,22
+Rudy A,Practical Magic,0,41,23
+Rudy A,Brave New World,0,41,24
+Rudy A,The Summer Tree,0,41,25
+Rudy A,Flowers For Algernon,0,41,26
+Rudy A,Owl in Love,0,41,27
+Rudy A,Naruto,0,41,28
+Rudy A,Bleach (graphic novel),0,41,29
+Rudy A,Kiss the Dust,0,41,30
+Rudy A,To Kill a Mockingbird,4,41,31
+Rudy A,The Lion the Witch and the Wardrobe,0,41,32
+Rudy A,The Bourne Series,0,41,33
+Rudy A,Life of Pi,3,41,34
+Rudy A,Breathless,0,41,35
+Rudy A,Twilight Series,0,41,36
+Rudy A,Sabriel,0,41,37
+Rudy A,Nineteen Eighty-Four (1984),0,41,38
+Rudy A,Eragon,0,41,39
+Rudy A,Hatchet,5,41,40
+Rudy A,My Sister's Keeper,0,41,41
+Rudy A,The Golden Compass,0,41,42
+Rudy A,Harry Potter Series,4,41,43
+Rudy A,Holes,0,41,44
+Rudy A,Shonen Jump Series,0,41,45
+Rudy A,The Shadow Club,0,41,46
+Rudy A,Bone Series,0,41,47
+Rudy A,Maus: A Survivor's Tale,0,41,48
+Rudy A,The Joy Luck Club,0,41,49
+Rudy A,The Lord of the Rings,0,41,50
+Rudy A,The Hobbit,0,41,51
+Rudy A,Shattered,0,41,52
+Rudy A,The War Of The Worlds,0,41,53
+Rudy A,Dealing with Dragons,0,41,54
+Rudy A,The Chrysalids,0,41,55
+McLovin,The Hitchhiker's Guide To The Galaxy,0,42,1
+McLovin,Watership Down,0,42,2
+McLovin,The Five People You Meet in Heaven,0,42,3
+McLovin,Speak,0,42,4
+McLovin,I Know Why the Caged Bird Sings,0,42,5
+McLovin,Thirteen Reasons Why,0,42,6
+McLovin,Foundation Series,0,42,7
+McLovin,The Sisterhood of the Travelling Pants,0,42,8
+McLovin,A Great and Terrible Beauty,0,42,9
+McLovin,The Da Vinci Code,4,42,10
+McLovin,The Princess Diaries,0,42,11
+McLovin,Ender's Game,0,42,12
+McLovin,The Hunt for Red October,0,42,13
+McLovin,The Hunger Games,0,42,14
+McLovin,The Great Gatsby,0,42,15
+McLovin,Ranger's Apprentice Series,0,42,16
+McLovin,Inkheart,0,42,17
+McLovin,Neuromancer,0,42,18
+McLovin,Lord of the Flies,5,42,19
+McLovin,The Princess Bride,0,42,20
+McLovin,Dinotopia: A Land Apart from Time,0,42,21
+McLovin,Far North,0,42,22
+McLovin,Practical Magic,0,42,23
+McLovin,Brave New World,0,42,24
+McLovin,The Summer Tree,0,42,25
+McLovin,Flowers For Algernon,0,42,26
+McLovin,Owl in Love,0,42,27
+McLovin,Naruto,0,42,28
+McLovin,Bleach (graphic novel),0,42,29
+McLovin,Kiss the Dust,0,42,30
+McLovin,To Kill a Mockingbird,1,42,31
+McLovin,The Lion the Witch and the Wardrobe,4,42,32
+McLovin,The Bourne Series,0,42,33
+McLovin,Life of Pi,1,42,34
+McLovin,Breathless,0,42,35
+McLovin,Twilight Series,0,42,36
+McLovin,Sabriel,0,42,37
+McLovin,Nineteen Eighty-Four (1984),0,42,38
+McLovin,Eragon,0,42,39
+McLovin,Hatchet,0,42,40
+McLovin,My Sister's Keeper,0,42,41
+McLovin,The Golden Compass,0,42,42
+McLovin,Harry Potter Series,2,42,43
+McLovin,Holes,0,42,44
+McLovin,Shonen Jump Series,0,42,45
+McLovin,The Shadow Club,0,42,46
+McLovin,Bone Series,0,42,47
+McLovin,Maus: A Survivor's Tale,0,42,48
+McLovin,The Joy Luck Club,0,42,49
+McLovin,The Lord of the Rings,4,42,50
+McLovin,The Hobbit,0,42,51
+McLovin,Shattered,0,42,52
+McLovin,The War Of The Worlds,0,42,53
+McLovin,Dealing with Dragons,0,42,54
+McLovin,The Chrysalids,0,42,55
+Mike Williams,The Hitchhiker's Guide To The Galaxy,4,43,1
+Mike Williams,Watership Down,0,43,2
+Mike Williams,The Five People You Meet in Heaven,5,43,3
+Mike Williams,Speak,0,43,4
+Mike Williams,I Know Why the Caged Bird Sings,0,43,5
+Mike Williams,Thirteen Reasons Why,0,43,6
+Mike Williams,Foundation Series,5,43,7
+Mike Williams,The Sisterhood of the Travelling Pants,0,43,8
+Mike Williams,A Great and Terrible Beauty,0,43,9
+Mike Williams,The Da Vinci Code,5,43,10
+Mike Williams,The Princess Diaries,0,43,11
+Mike Williams,Ender's Game,5,43,12
+Mike Williams,The Hunt for Red October,0,43,13
+Mike Williams,The Hunger Games,5,43,14
+Mike Williams,The Great Gatsby,0,43,15
+Mike Williams,Ranger's Apprentice Series,0,43,16
+Mike Williams,Inkheart,4,43,17
+Mike Williams,Neuromancer,0,43,18
+Mike Williams,Lord of the Flies,4,43,19
+Mike Williams,The Princess Bride,0,43,20
+Mike Williams,Dinotopia: A Land Apart from Time,0,43,21
+Mike Williams,Far North,0,43,22
+Mike Williams,Practical Magic,0,43,23
+Mike Williams,Brave New World,0,43,24
+Mike Williams,The Summer Tree,0,43,25
+Mike Williams,Flowers For Algernon,0,43,26
+Mike Williams,Owl in Love,0,43,27
+Mike Williams,Naruto,0,43,28
+Mike Williams,Bleach (graphic novel),0,43,29
+Mike Williams,Kiss the Dust,0,43,30
+Mike Williams,To Kill a Mockingbird,3,43,31
+Mike Williams,The Lion the Witch and the Wardrobe,3,43,32
+Mike Williams,The Bourne Series,0,43,33
+Mike Williams,Life of Pi,5,43,34
+Mike Williams,Breathless,0,43,35
+Mike Williams,Twilight Series,4,43,36
+Mike Williams,Sabriel,0,43,37
+Mike Williams,Nineteen Eighty-Four (1984),0,43,38
+Mike Williams,Eragon,5,43,39
+Mike Williams,Hatchet,5,43,40
+Mike Williams,My Sister's Keeper,0,43,41
+Mike Williams,The Golden Compass,5,43,42
+Mike Williams,Harry Potter Series,5,43,43
+Mike Williams,Holes,4,43,44
+Mike Williams,Shonen Jump Series,0,43,45
+Mike Williams,The Shadow Club,0,43,46
+Mike Williams,Bone Series,0,43,47
+Mike Williams,Maus: A Survivor's Tale,0,43,48
+Mike Williams,The Joy Luck Club,0,43,49
+Mike Williams,The Lord of the Rings,3,43,50
+Mike Williams,The Hobbit,2,43,51
+Mike Williams,Shattered,0,43,52
+Mike Williams,The War Of The Worlds,0,43,53
+Mike Williams,Dealing with Dragons,0,43,54
+Mike Williams,The Chrysalids,0,43,55
+Dude,The Hitchhiker's Guide To The Galaxy,0,44,1
+Dude,Watership Down,0,44,2
+Dude,The Five People You Meet in Heaven,0,44,3
+Dude,Speak,0,44,4
+Dude,I Know Why the Caged Bird Sings,0,44,5
+Dude,Thirteen Reasons Why,0,44,6
+Dude,Foundation Series,0,44,7
+Dude,The Sisterhood of the Travelling Pants,0,44,8
+Dude,A Great and Terrible Beauty,0,44,9
+Dude,The Da Vinci Code,0,44,10
+Dude,The Princess Diaries,0,44,11
+Dude,Ender's Game,0,44,12
+Dude,The Hunt for Red October,0,44,13
+Dude,The Hunger Games,0,44,14
+Dude,The Great Gatsby,0,44,15
+Dude,Ranger's Apprentice Series,0,44,16
+Dude,Inkheart,4,44,17
+Dude,Neuromancer,0,44,18
+Dude,Lord of the Flies,0,44,19
+Dude,The Princess Bride,0,44,20
+Dude,Dinotopia: A Land Apart from Time,0,44,21
+Dude,Far North,0,44,22
+Dude,Practical Magic,0,44,23
+Dude,Brave New World,0,44,24
+Dude,The Summer Tree,0,44,25
+Dude,Flowers For Algernon,0,44,26
+Dude,Owl in Love,0,44,27
+Dude,Naruto,0,44,28
+Dude,Bleach (graphic novel),0,44,29
+Dude,Kiss the Dust,0,44,30
+Dude,To Kill a Mockingbird,4,44,31
+Dude,The Lion the Witch and the Wardrobe,0,44,32
+Dude,The Bourne Series,0,44,33
+Dude,Life of Pi,0,44,34
+Dude,Breathless,0,44,35
+Dude,Twilight Series,0,44,36
+Dude,Sabriel,0,44,37
+Dude,Nineteen Eighty-Four (1984),0,44,38
+Dude,Eragon,0,44,39
+Dude,Hatchet,0,44,40
+Dude,My Sister's Keeper,0,44,41
+Dude,The Golden Compass,0,44,42
+Dude,Harry Potter Series,4,44,43
+Dude,Holes,4,44,44
+Dude,Shonen Jump Series,0,44,45
+Dude,The Shadow Club,0,44,46
+Dude,Bone Series,5,44,47
+Dude,Maus: A Survivor's Tale,0,44,48
+Dude,The Joy Luck Club,0,44,49
+Dude,The Lord of the Rings,0,44,50
+Dude,The Hobbit,2,44,51
+Dude,Shattered,0,44,52
+Dude,The War Of The Worlds,0,44,53
+Dude,Dealing with Dragons,0,44,54
+Dude,The Chrysalids,0,44,55
+Hideo,The Hitchhiker's Guide To The Galaxy,0,45,1
+Hideo,Watership Down,0,45,2
+Hideo,The Five People You Meet in Heaven,2,45,3
+Hideo,Speak,0,45,4
+Hideo,I Know Why the Caged Bird Sings,0,45,5
+Hideo,Thirteen Reasons Why,0,45,6
+Hideo,Foundation Series,0,45,7
+Hideo,The Sisterhood of the Travelling Pants,0,45,8
+Hideo,A Great and Terrible Beauty,0,45,9
+Hideo,The Da Vinci Code,0,45,10
+Hideo,The Princess Diaries,0,45,11
+Hideo,Ender's Game,0,45,12
+Hideo,The Hunt for Red October,0,45,13
+Hideo,The Hunger Games,0,45,14
+Hideo,The Great Gatsby,0,45,15
+Hideo,Ranger's Apprentice Series,3,45,16
+Hideo,Inkheart,0,45,17
+Hideo,Neuromancer,0,45,18
+Hideo,Lord of the Flies,0,45,19
+Hideo,The Princess Bride,0,45,20
+Hideo,Dinotopia: A Land Apart from Time,0,45,21
+Hideo,Far North,0,45,22
+Hideo,Practical Magic,0,45,23
+Hideo,Brave New World,0,45,24
+Hideo,The Summer Tree,0,45,25
+Hideo,Flowers For Algernon,0,45,26
+Hideo,Owl in Love,0,45,27
+Hideo,Naruto,0,45,28
+Hideo,Bleach (graphic novel),0,45,29
+Hideo,Kiss the Dust,0,45,30
+Hideo,To Kill a Mockingbird,3,45,31
+Hideo,The Lion the Witch and the Wardrobe,4,45,32
+Hideo,The Bourne Series,0,45,33
+Hideo,Life of Pi,1,45,34
+Hideo,Breathless,0,45,35
+Hideo,Twilight Series,0,45,36
+Hideo,Sabriel,0,45,37
+Hideo,Nineteen Eighty-Four (1984),0,45,38
+Hideo,Eragon,5,45,39
+Hideo,Hatchet,0,45,40
+Hideo,My Sister's Keeper,0,45,41
+Hideo,The Golden Compass,0,45,42
+Hideo,Harry Potter Series,5,45,43
+Hideo,Holes,5,45,44
+Hideo,Shonen Jump Series,0,45,45
+Hideo,The Shadow Club,0,45,46
+Hideo,Bone Series,0,45,47
+Hideo,Maus: A Survivor's Tale,0,45,48
+Hideo,The Joy Luck Club,0,45,49
+Hideo,The Lord of the Rings,5,45,50
+Hideo,The Hobbit,5,45,51
+Hideo,Shattered,0,45,52
+Hideo,The War Of The Worlds,0,45,53
+Hideo,Dealing with Dragons,0,45,54
+Hideo,The Chrysalids,0,45,55
+Rudy Ann,The Hitchhiker's Guide To The Galaxy,0,46,1
+Rudy Ann,Watership Down,0,46,2
+Rudy Ann,The Five People You Meet in Heaven,0,46,3
+Rudy Ann,Speak,0,46,4
+Rudy Ann,I Know Why the Caged Bird Sings,0,46,5
+Rudy Ann,Thirteen Reasons Why,0,46,6
+Rudy Ann,Foundation Series,0,46,7
+Rudy Ann,The Sisterhood of the Travelling Pants,0,46,8
+Rudy Ann,A Great and Terrible Beauty,0,46,9
+Rudy Ann,The Da Vinci Code,0,46,10
+Rudy Ann,The Princess Diaries,0,46,11
+Rudy Ann,Ender's Game,0,46,12
+Rudy Ann,The Hunt for Red October,0,46,13
+Rudy Ann,The Hunger Games,0,46,14
+Rudy Ann,The Great Gatsby,0,46,15
+Rudy Ann,Ranger's Apprentice Series,0,46,16
+Rudy Ann,Inkheart,0,46,17
+Rudy Ann,Neuromancer,0,46,18
+Rudy Ann,Lord of the Flies,0,46,19
+Rudy Ann,The Princess Bride,0,46,20
+Rudy Ann,Dinotopia: A Land Apart from Time,0,46,21
+Rudy Ann,Far North,0,46,22
+Rudy Ann,Practical Magic,0,46,23
+Rudy Ann,Brave New World,0,46,24
+Rudy Ann,The Summer Tree,0,46,25
+Rudy Ann,Flowers For Algernon,0,46,26
+Rudy Ann,Owl in Love,0,46,27
+Rudy Ann,Naruto,0,46,28
+Rudy Ann,Bleach (graphic novel),0,46,29
+Rudy Ann,Kiss the Dust,0,46,30
+Rudy Ann,To Kill a Mockingbird,2,46,31
+Rudy Ann,The Lion the Witch and the Wardrobe,0,46,32
+Rudy Ann,The Bourne Series,0,46,33
+Rudy Ann,Life of Pi,1,46,34
+Rudy Ann,Breathless,0,46,35
+Rudy Ann,Twilight Series,0,46,36
+Rudy Ann,Sabriel,0,46,37
+Rudy Ann,Nineteen Eighty-Four (1984),0,46,38
+Rudy Ann,Eragon,0,46,39
+Rudy Ann,Hatchet,3,46,40
+Rudy Ann,My Sister's Keeper,0,46,41
+Rudy Ann,The Golden Compass,0,46,42
+Rudy Ann,Harry Potter Series,4,46,43
+Rudy Ann,Holes,3,46,44
+Rudy Ann,Shonen Jump Series,0,46,45
+Rudy Ann,The Shadow Club,0,46,46
+Rudy Ann,Bone Series,0,46,47
+Rudy Ann,Maus: A Survivor's Tale,0,46,48
+Rudy Ann,The Joy Luck Club,0,46,49
+Rudy Ann,The Lord of the Rings,0,46,50
+Rudy Ann,The Hobbit,0,46,51
+Rudy Ann,Shattered,0,46,52
+Rudy Ann,The War Of The Worlds,0,46,53
+Rudy Ann,Dealing with Dragons,0,46,54
+Rudy Ann,The Chrysalids,0,46,55
+Don Wang,The Hitchhiker's Guide To The Galaxy,0,47,1
+Don Wang,Watership Down,0,47,2
+Don Wang,The Five People You Meet in Heaven,0,47,3
+Don Wang,Speak,0,47,4
+Don Wang,I Know Why the Caged Bird Sings,0,47,5
+Don Wang,Thirteen Reasons Why,0,47,6
+Don Wang,Foundation Series,0,47,7
+Don Wang,The Sisterhood of the Travelling Pants,0,47,8
+Don Wang,A Great and Terrible Beauty,0,47,9
+Don Wang,The Da Vinci Code,0,47,10
+Don Wang,The Princess Diaries,0,47,11
+Don Wang,Ender's Game,0,47,12
+Don Wang,The Hunt for Red October,0,47,13
+Don Wang,The Hunger Games,0,47,14
+Don Wang,The Great Gatsby,0,47,15
+Don Wang,Ranger's Apprentice Series,0,47,16
+Don Wang,Inkheart,0,47,17
+Don Wang,Neuromancer,0,47,18
+Don Wang,Lord of the Flies,0,47,19
+Don Wang,The Princess Bride,0,47,20
+Don Wang,Dinotopia: A Land Apart from Time,0,47,21
+Don Wang,Far North,0,47,22
+Don Wang,Practical Magic,0,47,23
+Don Wang,Brave New World,0,47,24
+Don Wang,The Summer Tree,0,47,25
+Don Wang,Flowers For Algernon,0,47,26
+Don Wang,Owl in Love,0,47,27
+Don Wang,Naruto,0,47,28
+Don Wang,Bleach (graphic novel),0,47,29
+Don Wang,Kiss the Dust,0,47,30
+Don Wang,To Kill a Mockingbird,3,47,31
+Don Wang,The Lion the Witch and the Wardrobe,0,47,32
+Don Wang,The Bourne Series,0,47,33
+Don Wang,Life of Pi,3,47,34
+Don Wang,Breathless,0,47,35
+Don Wang,Twilight Series,0,47,36
+Don Wang,Sabriel,0,47,37
+Don Wang,Nineteen Eighty-Four (1984),0,47,38
+Don Wang,Eragon,4,47,39
+Don Wang,Hatchet,0,47,40
+Don Wang,My Sister's Keeper,0,47,41
+Don Wang,The Golden Compass,0,47,42
+Don Wang,Harry Potter Series,4,47,43
+Don Wang,Holes,4,47,44
+Don Wang,Shonen Jump Series,0,47,45
+Don Wang,The Shadow Club,0,47,46
+Don Wang,Bone Series,0,47,47
+Don Wang,Maus: A Survivor's Tale,0,47,48
+Don Wang,The Joy Luck Club,0,47,49
+Don Wang,The Lord of the Rings,0,47,50
+Don Wang,The Hobbit,4,47,51
+Don Wang,Shattered,0,47,52
+Don Wang,The War Of The Worlds,0,47,53
+Don Wang,Dealing with Dragons,0,47,54
+Don Wang,The Chrysalids,0,47,55
+Anna-Carol,The Hitchhiker's Guide To The Galaxy,0,48,1
+Anna-Carol,Watership Down,0,48,2
+Anna-Carol,The Five People You Meet in Heaven,4,48,3
+Anna-Carol,Speak,0,48,4
+Anna-Carol,I Know Why the Caged Bird Sings,0,48,5
+Anna-Carol,Thirteen Reasons Why,0,48,6
+Anna-Carol,Foundation Series,0,48,7
+Anna-Carol,The Sisterhood of the Travelling Pants,3,48,8
+Anna-Carol,A Great and Terrible Beauty,0,48,9
+Anna-Carol,The Da Vinci Code,0,48,10
+Anna-Carol,The Princess Diaries,0,48,11
+Anna-Carol,Ender's Game,0,48,12
+Anna-Carol,The Hunt for Red October,0,48,13
+Anna-Carol,The Hunger Games,0,48,14
+Anna-Carol,The Great Gatsby,0,48,15
+Anna-Carol,Ranger's Apprentice Series,0,48,16
+Anna-Carol,Inkheart,0,48,17
+Anna-Carol,Neuromancer,0,48,18
+Anna-Carol,Lord of the Flies,0,48,19
+Anna-Carol,The Princess Bride,0,48,20
+Anna-Carol,Dinotopia: A Land Apart from Time,0,48,21
+Anna-Carol,Far North,0,48,22
+Anna-Carol,Practical Magic,0,48,23
+Anna-Carol,Brave New World,0,48,24
+Anna-Carol,The Summer Tree,0,48,25
+Anna-Carol,Flowers For Algernon,0,48,26
+Anna-Carol,Owl in Love,0,48,27
+Anna-Carol,Naruto,0,48,28
+Anna-Carol,Bleach (graphic novel),0,48,29
+Anna-Carol,Kiss the Dust,0,48,30
+Anna-Carol,To Kill a Mockingbird,3,48,31
+Anna-Carol,The Lion the Witch and the Wardrobe,4,48,32
+Anna-Carol,The Bourne Series,0,48,33
+Anna-Carol,Life of Pi,0,48,34
+Anna-Carol,Breathless,0,48,35
+Anna-Carol,Twilight Series,5,48,36
+Anna-Carol,Sabriel,0,48,37
+Anna-Carol,Nineteen Eighty-Four (1984),0,48,38
+Anna-Carol,Eragon,0,48,39
+Anna-Carol,Hatchet,4,48,40
+Anna-Carol,My Sister's Keeper,0,48,41
+Anna-Carol,The Golden Compass,0,48,42
+Anna-Carol,Harry Potter Series,0,48,43
+Anna-Carol,Holes,4,48,44
+Anna-Carol,Shonen Jump Series,0,48,45
+Anna-Carol,The Shadow Club,0,48,46
+Anna-Carol,Bone Series,0,48,47
+Anna-Carol,Maus: A Survivor's Tale,0,48,48
+Anna-Carol,The Joy Luck Club,0,48,49
+Anna-Carol,The Lord of the Rings,0,48,50
+Anna-Carol,The Hobbit,4,48,51
+Anna-Carol,Shattered,0,48,52
+Anna-Carol,The War Of The Worlds,0,48,53
+Anna-Carol,Dealing with Dragons,0,48,54
+Anna-Carol,The Chrysalids,0,48,55
+SubRia,The Hitchhiker's Guide To The Galaxy,0,49,1
+SubRia,Watership Down,0,49,2
+SubRia,The Five People You Meet in Heaven,0,49,3
+SubRia,Speak,0,49,4
+SubRia,I Know Why the Caged Bird Sings,0,49,5
+SubRia,Thirteen Reasons Why,0,49,6
+SubRia,Foundation Series,0,49,7
+SubRia,The Sisterhood of the Travelling Pants,0,49,8
+SubRia,A Great and Terrible Beauty,0,49,9
+SubRia,The Da Vinci Code,5,49,10
+SubRia,The Princess Diaries,0,49,11
+SubRia,Ender's Game,0,49,12
+SubRia,The Hunt for Red October,0,49,13
+SubRia,The Hunger Games,0,49,14
+SubRia,The Great Gatsby,0,49,15
+SubRia,Ranger's Apprentice Series,0,49,16
+SubRia,Inkheart,5,49,17
+SubRia,Neuromancer,0,49,18
+SubRia,Lord of the Flies,4,49,19
+SubRia,The Princess Bride,1,49,20
+SubRia,Dinotopia: A Land Apart from Time,0,49,21
+SubRia,Far North,0,49,22
+SubRia,Practical Magic,0,49,23
+SubRia,Brave New World,0,49,24
+SubRia,The Summer Tree,0,49,25
+SubRia,Flowers For Algernon,0,49,26
+SubRia,Owl in Love,0,49,27
+SubRia,Naruto,0,49,28
+SubRia,Bleach (graphic novel),0,49,29
+SubRia,Kiss the Dust,0,49,30
+SubRia,To Kill a Mockingbird,3,49,31
+SubRia,The Lion the Witch and the Wardrobe,4,49,32
+SubRia,The Bourne Series,4,49,33
+SubRia,Life of Pi,2,49,34
+SubRia,Breathless,0,49,35
+SubRia,Twilight Series,0,49,36
+SubRia,Sabriel,0,49,37
+SubRia,Nineteen Eighty-Four (1984),0,49,38
+SubRia,Eragon,4,49,39
+SubRia,Hatchet,4,49,40
+SubRia,My Sister's Keeper,3,49,41
+SubRia,The Golden Compass,2,49,42
+SubRia,Harry Potter Series,0,49,43
+SubRia,Holes,0,49,44
+SubRia,Shonen Jump Series,0,49,45
+SubRia,The Shadow Club,0,49,46
+SubRia,Bone Series,0,49,47
+SubRia,Maus: A Survivor's Tale,0,49,48
+SubRia,The Joy Luck Club,0,49,49
+SubRia,The Lord of the Rings,4,49,50
+SubRia,The Hobbit,4,49,51
+SubRia,Shattered,0,49,52
+SubRia,The War Of The Worlds,0,49,53
+SubRia,Dealing with Dragons,0,49,54
+SubRia,The Chrysalids,0,49,55
+Ella,The Hitchhiker's Guide To The Galaxy,0,50,1
+Ella,Watership Down,0,50,2
+Ella,The Five People You Meet in Heaven,0,50,3
+Ella,Speak,0,50,4
+Ella,I Know Why the Caged Bird Sings,0,50,5
+Ella,Thirteen Reasons Why,0,50,6
+Ella,Foundation Series,0,50,7
+Ella,The Sisterhood of the Travelling Pants,4,50,8
+Ella,A Great and Terrible Beauty,0,50,9
+Ella,The Da Vinci Code,0,50,10
+Ella,The Princess Diaries,4,50,11
+Ella,Ender's Game,3,50,12
+Ella,The Hunt for Red October,0,50,13
+Ella,The Hunger Games,0,50,14
+Ella,The Great Gatsby,0,50,15
+Ella,Ranger's Apprentice Series,0,50,16
+Ella,Inkheart,4,50,17
+Ella,Neuromancer,0,50,18
+Ella,Lord of the Flies,0,50,19
+Ella,The Princess Bride,4,50,20
+Ella,Dinotopia: A Land Apart from Time,0,50,21
+Ella,Far North,0,50,22
+Ella,Practical Magic,0,50,23
+Ella,Brave New World,0,50,24
+Ella,The Summer Tree,0,50,25
+Ella,Flowers For Algernon,0,50,26
+Ella,Owl in Love,0,50,27
+Ella,Naruto,0,50,28
+Ella,Bleach (graphic novel),0,50,29
+Ella,Kiss the Dust,0,50,30
+Ella,To Kill a Mockingbird,1,50,31
+Ella,The Lion the Witch and the Wardrobe,3,50,32
+Ella,The Bourne Series,0,50,33
+Ella,Life of Pi,1,50,34
+Ella,Breathless,0,50,35
+Ella,Twilight Series,5,50,36
+Ella,Sabriel,0,50,37
+Ella,Nineteen Eighty-Four (1984),0,50,38
+Ella,Eragon,3,50,39
+Ella,Hatchet,0,50,40
+Ella,My Sister's Keeper,0,50,41
+Ella,The Golden Compass,4,50,42
+Ella,Harry Potter Series,0,50,43
+Ella,Holes,5,50,44
+Ella,Shonen Jump Series,0,50,45
+Ella,The Shadow Club,0,50,46
+Ella,Bone Series,0,50,47
+Ella,Maus: A Survivor's Tale,0,50,48
+Ella,The Joy Luck Club,0,50,49
+Ella,The Lord of the Rings,0,50,50
+Ella,The Hobbit,0,50,51
+Ella,Shattered,0,50,52
+Ella,The War Of The Worlds,0,50,53
+Ella,Dealing with Dragons,0,50,54
+Ella,The Chrysalids,0,50,55
+Leslie,The Hitchhiker's Guide To The Galaxy,5,51,1
+Leslie,Watership Down,0,51,2
+Leslie,The Five People You Meet in Heaven,0,51,3
+Leslie,Speak,0,51,4
+Leslie,I Know Why the Caged Bird Sings,0,51,5
+Leslie,Thirteen Reasons Why,0,51,6
+Leslie,Foundation Series,0,51,7
+Leslie,The Sisterhood of the Travelling Pants,0,51,8
+Leslie,A Great and Terrible Beauty,0,51,9
+Leslie,The Da Vinci Code,5,51,10
+Leslie,The Princess Diaries,0,51,11
+Leslie,Ender's Game,0,51,12
+Leslie,The Hunt for Red October,0,51,13
+Leslie,The Hunger Games,0,51,14
+Leslie,The Great Gatsby,0,51,15
+Leslie,Ranger's Apprentice Series,0,51,16
+Leslie,Inkheart,0,51,17
+Leslie,Neuromancer,0,51,18
+Leslie,Lord of the Flies,0,51,19
+Leslie,The Princess Bride,0,51,20
+Leslie,Dinotopia: A Land Apart from Time,0,51,21
+Leslie,Far North,0,51,22
+Leslie,Practical Magic,0,51,23
+Leslie,Brave New World,0,51,24
+Leslie,The Summer Tree,0,51,25
+Leslie,Flowers For Algernon,0,51,26
+Leslie,Owl in Love,0,51,27
+Leslie,Naruto,0,51,28
+Leslie,Bleach (graphic novel),0,51,29
+Leslie,Kiss the Dust,0,51,30
+Leslie,To Kill a Mockingbird,5,51,31
+Leslie,The Lion the Witch and the Wardrobe,0,51,32
+Leslie,The Bourne Series,5,51,33
+Leslie,Life of Pi,1,51,34
+Leslie,Breathless,0,51,35
+Leslie,Twilight Series,0,51,36
+Leslie,Sabriel,0,51,37
+Leslie,Nineteen Eighty-Four (1984),0,51,38
+Leslie,Eragon,5,51,39
+Leslie,Hatchet,0,51,40
+Leslie,My Sister's Keeper,0,51,41
+Leslie,The Golden Compass,0,51,42
+Leslie,Harry Potter Series,1,51,43
+Leslie,Holes,5,51,44
+Leslie,Shonen Jump Series,0,51,45
+Leslie,The Shadow Club,0,51,46
+Leslie,Bone Series,0,51,47
+Leslie,Maus: A Survivor's Tale,0,51,48
+Leslie,The Joy Luck Club,0,51,49
+Leslie,The Lord of the Rings,5,51,50
+Leslie,The Hobbit,5,51,51
+Leslie,Shattered,0,51,52
+Leslie,The War Of The Worlds,0,51,53
+Leslie,Dealing with Dragons,0,51,54
+Leslie,The Chrysalids,0,51,55
+Sam,The Hitchhiker's Guide To The Galaxy,0,52,1
+Sam,Watership Down,4,52,2
+Sam,The Five People You Meet in Heaven,0,52,3
+Sam,Speak,0,52,4
+Sam,I Know Why the Caged Bird Sings,0,52,5
+Sam,Thirteen Reasons Why,3,52,6
+Sam,Foundation Series,0,52,7
+Sam,The Sisterhood of the Travelling Pants,0,52,8
+Sam,A Great and Terrible Beauty,0,52,9
+Sam,The Da Vinci Code,4,52,10
+Sam,The Princess Diaries,0,52,11
+Sam,Ender's Game,0,52,12
+Sam,The Hunt for Red October,0,52,13
+Sam,The Hunger Games,0,52,14
+Sam,The Great Gatsby,0,52,15
+Sam,Ranger's Apprentice Series,0,52,16
+Sam,Inkheart,0,52,17
+Sam,Neuromancer,0,52,18
+Sam,Lord of the Flies,0,52,19
+Sam,The Princess Bride,0,52,20
+Sam,Dinotopia: A Land Apart from Time,0,52,21
+Sam,Far North,0,52,22
+Sam,Practical Magic,0,52,23
+Sam,Brave New World,0,52,24
+Sam,The Summer Tree,0,52,25
+Sam,Flowers For Algernon,0,52,26
+Sam,Owl in Love,0,52,27
+Sam,Naruto,0,52,28
+Sam,Bleach (graphic novel),0,52,29
+Sam,Kiss the Dust,0,52,30
+Sam,To Kill a Mockingbird,3,52,31
+Sam,The Lion the Witch and the Wardrobe,0,52,32
+Sam,The Bourne Series,0,52,33
+Sam,Life of Pi,2,52,34
+Sam,Breathless,0,52,35
+Sam,Twilight Series,0,52,36
+Sam,Sabriel,0,52,37
+Sam,Nineteen Eighty-Four (1984),0,52,38
+Sam,Eragon,0,52,39
+Sam,Hatchet,0,52,40
+Sam,My Sister's Keeper,0,52,41
+Sam,The Golden Compass,0,52,42
+Sam,Harry Potter Series,0,52,43
+Sam,Holes,0,52,44
+Sam,Shonen Jump Series,0,52,45
+Sam,The Shadow Club,0,52,46
+Sam,Bone Series,0,52,47
+Sam,Maus: A Survivor's Tale,0,52,48
+Sam,The Joy Luck Club,0,52,49
+Sam,The Lord of the Rings,0,52,50
+Sam,The Hobbit,0,52,51
+Sam,Shattered,3,52,52
+Sam,The War Of The Worlds,0,52,53
+Sam,Dealing with Dragons,0,52,54
+Sam,The Chrysalids,0,52,55
+Cedric Jones,The Hitchhiker's Guide To The Galaxy,0,53,1
+Cedric Jones,Watership Down,0,53,2
+Cedric Jones,The Five People You Meet in Heaven,0,53,3
+Cedric Jones,Speak,0,53,4
+Cedric Jones,I Know Why the Caged Bird Sings,0,53,5
+Cedric Jones,Thirteen Reasons Why,0,53,6
+Cedric Jones,Foundation Series,0,53,7
+Cedric Jones,The Sisterhood of the Travelling Pants,0,53,8
+Cedric Jones,A Great and Terrible Beauty,0,53,9
+Cedric Jones,The Da Vinci Code,4,53,10
+Cedric Jones,The Princess Diaries,0,53,11
+Cedric Jones,Ender's Game,0,53,12
+Cedric Jones,The Hunt for Red October,5,53,13
+Cedric Jones,The Hunger Games,0,53,14
+Cedric Jones,The Great Gatsby,0,53,15
+Cedric Jones,Ranger's Apprentice Series,0,53,16
+Cedric Jones,Inkheart,0,53,17
+Cedric Jones,Neuromancer,0,53,18
+Cedric Jones,Lord of the Flies,5,53,19
+Cedric Jones,The Princess Bride,0,53,20
+Cedric Jones,Dinotopia: A Land Apart from Time,0,53,21
+Cedric Jones,Far North,0,53,22
+Cedric Jones,Practical Magic,0,53,23
+Cedric Jones,Brave New World,0,53,24
+Cedric Jones,The Summer Tree,0,53,25
+Cedric Jones,Flowers For Algernon,0,53,26
+Cedric Jones,Owl in Love,0,53,27
+Cedric Jones,Naruto,0,53,28
+Cedric Jones,Bleach (graphic novel),0,53,29
+Cedric Jones,Kiss the Dust,0,53,30
+Cedric Jones,To Kill a Mockingbird,3,53,31
+Cedric Jones,The Lion the Witch and the Wardrobe,0,53,32
+Cedric Jones,The Bourne Series,5,53,33
+Cedric Jones,Life of Pi,1,53,34
+Cedric Jones,Breathless,0,53,35
+Cedric Jones,Twilight Series,0,53,36
+Cedric Jones,Sabriel,0,53,37
+Cedric Jones,Nineteen Eighty-Four (1984),0,53,38
+Cedric Jones,Eragon,0,53,39
+Cedric Jones,Hatchet,4,53,40
+Cedric Jones,My Sister's Keeper,0,53,41
+Cedric Jones,The Golden Compass,0,53,42
+Cedric Jones,Harry Potter Series,0,53,43
+Cedric Jones,Holes,5,53,44
+Cedric Jones,Shonen Jump Series,0,53,45
+Cedric Jones,The Shadow Club,0,53,46
+Cedric Jones,Bone Series,0,53,47
+Cedric Jones,Maus: A Survivor's Tale,0,53,48
+Cedric Jones,The Joy Luck Club,0,53,49
+Cedric Jones,The Lord of the Rings,0,53,50
+Cedric Jones,The Hobbit,0,53,51
+Cedric Jones,Shattered,0,53,52
+Cedric Jones,The War Of The Worlds,5,53,53
+Cedric Jones,Dealing with Dragons,0,53,54
+Cedric Jones,The Chrysalids,0,53,55
+McLean,The Hitchhiker's Guide To The Galaxy,0,54,1
+McLean,Watership Down,0,54,2
+McLean,The Five People You Meet in Heaven,0,54,3
+McLean,Speak,0,54,4
+McLean,I Know Why the Caged Bird Sings,0,54,5
+McLean,Thirteen Reasons Why,0,54,6
+McLean,Foundation Series,0,54,7
+McLean,The Sisterhood of the Travelling Pants,0,54,8
+McLean,A Great and Terrible Beauty,0,54,9
+McLean,The Da Vinci Code,5,54,10
+McLean,The Princess Diaries,0,54,11
+McLean,Ender's Game,0,54,12
+McLean,The Hunt for Red October,0,54,13
+McLean,The Hunger Games,0,54,14
+McLean,The Great Gatsby,0,54,15
+McLean,Ranger's Apprentice Series,0,54,16
+McLean,Inkheart,4,54,17
+McLean,Neuromancer,0,54,18
+McLean,Lord of the Flies,0,54,19
+McLean,The Princess Bride,0,54,20
+McLean,Dinotopia: A Land Apart from Time,0,54,21
+McLean,Far North,0,54,22
+McLean,Practical Magic,0,54,23
+McLean,Brave New World,5,54,24
+McLean,The Summer Tree,0,54,25
+McLean,Flowers For Algernon,0,54,26
+McLean,Owl in Love,0,54,27
+McLean,Naruto,0,54,28
+McLean,Bleach (graphic novel),0,54,29
+McLean,Kiss the Dust,0,54,30
+McLean,To Kill a Mockingbird,5,54,31
+McLean,The Lion the Witch and the Wardrobe,0,54,32
+McLean,The Bourne Series,0,54,33
+McLean,Life of Pi,4,54,34
+McLean,Breathless,0,54,35
+McLean,Twilight Series,0,54,36
+McLean,Sabriel,0,54,37
+McLean,Nineteen Eighty-Four (1984),5,54,38
+McLean,Eragon,5,54,39
+McLean,Hatchet,0,54,40
+McLean,My Sister's Keeper,0,54,41
+McLean,The Golden Compass,0,54,42
+McLean,Harry Potter Series,5,54,43
+McLean,Holes,5,54,44
+McLean,Shonen Jump Series,0,54,45
+McLean,The Shadow Club,0,54,46
+McLean,Bone Series,0,54,47
+McLean,Maus: A Survivor's Tale,0,54,48
+McLean,The Joy Luck Club,0,54,49
+McLean,The Lord of the Rings,0,54,50
+McLean,The Hobbit,5,54,51
+McLean,Shattered,0,54,52
+McLean,The War Of The Worlds,3,54,53
+McLean,Dealing with Dragons,0,54,54
+McLean,The Chrysalids,5,54,55
+Shannon,The Hitchhiker's Guide To The Galaxy,4,55,1
+Shannon,Watership Down,0,55,2
+Shannon,The Five People You Meet in Heaven,0,55,3
+Shannon,Speak,0,55,4
+Shannon,I Know Why the Caged Bird Sings,0,55,5
+Shannon,Thirteen Reasons Why,0,55,6
+Shannon,Foundation Series,0,55,7
+Shannon,The Sisterhood of the Travelling Pants,0,55,8
+Shannon,A Great and Terrible Beauty,0,55,9
+Shannon,The Da Vinci Code,5,55,10
+Shannon,The Princess Diaries,5,55,11
+Shannon,Ender's Game,0,55,12
+Shannon,The Hunt for Red October,0,55,13
+Shannon,The Hunger Games,0,55,14
+Shannon,The Great Gatsby,0,55,15
+Shannon,Ranger's Apprentice Series,0,55,16
+Shannon,Inkheart,5,55,17
+Shannon,Neuromancer,0,55,18
+Shannon,Lord of the Flies,0,55,19
+Shannon,The Princess Bride,5,55,20
+Shannon,Dinotopia: A Land Apart from Time,0,55,21
+Shannon,Far North,0,55,22
+Shannon,Practical Magic,0,55,23
+Shannon,Brave New World,0,55,24
+Shannon,The Summer Tree,0,55,25
+Shannon,Flowers For Algernon,0,55,26
+Shannon,Owl in Love,0,55,27
+Shannon,Naruto,5,55,28
+Shannon,Bleach (graphic novel),0,55,29
+Shannon,Kiss the Dust,0,55,30
+Shannon,To Kill a Mockingbird,0,55,31
+Shannon,The Lion the Witch and the Wardrobe,5,55,32
+Shannon,The Bourne Series,5,55,33
+Shannon,Life of Pi,1,55,34
+Shannon,Breathless,0,55,35
+Shannon,Twilight Series,5,55,36
+Shannon,Sabriel,0,55,37
+Shannon,Nineteen Eighty-Four (1984),0,55,38
+Shannon,Eragon,5,55,39
+Shannon,Hatchet,0,55,40
+Shannon,My Sister's Keeper,5,55,41
+Shannon,The Golden Compass,5,55,42
+Shannon,Harry Potter Series,5,55,43
+Shannon,Holes,5,55,44
+Shannon,Shonen Jump Series,0,55,45
+Shannon,The Shadow Club,0,55,46
+Shannon,Bone Series,5,55,47
+Shannon,Maus: A Survivor's Tale,0,55,48
+Shannon,The Joy Luck Club,0,55,49
+Shannon,The Lord of the Rings,5,55,50
+Shannon,The Hobbit,5,55,51
+Shannon,Shattered,0,55,52
+Shannon,The War Of The Worlds,5,55,53
+Shannon,Dealing with Dragons,0,55,54
+Shannon,The Chrysalids,0,55,55
+Joshua,The Hitchhiker's Guide To The Galaxy,0,56,1
+Joshua,Watership Down,0,56,2
+Joshua,The Five People You Meet in Heaven,0,56,3
+Joshua,Speak,0,56,4
+Joshua,I Know Why the Caged Bird Sings,0,56,5
+Joshua,Thirteen Reasons Why,0,56,6
+Joshua,Foundation Series,0,56,7
+Joshua,The Sisterhood of the Travelling Pants,3,56,8
+Joshua,A Great and Terrible Beauty,0,56,9
+Joshua,The Da Vinci Code,0,56,10
+Joshua,The Princess Diaries,2,56,11
+Joshua,Ender's Game,0,56,12
+Joshua,The Hunt for Red October,0,56,13
+Joshua,The Hunger Games,0,56,14
+Joshua,The Great Gatsby,0,56,15
+Joshua,Ranger's Apprentice Series,0,56,16
+Joshua,Inkheart,0,56,17
+Joshua,Neuromancer,0,56,18
+Joshua,Lord of the Flies,0,56,19
+Joshua,The Princess Bride,0,56,20
+Joshua,Dinotopia: A Land Apart from Time,0,56,21
+Joshua,Far North,0,56,22
+Joshua,Practical Magic,0,56,23
+Joshua,Brave New World,0,56,24
+Joshua,The Summer Tree,0,56,25
+Joshua,Flowers For Algernon,0,56,26
+Joshua,Owl in Love,0,56,27
+Joshua,Naruto,0,56,28
+Joshua,Bleach (graphic novel),0,56,29
+Joshua,Kiss the Dust,0,56,30
+Joshua,To Kill a Mockingbird,4,56,31
+Joshua,The Lion the Witch and the Wardrobe,0,56,32
+Joshua,The Bourne Series,0,56,33
+Joshua,Life of Pi,1,56,34
+Joshua,Breathless,0,56,35
+Joshua,Twilight Series,1,56,36
+Joshua,Sabriel,0,56,37
+Joshua,Nineteen Eighty-Four (1984),0,56,38
+Joshua,Eragon,0,56,39
+Joshua,Hatchet,0,56,40
+Joshua,My Sister's Keeper,0,56,41
+Joshua,The Golden Compass,0,56,42
+Joshua,Harry Potter Series,5,56,43
+Joshua,Holes,0,56,44
+Joshua,Shonen Jump Series,0,56,45
+Joshua,The Shadow Club,0,56,46
+Joshua,Bone Series,0,56,47
+Joshua,Maus: A Survivor's Tale,0,56,48
+Joshua,The Joy Luck Club,0,56,49
+Joshua,The Lord of the Rings,0,56,50
+Joshua,The Hobbit,0,56,51
+Joshua,Shattered,0,56,52
+Joshua,The War Of The Worlds,0,56,53
+Joshua,Dealing with Dragons,0,56,54
+Joshua,The Chrysalids,0,56,55
+Jeremy,The Hitchhiker's Guide To The Galaxy,0,57,1
+Jeremy,Watership Down,0,57,2
+Jeremy,The Five People You Meet in Heaven,0,57,3
+Jeremy,Speak,0,57,4
+Jeremy,I Know Why the Caged Bird Sings,0,57,5
+Jeremy,Thirteen Reasons Why,0,57,6
+Jeremy,Foundation Series,0,57,7
+Jeremy,The Sisterhood of the Travelling Pants,0,57,8
+Jeremy,A Great and Terrible Beauty,0,57,9
+Jeremy,The Da Vinci Code,0,57,10
+Jeremy,The Princess Diaries,4,57,11
+Jeremy,Ender's Game,0,57,12
+Jeremy,The Hunt for Red October,0,57,13
+Jeremy,The Hunger Games,0,57,14
+Jeremy,The Great Gatsby,0,57,15
+Jeremy,Ranger's Apprentice Series,0,57,16
+Jeremy,Inkheart,0,57,17
+Jeremy,Neuromancer,0,57,18
+Jeremy,Lord of the Flies,0,57,19
+Jeremy,The Princess Bride,0,57,20
+Jeremy,Dinotopia: A Land Apart from Time,0,57,21
+Jeremy,Far North,0,57,22
+Jeremy,Practical Magic,0,57,23
+Jeremy,Brave New World,0,57,24
+Jeremy,The Summer Tree,0,57,25
+Jeremy,Flowers For Algernon,0,57,26
+Jeremy,Owl in Love,0,57,27
+Jeremy,Naruto,0,57,28
+Jeremy,Bleach (graphic novel),0,57,29
+Jeremy,Kiss the Dust,0,57,30
+Jeremy,To Kill a Mockingbird,0,57,31
+Jeremy,The Lion the Witch and the Wardrobe,4,57,32
+Jeremy,The Bourne Series,0,57,33
+Jeremy,Life of Pi,1,57,34
+Jeremy,Breathless,0,57,35
+Jeremy,Twilight Series,0,57,36
+Jeremy,Sabriel,0,57,37
+Jeremy,Nineteen Eighty-Four (1984),0,57,38
+Jeremy,Eragon,0,57,39
+Jeremy,Hatchet,0,57,40
+Jeremy,My Sister's Keeper,0,57,41
+Jeremy,The Golden Compass,4,57,42
+Jeremy,Harry Potter Series,0,57,43
+Jeremy,Holes,0,57,44
+Jeremy,Shonen Jump Series,0,57,45
+Jeremy,The Shadow Club,0,57,46
+Jeremy,Bone Series,0,57,47
+Jeremy,Maus: A Survivor's Tale,0,57,48
+Jeremy,The Joy Luck Club,0,57,49
+Jeremy,The Lord of the Rings,0,57,50
+Jeremy,The Hobbit,0,57,51
+Jeremy,Shattered,0,57,52
+Jeremy,The War Of The Worlds,0,57,53
+Jeremy,Dealing with Dragons,0,57,54
+Jeremy,The Chrysalids,0,57,55
+Pablo Sanchez,The Hitchhiker's Guide To The Galaxy,0,58,1
+Pablo Sanchez,Watership Down,0,58,2
+Pablo Sanchez,The Five People You Meet in Heaven,0,58,3
+Pablo Sanchez,Speak,0,58,4
+Pablo Sanchez,I Know Why the Caged Bird Sings,0,58,5
+Pablo Sanchez,Thirteen Reasons Why,0,58,6
+Pablo Sanchez,Foundation Series,0,58,7
+Pablo Sanchez,The Sisterhood of the Travelling Pants,0,58,8
+Pablo Sanchez,A Great and Terrible Beauty,0,58,9
+Pablo Sanchez,The Da Vinci Code,0,58,10
+Pablo Sanchez,The Princess Diaries,0,58,11
+Pablo Sanchez,Ender's Game,0,58,12
+Pablo Sanchez,The Hunt for Red October,0,58,13
+Pablo Sanchez,The Hunger Games,0,58,14
+Pablo Sanchez,The Great Gatsby,0,58,15
+Pablo Sanchez,Ranger's Apprentice Series,0,58,16
+Pablo Sanchez,Inkheart,0,58,17
+Pablo Sanchez,Neuromancer,0,58,18
+Pablo Sanchez,Lord of the Flies,0,58,19
+Pablo Sanchez,The Princess Bride,0,58,20
+Pablo Sanchez,Dinotopia: A Land Apart from Time,0,58,21
+Pablo Sanchez,Far North,0,58,22
+Pablo Sanchez,Practical Magic,0,58,23
+Pablo Sanchez,Brave New World,0,58,24
+Pablo Sanchez,The Summer Tree,0,58,25
+Pablo Sanchez,Flowers For Algernon,0,58,26
+Pablo Sanchez,Owl in Love,0,58,27
+Pablo Sanchez,Naruto,0,58,28
+Pablo Sanchez,Bleach (graphic novel),0,58,29
+Pablo Sanchez,Kiss the Dust,0,58,30
+Pablo Sanchez,To Kill a Mockingbird,0,58,31
+Pablo Sanchez,The Lion the Witch and the Wardrobe,0,58,32
+Pablo Sanchez,The Bourne Series,0,58,33
+Pablo Sanchez,Life of Pi,4,58,34
+Pablo Sanchez,Breathless,0,58,35
+Pablo Sanchez,Twilight Series,0,58,36
+Pablo Sanchez,Sabriel,0,58,37
+Pablo Sanchez,Nineteen Eighty-Four (1984),0,58,38
+Pablo Sanchez,Eragon,4,58,39
+Pablo Sanchez,Hatchet,0,58,40
+Pablo Sanchez,My Sister's Keeper,0,58,41
+Pablo Sanchez,The Golden Compass,0,58,42
+Pablo Sanchez,Harry Potter Series,0,58,43
+Pablo Sanchez,Holes,3,58,44
+Pablo Sanchez,Shonen Jump Series,0,58,45
+Pablo Sanchez,The Shadow Club,0,58,46
+Pablo Sanchez,Bone Series,4,58,47
+Pablo Sanchez,Maus: A Survivor's Tale,0,58,48
+Pablo Sanchez,The Joy Luck Club,0,58,49
+Pablo Sanchez,The Lord of the Rings,0,58,50
+Pablo Sanchez,The Hobbit,0,58,51
+Pablo Sanchez,Shattered,0,58,52
+Pablo Sanchez,The War Of The Worlds,0,58,53
+Pablo Sanchez,Dealing with Dragons,0,58,54
+Pablo Sanchez,The Chrysalids,0,58,55
+Scream,The Hitchhiker's Guide To The Galaxy,0,59,1
+Scream,Watership Down,0,59,2
+Scream,The Five People You Meet in Heaven,0,59,3
+Scream,Speak,0,59,4
+Scream,I Know Why the Caged Bird Sings,0,59,5
+Scream,Thirteen Reasons Why,0,59,6
+Scream,Foundation Series,0,59,7
+Scream,The Sisterhood of the Travelling Pants,0,59,8
+Scream,A Great and Terrible Beauty,0,59,9
+Scream,The Da Vinci Code,0,59,10
+Scream,The Princess Diaries,0,59,11
+Scream,Ender's Game,0,59,12
+Scream,The Hunt for Red October,0,59,13
+Scream,The Hunger Games,0,59,14
+Scream,The Great Gatsby,0,59,15
+Scream,Ranger's Apprentice Series,0,59,16
+Scream,Inkheart,0,59,17
+Scream,Neuromancer,0,59,18
+Scream,Lord of the Flies,0,59,19
+Scream,The Princess Bride,0,59,20
+Scream,Dinotopia: A Land Apart from Time,0,59,21
+Scream,Far North,0,59,22
+Scream,Practical Magic,0,59,23
+Scream,Brave New World,0,59,24
+Scream,The Summer Tree,0,59,25
+Scream,Flowers For Algernon,0,59,26
+Scream,Owl in Love,0,59,27
+Scream,Naruto,0,59,28
+Scream,Bleach (graphic novel),0,59,29
+Scream,Kiss the Dust,0,59,30
+Scream,To Kill a Mockingbird,0,59,31
+Scream,The Lion the Witch and the Wardrobe,0,59,32
+Scream,The Bourne Series,0,59,33
+Scream,Life of Pi,1,59,34
+Scream,Breathless,0,59,35
+Scream,Twilight Series,1,59,36
+Scream,Sabriel,0,59,37
+Scream,Nineteen Eighty-Four (1984),0,59,38
+Scream,Eragon,0,59,39
+Scream,Hatchet,0,59,40
+Scream,My Sister's Keeper,0,59,41
+Scream,The Golden Compass,0,59,42
+Scream,Harry Potter Series,4,59,43
+Scream,Holes,0,59,44
+Scream,Shonen Jump Series,0,59,45
+Scream,The Shadow Club,0,59,46
+Scream,Bone Series,0,59,47
+Scream,Maus: A Survivor's Tale,0,59,48
+Scream,The Joy Luck Club,0,59,49
+Scream,The Lord of the Rings,0,59,50
+Scream,The Hobbit,0,59,51
+Scream,Shattered,0,59,52
+Scream,The War Of The Worlds,0,59,53
+Scream,Dealing with Dragons,0,59,54
+Scream,The Chrysalids,0,59,55
+ROFLOL,The Hitchhiker's Guide To The Galaxy,5,60,1
+ROFLOL,Watership Down,0,60,2
+ROFLOL,The Five People You Meet in Heaven,0,60,3
+ROFLOL,Speak,0,60,4
+ROFLOL,I Know Why the Caged Bird Sings,0,60,5
+ROFLOL,Thirteen Reasons Why,0,60,6
+ROFLOL,Foundation Series,0,60,7
+ROFLOL,The Sisterhood of the Travelling Pants,0,60,8
+ROFLOL,A Great and Terrible Beauty,0,60,9
+ROFLOL,The Da Vinci Code,4,60,10
+ROFLOL,The Princess Diaries,4,60,11
+ROFLOL,Ender's Game,4,60,12
+ROFLOL,The Hunt for Red October,0,60,13
+ROFLOL,The Hunger Games,0,60,14
+ROFLOL,The Great Gatsby,0,60,15
+ROFLOL,Ranger's Apprentice Series,0,60,16
+ROFLOL,Inkheart,5,60,17
+ROFLOL,Neuromancer,0,60,18
+ROFLOL,Lord of the Flies,0,60,19
+ROFLOL,The Princess Bride,5,60,20
+ROFLOL,Dinotopia: A Land Apart from Time,0,60,21
+ROFLOL,Far North,0,60,22
+ROFLOL,Practical Magic,0,60,23
+ROFLOL,Brave New World,0,60,24
+ROFLOL,The Summer Tree,0,60,25
+ROFLOL,Flowers For Algernon,0,60,26
+ROFLOL,Owl in Love,0,60,27
+ROFLOL,Naruto,5,60,28
+ROFLOL,Bleach (graphic novel),0,60,29
+ROFLOL,Kiss the Dust,0,60,30
+ROFLOL,To Kill a Mockingbird,0,60,31
+ROFLOL,The Lion the Witch and the Wardrobe,5,60,32
+ROFLOL,The Bourne Series,5,60,33
+ROFLOL,Life of Pi,1,60,34
+ROFLOL,Breathless,0,60,35
+ROFLOL,Twilight Series,5,60,36
+ROFLOL,Sabriel,0,60,37
+ROFLOL,Nineteen Eighty-Four (1984),0,60,38
+ROFLOL,Eragon,5,60,39
+ROFLOL,Hatchet,5,60,40
+ROFLOL,My Sister's Keeper,5,60,41
+ROFLOL,The Golden Compass,5,60,42
+ROFLOL,Harry Potter Series,5,60,43
+ROFLOL,Holes,5,60,44
+ROFLOL,Shonen Jump Series,0,60,45
+ROFLOL,The Shadow Club,0,60,46
+ROFLOL,Bone Series,0,60,47
+ROFLOL,Maus: A Survivor's Tale,0,60,48
+ROFLOL,The Joy Luck Club,0,60,49
+ROFLOL,The Lord of the Rings,5,60,50
+ROFLOL,The Hobbit,5,60,51
+ROFLOL,Shattered,0,60,52
+ROFLOL,The War Of The Worlds,0,60,53
+ROFLOL,Dealing with Dragons,0,60,54
+ROFLOL,The Chrysalids,0,60,55
+Albus Dumbledore,The Hitchhiker's Guide To The Galaxy,0,61,1
+Albus Dumbledore,Watership Down,0,61,2
+Albus Dumbledore,The Five People You Meet in Heaven,0,61,3
+Albus Dumbledore,Speak,0,61,4
+Albus Dumbledore,I Know Why the Caged Bird Sings,0,61,5
+Albus Dumbledore,Thirteen Reasons Why,0,61,6
+Albus Dumbledore,Foundation Series,0,61,7
+Albus Dumbledore,The Sisterhood of the Travelling Pants,3,61,8
+Albus Dumbledore,A Great and Terrible Beauty,0,61,9
+Albus Dumbledore,The Da Vinci Code,0,61,10
+Albus Dumbledore,The Princess Diaries,2,61,11
+Albus Dumbledore,Ender's Game,0,61,12
+Albus Dumbledore,The Hunt for Red October,0,61,13
+Albus Dumbledore,The Hunger Games,0,61,14
+Albus Dumbledore,The Great Gatsby,0,61,15
+Albus Dumbledore,Ranger's Apprentice Series,0,61,16
+Albus Dumbledore,Inkheart,0,61,17
+Albus Dumbledore,Neuromancer,0,61,18
+Albus Dumbledore,Lord of the Flies,0,61,19
+Albus Dumbledore,The Princess Bride,0,61,20
+Albus Dumbledore,Dinotopia: A Land Apart from Time,0,61,21
+Albus Dumbledore,Far North,0,61,22
+Albus Dumbledore,Practical Magic,0,61,23
+Albus Dumbledore,Brave New World,0,61,24
+Albus Dumbledore,The Summer Tree,0,61,25
+Albus Dumbledore,Flowers For Algernon,0,61,26
+Albus Dumbledore,Owl in Love,0,61,27
+Albus Dumbledore,Naruto,0,61,28
+Albus Dumbledore,Bleach (graphic novel),0,61,29
+Albus Dumbledore,Kiss the Dust,0,61,30
+Albus Dumbledore,To Kill a Mockingbird,4,61,31
+Albus Dumbledore,The Lion the Witch and the Wardrobe,0,61,32
+Albus Dumbledore,The Bourne Series,0,61,33
+Albus Dumbledore,Life of Pi,2,61,34
+Albus Dumbledore,Breathless,0,61,35
+Albus Dumbledore,Twilight Series,1,61,36
+Albus Dumbledore,Sabriel,0,61,37
+Albus Dumbledore,Nineteen Eighty-Four (1984),0,61,38
+Albus Dumbledore,Eragon,0,61,39
+Albus Dumbledore,Hatchet,0,61,40
+Albus Dumbledore,My Sister's Keeper,0,61,41
+Albus Dumbledore,The Golden Compass,0,61,42
+Albus Dumbledore,Harry Potter Series,5,61,43
+Albus Dumbledore,Holes,0,61,44
+Albus Dumbledore,Shonen Jump Series,0,61,45
+Albus Dumbledore,The Shadow Club,0,61,46
+Albus Dumbledore,Bone Series,0,61,47
+Albus Dumbledore,Maus: A Survivor's Tale,0,61,48
+Albus Dumbledore,The Joy Luck Club,0,61,49
+Albus Dumbledore,The Lord of the Rings,0,61,50
+Albus Dumbledore,The Hobbit,0,61,51
+Albus Dumbledore,Shattered,0,61,52
+Albus Dumbledore,The War Of The Worlds,0,61,53
+Albus Dumbledore,Dealing with Dragons,0,61,54
+Albus Dumbledore,The Chrysalids,0,61,55
+Alexandra,The Hitchhiker's Guide To The Galaxy,0,62,1
+Alexandra,Watership Down,0,62,2
+Alexandra,The Five People You Meet in Heaven,0,62,3
+Alexandra,Speak,0,62,4
+Alexandra,I Know Why the Caged Bird Sings,0,62,5
+Alexandra,Thirteen Reasons Why,0,62,6
+Alexandra,Foundation Series,0,62,7
+Alexandra,The Sisterhood of the Travelling Pants,0,62,8
+Alexandra,A Great and Terrible Beauty,0,62,9
+Alexandra,The Da Vinci Code,0,62,10
+Alexandra,The Princess Diaries,4,62,11
+Alexandra,Ender's Game,0,62,12
+Alexandra,The Hunt for Red October,0,62,13
+Alexandra,The Hunger Games,0,62,14
+Alexandra,The Great Gatsby,0,62,15
+Alexandra,Ranger's Apprentice Series,0,62,16
+Alexandra,Inkheart,0,62,17
+Alexandra,Neuromancer,0,62,18
+Alexandra,Lord of the Flies,0,62,19
+Alexandra,The Princess Bride,0,62,20
+Alexandra,Dinotopia: A Land Apart from Time,0,62,21
+Alexandra,Far North,0,62,22
+Alexandra,Practical Magic,0,62,23
+Alexandra,Brave New World,0,62,24
+Alexandra,The Summer Tree,0,62,25
+Alexandra,Flowers For Algernon,0,62,26
+Alexandra,Owl in Love,0,62,27
+Alexandra,Naruto,0,62,28
+Alexandra,Bleach (graphic novel),0,62,29
+Alexandra,Kiss the Dust,0,62,30
+Alexandra,To Kill a Mockingbird,0,62,31
+Alexandra,The Lion the Witch and the Wardrobe,4,62,32
+Alexandra,The Bourne Series,0,62,33
+Alexandra,Life of Pi,1,62,34
+Alexandra,Breathless,0,62,35
+Alexandra,Twilight Series,0,62,36
+Alexandra,Sabriel,0,62,37
+Alexandra,Nineteen Eighty-Four (1984),0,62,38
+Alexandra,Eragon,0,62,39
+Alexandra,Hatchet,0,62,40
+Alexandra,My Sister's Keeper,0,62,41
+Alexandra,The Golden Compass,4,62,42
+Alexandra,Harry Potter Series,0,62,43
+Alexandra,Holes,0,62,44
+Alexandra,Shonen Jump Series,0,62,45
+Alexandra,The Shadow Club,0,62,46
+Alexandra,Bone Series,0,62,47
+Alexandra,Maus: A Survivor's Tale,0,62,48
+Alexandra,The Joy Luck Club,0,62,49
+Alexandra,The Lord of the Rings,0,62,50
+Alexandra,The Hobbit,0,62,51
+Alexandra,Shattered,0,62,52
+Alexandra,The War Of The Worlds,0,62,53
+Alexandra,Dealing with Dragons,0,62,54
+Alexandra,The Chrysalids,0,62,55
+NaRwHaLs,The Hitchhiker's Guide To The Galaxy,5,63,1
+NaRwHaLs,Watership Down,0,63,2
+NaRwHaLs,The Five People You Meet in Heaven,0,63,3
+NaRwHaLs,Speak,0,63,4
+NaRwHaLs,I Know Why the Caged Bird Sings,0,63,5
+NaRwHaLs,Thirteen Reasons Why,0,63,6
+NaRwHaLs,Foundation Series,0,63,7
+NaRwHaLs,The Sisterhood of the Travelling Pants,0,63,8
+NaRwHaLs,A Great and Terrible Beauty,0,63,9
+NaRwHaLs,The Da Vinci Code,0,63,10
+NaRwHaLs,The Princess Diaries,0,63,11
+NaRwHaLs,Ender's Game,5,63,12
+NaRwHaLs,The Hunt for Red October,0,63,13
+NaRwHaLs,The Hunger Games,0,63,14
+NaRwHaLs,The Great Gatsby,0,63,15
+NaRwHaLs,Ranger's Apprentice Series,0,63,16
+NaRwHaLs,Inkheart,0,63,17
+NaRwHaLs,Neuromancer,5,63,18
+NaRwHaLs,Lord of the Flies,0,63,19
+NaRwHaLs,The Princess Bride,0,63,20
+NaRwHaLs,Dinotopia: A Land Apart from Time,0,63,21
+NaRwHaLs,Far North,0,63,22
+NaRwHaLs,Practical Magic,0,63,23
+NaRwHaLs,Brave New World,0,63,24
+NaRwHaLs,The Summer Tree,0,63,25
+NaRwHaLs,Flowers For Algernon,0,63,26
+NaRwHaLs,Owl in Love,0,63,27
+NaRwHaLs,Naruto,5,63,28
+NaRwHaLs,Bleach (graphic novel),0,63,29
+NaRwHaLs,Kiss the Dust,0,63,30
+NaRwHaLs,To Kill a Mockingbird,0,63,31
+NaRwHaLs,The Lion the Witch and the Wardrobe,4,63,32
+NaRwHaLs,The Bourne Series,0,63,33
+NaRwHaLs,Life of Pi,1,63,34
+NaRwHaLs,Breathless,0,63,35
+NaRwHaLs,Twilight Series,0,63,36
+NaRwHaLs,Sabriel,5,63,37
+NaRwHaLs,Nineteen Eighty-Four (1984),0,63,38
+NaRwHaLs,Eragon,5,63,39
+NaRwHaLs,Hatchet,0,63,40
+NaRwHaLs,My Sister's Keeper,0,63,41
+NaRwHaLs,The Golden Compass,0,63,42
+NaRwHaLs,Harry Potter Series,2,63,43
+NaRwHaLs,Holes,4,63,44
+NaRwHaLs,Shonen Jump Series,0,63,45
+NaRwHaLs,The Shadow Club,0,63,46
+NaRwHaLs,Bone Series,0,63,47
+NaRwHaLs,Maus: A Survivor's Tale,0,63,48
+NaRwHaLs,The Joy Luck Club,0,63,49
+NaRwHaLs,The Lord of the Rings,5,63,50
+NaRwHaLs,The Hobbit,5,63,51
+NaRwHaLs,Shattered,0,63,52
+NaRwHaLs,The War Of The Worlds,0,63,53
+NaRwHaLs,Dealing with Dragons,0,63,54
+NaRwHaLs,The Chrysalids,0,63,55
+J-Rok,The Hitchhiker's Guide To The Galaxy,5,64,1
+J-Rok,Watership Down,0,64,2
+J-Rok,The Five People You Meet in Heaven,0,64,3
+J-Rok,Speak,0,64,4
+J-Rok,I Know Why the Caged Bird Sings,0,64,5
+J-Rok,Thirteen Reasons Why,0,64,6
+J-Rok,Foundation Series,0,64,7
+J-Rok,The Sisterhood of the Travelling Pants,0,64,8
+J-Rok,A Great and Terrible Beauty,0,64,9
+J-Rok,The Da Vinci Code,0,64,10
+J-Rok,The Princess Diaries,0,64,11
+J-Rok,Ender's Game,0,64,12
+J-Rok,The Hunt for Red October,0,64,13
+J-Rok,The Hunger Games,0,64,14
+J-Rok,The Great Gatsby,0,64,15
+J-Rok,Ranger's Apprentice Series,0,64,16
+J-Rok,Inkheart,0,64,17
+J-Rok,Neuromancer,0,64,18
+J-Rok,Lord of the Flies,0,64,19
+J-Rok,The Princess Bride,0,64,20
+J-Rok,Dinotopia: A Land Apart from Time,0,64,21
+J-Rok,Far North,0,64,22
+J-Rok,Practical Magic,0,64,23
+J-Rok,Brave New World,0,64,24
+J-Rok,The Summer Tree,0,64,25
+J-Rok,Flowers For Algernon,0,64,26
+J-Rok,Owl in Love,0,64,27
+J-Rok,Naruto,0,64,28
+J-Rok,Bleach (graphic novel),0,64,29
+J-Rok,Kiss the Dust,0,64,30
+J-Rok,To Kill a Mockingbird,0,64,31
+J-Rok,The Lion the Witch and the Wardrobe,0,64,32
+J-Rok,The Bourne Series,0,64,33
+J-Rok,Life of Pi,2,64,34
+J-Rok,Breathless,0,64,35
+J-Rok,Twilight Series,1,64,36
+J-Rok,Sabriel,0,64,37
+J-Rok,Nineteen Eighty-Four (1984),0,64,38
+J-Rok,Eragon,0,64,39
+J-Rok,Hatchet,0,64,40
+J-Rok,My Sister's Keeper,0,64,41
+J-Rok,The Golden Compass,0,64,42
+J-Rok,Harry Potter Series,1,64,43
+J-Rok,Holes,0,64,44
+J-Rok,Shonen Jump Series,0,64,45
+J-Rok,The Shadow Club,0,64,46
+J-Rok,Bone Series,3,64,47
+J-Rok,Maus: A Survivor's Tale,0,64,48
+J-Rok,The Joy Luck Club,0,64,49
+J-Rok,The Lord of the Rings,0,64,50
+J-Rok,The Hobbit,0,64,51
+J-Rok,Shattered,0,64,52
+J-Rok,The War Of The Worlds,0,64,53
+J-Rok,Dealing with Dragons,0,64,54
+J-Rok,The Chrysalids,0,64,55
+snoosh,The Hitchhiker's Guide To The Galaxy,0,65,1
+snoosh,Watership Down,0,65,2
+snoosh,The Five People You Meet in Heaven,0,65,3
+snoosh,Speak,0,65,4
+snoosh,I Know Why the Caged Bird Sings,0,65,5
+snoosh,Thirteen Reasons Why,0,65,6
+snoosh,Foundation Series,0,65,7
+snoosh,The Sisterhood of the Travelling Pants,0,65,8
+snoosh,A Great and Terrible Beauty,0,65,9
+snoosh,The Da Vinci Code,0,65,10
+snoosh,The Princess Diaries,0,65,11
+snoosh,Ender's Game,0,65,12
+snoosh,The Hunt for Red October,0,65,13
+snoosh,The Hunger Games,0,65,14
+snoosh,The Great Gatsby,0,65,15
+snoosh,Ranger's Apprentice Series,0,65,16
+snoosh,Inkheart,0,65,17
+snoosh,Neuromancer,0,65,18
+snoosh,Lord of the Flies,3,65,19
+snoosh,The Princess Bride,0,65,20
+snoosh,Dinotopia: A Land Apart from Time,0,65,21
+snoosh,Far North,0,65,22
+snoosh,Practical Magic,0,65,23
+snoosh,Brave New World,5,65,24
+snoosh,The Summer Tree,0,65,25
+snoosh,Flowers For Algernon,0,65,26
+snoosh,Owl in Love,0,65,27
+snoosh,Naruto,0,65,28
+snoosh,Bleach (graphic novel),0,65,29
+snoosh,Kiss the Dust,0,65,30
+snoosh,To Kill a Mockingbird,0,65,31
+snoosh,The Lion the Witch and the Wardrobe,5,65,32
+snoosh,The Bourne Series,0,65,33
+snoosh,Life of Pi,3,65,34
+snoosh,Breathless,0,65,35
+snoosh,Twilight Series,0,65,36
+snoosh,Sabriel,0,65,37
+snoosh,Nineteen Eighty-Four (1984),0,65,38
+snoosh,Eragon,4,65,39
+snoosh,Hatchet,5,65,40
+snoosh,My Sister's Keeper,0,65,41
+snoosh,The Golden Compass,2,65,42
+snoosh,Harry Potter Series,5,65,43
+snoosh,Holes,4,65,44
+snoosh,Shonen Jump Series,0,65,45
+snoosh,The Shadow Club,0,65,46
+snoosh,Bone Series,1,65,47
+snoosh,Maus: A Survivor's Tale,0,65,48
+snoosh,The Joy Luck Club,0,65,49
+snoosh,The Lord of the Rings,5,65,50
+snoosh,The Hobbit,5,65,51
+snoosh,Shattered,0,65,52
+snoosh,The War Of The Worlds,0,65,53
+snoosh,Dealing with Dragons,0,65,54
+snoosh,The Chrysalids,0,65,55
+Huxil,The Hitchhiker's Guide To The Galaxy,0,66,1
+Huxil,Watership Down,0,66,2
+Huxil,The Five People You Meet in Heaven,0,66,3
+Huxil,Speak,0,66,4
+Huxil,I Know Why the Caged Bird Sings,0,66,5
+Huxil,Thirteen Reasons Why,0,66,6
+Huxil,Foundation Series,0,66,7
+Huxil,The Sisterhood of the Travelling Pants,0,66,8
+Huxil,A Great and Terrible Beauty,0,66,9
+Huxil,The Da Vinci Code,0,66,10
+Huxil,The Princess Diaries,0,66,11
+Huxil,Ender's Game,0,66,12
+Huxil,The Hunt for Red October,0,66,13
+Huxil,The Hunger Games,0,66,14
+Huxil,The Great Gatsby,0,66,15
+Huxil,Ranger's Apprentice Series,0,66,16
+Huxil,Inkheart,0,66,17
+Huxil,Neuromancer,0,66,18
+Huxil,Lord of the Flies,0,66,19
+Huxil,The Princess Bride,0,66,20
+Huxil,Dinotopia: A Land Apart from Time,0,66,21
+Huxil,Far North,0,66,22
+Huxil,Practical Magic,0,66,23
+Huxil,Brave New World,0,66,24
+Huxil,The Summer Tree,0,66,25
+Huxil,Flowers For Algernon,0,66,26
+Huxil,Owl in Love,0,66,27
+Huxil,Naruto,0,66,28
+Huxil,Bleach (graphic novel),0,66,29
+Huxil,Kiss the Dust,0,66,30
+Huxil,To Kill a Mockingbird,0,66,31
+Huxil,The Lion the Witch and the Wardrobe,3,66,32
+Huxil,The Bourne Series,4,66,33
+Huxil,Life of Pi,0,66,34
+Huxil,Breathless,0,66,35
+Huxil,Twilight Series,0,66,36
+Huxil,Sabriel,0,66,37
+Huxil,Nineteen Eighty-Four (1984),0,66,38
+Huxil,Eragon,0,66,39
+Huxil,Hatchet,0,66,40
+Huxil,My Sister's Keeper,0,66,41
+Huxil,The Golden Compass,0,66,42
+Huxil,Harry Potter Series,0,66,43
+Huxil,Holes,0,66,44
+Huxil,Shonen Jump Series,0,66,45
+Huxil,The Shadow Club,0,66,46
+Huxil,Bone Series,0,66,47
+Huxil,Maus: A Survivor's Tale,0,66,48
+Huxil,The Joy Luck Club,0,66,49
+Huxil,The Lord of the Rings,0,66,50
+Huxil,The Hobbit,4,66,51
+Huxil,Shattered,0,66,52
+Huxil,The War Of The Worlds,3,66,53
+Huxil,Dealing with Dragons,0,66,54
+Huxil,The Chrysalids,0,66,55
+hidan,The Hitchhiker's Guide To The Galaxy,0,67,1
+hidan,Watership Down,0,67,2
+hidan,The Five People You Meet in Heaven,0,67,3
+hidan,Speak,0,67,4
+hidan,I Know Why the Caged Bird Sings,0,67,5
+hidan,Thirteen Reasons Why,0,67,6
+hidan,Foundation Series,0,67,7
+hidan,The Sisterhood of the Travelling Pants,0,67,8
+hidan,A Great and Terrible Beauty,0,67,9
+hidan,The Da Vinci Code,0,67,10
+hidan,The Princess Diaries,0,67,11
+hidan,Ender's Game,0,67,12
+hidan,The Hunt for Red October,4,67,13
+hidan,The Hunger Games,0,67,14
+hidan,The Great Gatsby,0,67,15
+hidan,Ranger's Apprentice Series,0,67,16
+hidan,Inkheart,0,67,17
+hidan,Neuromancer,0,67,18
+hidan,Lord of the Flies,0,67,19
+hidan,The Princess Bride,0,67,20
+hidan,Dinotopia: A Land Apart from Time,0,67,21
+hidan,Far North,0,67,22
+hidan,Practical Magic,0,67,23
+hidan,Brave New World,0,67,24
+hidan,The Summer Tree,0,67,25
+hidan,Flowers For Algernon,0,67,26
+hidan,Owl in Love,0,67,27
+hidan,Naruto,5,67,28
+hidan,Bleach (graphic novel),5,67,29
+hidan,Kiss the Dust,0,67,30
+hidan,To Kill a Mockingbird,0,67,31
+hidan,The Lion the Witch and the Wardrobe,4,67,32
+hidan,The Bourne Series,0,67,33
+hidan,Life of Pi,5,67,34
+hidan,Breathless,0,67,35
+hidan,Twilight Series,0,67,36
+hidan,Sabriel,0,67,37
+hidan,Nineteen Eighty-Four (1984),0,67,38
+hidan,Eragon,5,67,39
+hidan,Hatchet,0,67,40
+hidan,My Sister's Keeper,0,67,41
+hidan,The Golden Compass,0,67,42
+hidan,Harry Potter Series,5,67,43
+hidan,Holes,5,67,44
+hidan,Shonen Jump Series,5,67,45
+hidan,The Shadow Club,0,67,46
+hidan,Bone Series,0,67,47
+hidan,Maus: A Survivor's Tale,0,67,48
+hidan,The Joy Luck Club,0,67,49
+hidan,The Lord of the Rings,5,67,50
+hidan,The Hobbit,5,67,51
+hidan,Shattered,0,67,52
+hidan,The War Of The Worlds,0,67,53
+hidan,Dealing with Dragons,0,67,54
+hidan,The Chrysalids,0,67,55
+Leah,The Hitchhiker's Guide To The Galaxy,0,68,1
+Leah,Watership Down,0,68,2
+Leah,The Five People You Meet in Heaven,0,68,3
+Leah,Speak,0,68,4
+Leah,I Know Why the Caged Bird Sings,0,68,5
+Leah,Thirteen Reasons Why,0,68,6
+Leah,Foundation Series,0,68,7
+Leah,The Sisterhood of the Travelling Pants,0,68,8
+Leah,A Great and Terrible Beauty,0,68,9
+Leah,The Da Vinci Code,0,68,10
+Leah,The Princess Diaries,0,68,11
+Leah,Ender's Game,0,68,12
+Leah,The Hunt for Red October,0,68,13
+Leah,The Hunger Games,0,68,14
+Leah,The Great Gatsby,0,68,15
+Leah,Ranger's Apprentice Series,0,68,16
+Leah,Inkheart,0,68,17
+Leah,Neuromancer,0,68,18
+Leah,Lord of the Flies,0,68,19
+Leah,The Princess Bride,0,68,20
+Leah,Dinotopia: A Land Apart from Time,0,68,21
+Leah,Far North,0,68,22
+Leah,Practical Magic,0,68,23
+Leah,Brave New World,0,68,24
+Leah,The Summer Tree,0,68,25
+Leah,Flowers For Algernon,0,68,26
+Leah,Owl in Love,0,68,27
+Leah,Naruto,4,68,28
+Leah,Bleach (graphic novel),0,68,29
+Leah,Kiss the Dust,0,68,30
+Leah,To Kill a Mockingbird,0,68,31
+Leah,The Lion the Witch and the Wardrobe,0,68,32
+Leah,The Bourne Series,0,68,33
+Leah,Life of Pi,0,68,34
+Leah,Breathless,0,68,35
+Leah,Twilight Series,0,68,36
+Leah,Sabriel,0,68,37
+Leah,Nineteen Eighty-Four (1984),0,68,38
+Leah,Eragon,0,68,39
+Leah,Hatchet,0,68,40
+Leah,My Sister's Keeper,0,68,41
+Leah,The Golden Compass,0,68,42
+Leah,Harry Potter Series,0,68,43
+Leah,Holes,0,68,44
+Leah,Shonen Jump Series,3,68,45
+Leah,The Shadow Club,0,68,46
+Leah,Bone Series,0,68,47
+Leah,Maus: A Survivor's Tale,0,68,48
+Leah,The Joy Luck Club,0,68,49
+Leah,The Lord of the Rings,0,68,50
+Leah,The Hobbit,0,68,51
+Leah,Shattered,0,68,52
+Leah,The War Of The Worlds,0,68,53
+Leah,Dealing with Dragons,0,68,54
+Leah,The Chrysalids,0,68,55
+Boxxy,The Hitchhiker's Guide To The Galaxy,0,69,1
+Boxxy,Watership Down,0,69,2
+Boxxy,The Five People You Meet in Heaven,0,69,3
+Boxxy,Speak,0,69,4
+Boxxy,I Know Why the Caged Bird Sings,0,69,5
+Boxxy,Thirteen Reasons Why,0,69,6
+Boxxy,Foundation Series,0,69,7
+Boxxy,The Sisterhood of the Travelling Pants,0,69,8
+Boxxy,A Great and Terrible Beauty,0,69,9
+Boxxy,The Da Vinci Code,0,69,10
+Boxxy,The Princess Diaries,0,69,11
+Boxxy,Ender's Game,0,69,12
+Boxxy,The Hunt for Red October,0,69,13
+Boxxy,The Hunger Games,0,69,14
+Boxxy,The Great Gatsby,0,69,15
+Boxxy,Ranger's Apprentice Series,0,69,16
+Boxxy,Inkheart,0,69,17
+Boxxy,Neuromancer,0,69,18
+Boxxy,Lord of the Flies,0,69,19
+Boxxy,The Princess Bride,0,69,20
+Boxxy,Dinotopia: A Land Apart from Time,0,69,21
+Boxxy,Far North,0,69,22
+Boxxy,Practical Magic,0,69,23
+Boxxy,Brave New World,0,69,24
+Boxxy,The Summer Tree,0,69,25
+Boxxy,Flowers For Algernon,0,69,26
+Boxxy,Owl in Love,0,69,27
+Boxxy,Naruto,0,69,28
+Boxxy,Bleach (graphic novel),5,69,29
+Boxxy,Kiss the Dust,0,69,30
+Boxxy,To Kill a Mockingbird,5,69,31
+Boxxy,The Lion the Witch and the Wardrobe,0,69,32
+Boxxy,The Bourne Series,0,69,33
+Boxxy,Life of Pi,5,69,34
+Boxxy,Breathless,0,69,35
+Boxxy,Twilight Series,0,69,36
+Boxxy,Sabriel,0,69,37
+Boxxy,Nineteen Eighty-Four (1984),0,69,38
+Boxxy,Eragon,0,69,39
+Boxxy,Hatchet,5,69,40
+Boxxy,My Sister's Keeper,0,69,41
+Boxxy,The Golden Compass,0,69,42
+Boxxy,Harry Potter Series,0,69,43
+Boxxy,Holes,0,69,44
+Boxxy,Shonen Jump Series,0,69,45
+Boxxy,The Shadow Club,0,69,46
+Boxxy,Bone Series,0,69,47
+Boxxy,Maus: A Survivor's Tale,0,69,48
+Boxxy,The Joy Luck Club,0,69,49
+Boxxy,The Lord of the Rings,0,69,50
+Boxxy,The Hobbit,0,69,51
+Boxxy,Shattered,0,69,52
+Boxxy,The War Of The Worlds,0,69,53
+Boxxy,Dealing with Dragons,0,69,54
+Boxxy,The Chrysalids,0,69,55
+Rosanna,The Hitchhiker's Guide To The Galaxy,0,70,1
+Rosanna,Watership Down,0,70,2
+Rosanna,The Five People You Meet in Heaven,0,70,3
+Rosanna,Speak,0,70,4
+Rosanna,I Know Why the Caged Bird Sings,0,70,5
+Rosanna,Thirteen Reasons Why,0,70,6
+Rosanna,Foundation Series,0,70,7
+Rosanna,The Sisterhood of the Travelling Pants,0,70,8
+Rosanna,A Great and Terrible Beauty,0,70,9
+Rosanna,The Da Vinci Code,5,70,10
+Rosanna,The Princess Diaries,5,70,11
+Rosanna,Ender's Game,4,70,12
+Rosanna,The Hunt for Red October,0,70,13
+Rosanna,The Hunger Games,0,70,14
+Rosanna,The Great Gatsby,2,70,15
+Rosanna,Ranger's Apprentice Series,0,70,16
+Rosanna,Inkheart,0,70,17
+Rosanna,Neuromancer,0,70,18
+Rosanna,Lord of the Flies,3,70,19
+Rosanna,The Princess Bride,0,70,20
+Rosanna,Dinotopia: A Land Apart from Time,0,70,21
+Rosanna,Far North,0,70,22
+Rosanna,Practical Magic,0,70,23
+Rosanna,Brave New World,0,70,24
+Rosanna,The Summer Tree,0,70,25
+Rosanna,Flowers For Algernon,0,70,26
+Rosanna,Owl in Love,0,70,27
+Rosanna,Naruto,3,70,28
+Rosanna,Bleach (graphic novel),0,70,29
+Rosanna,Kiss the Dust,0,70,30
+Rosanna,To Kill a Mockingbird,3,70,31
+Rosanna,The Lion the Witch and the Wardrobe,5,70,32
+Rosanna,The Bourne Series,0,70,33
+Rosanna,Life of Pi,3,70,34
+Rosanna,Breathless,0,70,35
+Rosanna,Twilight Series,5,70,36
+Rosanna,Sabriel,0,70,37
+Rosanna,Nineteen Eighty-Four (1984),0,70,38
+Rosanna,Eragon,0,70,39
+Rosanna,Hatchet,0,70,40
+Rosanna,My Sister's Keeper,0,70,41
+Rosanna,The Golden Compass,0,70,42
+Rosanna,Harry Potter Series,5,70,43
+Rosanna,Holes,5,70,44
+Rosanna,Shonen Jump Series,0,70,45
+Rosanna,The Shadow Club,0,70,46
+Rosanna,Bone Series,0,70,47
+Rosanna,Maus: A Survivor's Tale,0,70,48
+Rosanna,The Joy Luck Club,0,70,49
+Rosanna,The Lord of the Rings,0,70,50
+Rosanna,The Hobbit,2,70,51
+Rosanna,Shattered,0,70,52
+Rosanna,The War Of The Worlds,0,70,53
+Rosanna,Dealing with Dragons,0,70,54
+Rosanna,The Chrysalids,0,70,55
+Claire,The Hitchhiker's Guide To The Galaxy,5,71,1
+Claire,Watership Down,4,71,2
+Claire,The Five People You Meet in Heaven,0,71,3
+Claire,Speak,0,71,4
+Claire,I Know Why the Caged Bird Sings,0,71,5
+Claire,Thirteen Reasons Why,0,71,6
+Claire,Foundation Series,0,71,7
+Claire,The Sisterhood of the Travelling Pants,5,71,8
+Claire,A Great and Terrible Beauty,0,71,9
+Claire,The Da Vinci Code,4,71,10
+Claire,The Princess Diaries,3,71,11
+Claire,Ender's Game,0,71,12
+Claire,The Hunt for Red October,0,71,13
+Claire,The Hunger Games,0,71,14
+Claire,The Great Gatsby,3,71,15
+Claire,Ranger's Apprentice Series,0,71,16
+Claire,Inkheart,3,71,17
+Claire,Neuromancer,0,71,18
+Claire,Lord of the Flies,4,71,19
+Claire,The Princess Bride,0,71,20
+Claire,Dinotopia: A Land Apart from Time,0,71,21
+Claire,Far North,0,71,22
+Claire,Practical Magic,0,71,23
+Claire,Brave New World,2,71,24
+Claire,The Summer Tree,0,71,25
+Claire,Flowers For Algernon,5,71,26
+Claire,Owl in Love,0,71,27
+Claire,Naruto,0,71,28
+Claire,Bleach (graphic novel),0,71,29
+Claire,Kiss the Dust,0,71,30
+Claire,To Kill a Mockingbird,5,71,31
+Claire,The Lion the Witch and the Wardrobe,5,71,32
+Claire,The Bourne Series,0,71,33
+Claire,Life of Pi,3,71,34
+Claire,Breathless,0,71,35
+Claire,Twilight Series,1,71,36
+Claire,Sabriel,5,71,37
+Claire,Nineteen Eighty-Four (1984),0,71,38
+Claire,Eragon,4,71,39
+Claire,Hatchet,4,71,40
+Claire,My Sister's Keeper,0,71,41
+Claire,The Golden Compass,5,71,42
+Claire,Harry Potter Series,5,71,43
+Claire,Holes,5,71,44
+Claire,Shonen Jump Series,0,71,45
+Claire,The Shadow Club,0,71,46
+Claire,Bone Series,0,71,47
+Claire,Maus: A Survivor's Tale,0,71,48
+Claire,The Joy Luck Club,0,71,49
+Claire,The Lord of the Rings,5,71,50
+Claire,The Hobbit,5,71,51
+Claire,Shattered,0,71,52
+Claire,The War Of The Worlds,3,71,53
+Claire,Dealing with Dragons,0,71,54
+Claire,The Chrysalids,3,71,55
+David,The Hitchhiker's Guide To The Galaxy,0,72,1
+David,Watership Down,0,72,2
+David,The Five People You Meet in Heaven,0,72,3
+David,Speak,0,72,4
+David,I Know Why the Caged Bird Sings,0,72,5
+David,Thirteen Reasons Why,0,72,6
+David,Foundation Series,0,72,7
+David,The Sisterhood of the Travelling Pants,0,72,8
+David,A Great and Terrible Beauty,0,72,9
+David,The Da Vinci Code,0,72,10
+David,The Princess Diaries,0,72,11
+David,Ender's Game,0,72,12
+David,The Hunt for Red October,0,72,13
+David,The Hunger Games,0,72,14
+David,The Great Gatsby,0,72,15
+David,Ranger's Apprentice Series,0,72,16
+David,Inkheart,1,72,17
+David,Neuromancer,0,72,18
+David,Lord of the Flies,0,72,19
+David,The Princess Bride,0,72,20
+David,Dinotopia: A Land Apart from Time,0,72,21
+David,Far North,0,72,22
+David,Practical Magic,0,72,23
+David,Brave New World,0,72,24
+David,The Summer Tree,0,72,25
+David,Flowers For Algernon,0,72,26
+David,Owl in Love,0,72,27
+David,Naruto,0,72,28
+David,Bleach (graphic novel),0,72,29
+David,Kiss the Dust,0,72,30
+David,To Kill a Mockingbird,0,72,31
+David,The Lion the Witch and the Wardrobe,0,72,32
+David,The Bourne Series,0,72,33
+David,Life of Pi,0,72,34
+David,Breathless,0,72,35
+David,Twilight Series,0,72,36
+David,Sabriel,0,72,37
+David,Nineteen Eighty-Four (1984),0,72,38
+David,Eragon,3,72,39
+David,Hatchet,0,72,40
+David,My Sister's Keeper,0,72,41
+David,The Golden Compass,5,72,42
+David,Harry Potter Series,3,72,43
+David,Holes,0,72,44
+David,Shonen Jump Series,0,72,45
+David,The Shadow Club,0,72,46
+David,Bone Series,0,72,47
+David,Maus: A Survivor's Tale,0,72,48
+David,The Joy Luck Club,0,72,49
+David,The Lord of the Rings,0,72,50
+David,The Hobbit,0,72,51
+David,Shattered,0,72,52
+David,The War Of The Worlds,0,72,53
+David,Dealing with Dragons,0,72,54
+David,The Chrysalids,5,72,55
+Zachary,The Hitchhiker's Guide To The Galaxy,0,73,1
+Zachary,Watership Down,0,73,2
+Zachary,The Five People You Meet in Heaven,0,73,3
+Zachary,Speak,0,73,4
+Zachary,I Know Why the Caged Bird Sings,0,73,5
+Zachary,Thirteen Reasons Why,0,73,6
+Zachary,Foundation Series,0,73,7
+Zachary,The Sisterhood of the Travelling Pants,0,73,8
+Zachary,A Great and Terrible Beauty,0,73,9
+Zachary,The Da Vinci Code,0,73,10
+Zachary,The Princess Diaries,0,73,11
+Zachary,Ender's Game,0,73,12
+Zachary,The Hunt for Red October,0,73,13
+Zachary,The Hunger Games,0,73,14
+Zachary,The Great Gatsby,0,73,15
+Zachary,Ranger's Apprentice Series,0,73,16
+Zachary,Inkheart,3,73,17
+Zachary,Neuromancer,0,73,18
+Zachary,Lord of the Flies,0,73,19
+Zachary,The Princess Bride,0,73,20
+Zachary,Dinotopia: A Land Apart from Time,0,73,21
+Zachary,Far North,0,73,22
+Zachary,Practical Magic,0,73,23
+Zachary,Brave New World,0,73,24
+Zachary,The Summer Tree,0,73,25
+Zachary,Flowers For Algernon,0,73,26
+Zachary,Owl in Love,0,73,27
+Zachary,Naruto,5,73,28
+Zachary,Bleach (graphic novel),0,73,29
+Zachary,Kiss the Dust,0,73,30
+Zachary,To Kill a Mockingbird,0,73,31
+Zachary,The Lion the Witch and the Wardrobe,0,73,32
+Zachary,The Bourne Series,0,73,33
+Zachary,Life of Pi,0,73,34
+Zachary,Breathless,0,73,35
+Zachary,Twilight Series,0,73,36
+Zachary,Sabriel,0,73,37
+Zachary,Nineteen Eighty-Four (1984),0,73,38
+Zachary,Eragon,4,73,39
+Zachary,Hatchet,0,73,40
+Zachary,My Sister's Keeper,0,73,41
+Zachary,The Golden Compass,3,73,42
+Zachary,Harry Potter Series,0,73,43
+Zachary,Holes,5,73,44
+Zachary,Shonen Jump Series,5,73,45
+Zachary,The Shadow Club,0,73,46
+Zachary,Bone Series,0,73,47
+Zachary,Maus: A Survivor's Tale,0,73,48
+Zachary,The Joy Luck Club,0,73,49
+Zachary,The Lord of the Rings,0,73,50
+Zachary,The Hobbit,5,73,51
+Zachary,Shattered,0,73,52
+Zachary,The War Of The Worlds,0,73,53
+Zachary,Dealing with Dragons,0,73,54
+Zachary,The Chrysalids,0,73,55
+ParseClaws,The Hitchhiker's Guide To The Galaxy,5,74,1
+ParseClaws,Watership Down,5,74,2
+ParseClaws,The Five People You Meet in Heaven,4,74,3
+ParseClaws,Speak,0,74,4
+ParseClaws,I Know Why the Caged Bird Sings,0,74,5
+ParseClaws,Thirteen Reasons Why,0,74,6
+ParseClaws,Foundation Series,0,74,7
+ParseClaws,The Sisterhood of the Travelling Pants,0,74,8
+ParseClaws,A Great and Terrible Beauty,0,74,9
+ParseClaws,The Da Vinci Code,1,74,10
+ParseClaws,The Princess Diaries,0,74,11
+ParseClaws,Ender's Game,4,74,12
+ParseClaws,The Hunt for Red October,0,74,13
+ParseClaws,The Hunger Games,0,74,14
+ParseClaws,The Great Gatsby,4,74,15
+ParseClaws,Ranger's Apprentice Series,0,74,16
+ParseClaws,Inkheart,0,74,17
+ParseClaws,Neuromancer,0,74,18
+ParseClaws,Lord of the Flies,4,74,19
+ParseClaws,The Princess Bride,0,74,20
+ParseClaws,Dinotopia: A Land Apart from Time,0,74,21
+ParseClaws,Far North,0,74,22
+ParseClaws,Practical Magic,0,74,23
+ParseClaws,Brave New World,5,74,24
+ParseClaws,The Summer Tree,0,74,25
+ParseClaws,Flowers For Algernon,5,74,26
+ParseClaws,Owl in Love,0,74,27
+ParseClaws,Naruto,3,74,28
+ParseClaws,Bleach (graphic novel),3,74,29
+ParseClaws,Kiss the Dust,0,74,30
+ParseClaws,To Kill a Mockingbird,4,74,31
+ParseClaws,The Lion the Witch and the Wardrobe,3,74,32
+ParseClaws,The Bourne Series,0,74,33
+ParseClaws,Life of Pi,0,74,34
+ParseClaws,Breathless,0,74,35
+ParseClaws,Twilight Series,1,74,36
+ParseClaws,Sabriel,0,74,37
+ParseClaws,Nineteen Eighty-Four (1984),5,74,38
+ParseClaws,Eragon,0,74,39
+ParseClaws,Hatchet,0,74,40
+ParseClaws,My Sister's Keeper,0,74,41
+ParseClaws,The Golden Compass,0,74,42
+ParseClaws,Harry Potter Series,4,74,43
+ParseClaws,Holes,4,74,44
+ParseClaws,Shonen Jump Series,0,74,45
+ParseClaws,The Shadow Club,0,74,46
+ParseClaws,Bone Series,4,74,47
+ParseClaws,Maus: A Survivor's Tale,0,74,48
+ParseClaws,The Joy Luck Club,0,74,49
+ParseClaws,The Lord of the Rings,0,74,50
+ParseClaws,The Hobbit,0,74,51
+ParseClaws,Shattered,0,74,52
+ParseClaws,The War Of The Worlds,0,74,53
+ParseClaws,Dealing with Dragons,0,74,54
+ParseClaws,The Chrysalids,2,74,55
+Tiffany,The Hitchhiker's Guide To The Galaxy,4,75,1
+Tiffany,Watership Down,0,75,2
+Tiffany,The Five People You Meet in Heaven,0,75,3
+Tiffany,Speak,3,75,4
+Tiffany,I Know Why the Caged Bird Sings,0,75,5
+Tiffany,Thirteen Reasons Why,0,75,6
+Tiffany,Foundation Series,0,75,7
+Tiffany,The Sisterhood of the Travelling Pants,2,75,8
+Tiffany,A Great and Terrible Beauty,0,75,9
+Tiffany,The Da Vinci Code,5,75,10
+Tiffany,The Princess Diaries,2,75,11
+Tiffany,Ender's Game,0,75,12
+Tiffany,The Hunt for Red October,0,75,13
+Tiffany,The Hunger Games,0,75,14
+Tiffany,The Great Gatsby,4,75,15
+Tiffany,Ranger's Apprentice Series,0,75,16
+Tiffany,Inkheart,4,75,17
+Tiffany,Neuromancer,0,75,18
+Tiffany,Lord of the Flies,3,75,19
+Tiffany,The Princess Bride,4,75,20
+Tiffany,Dinotopia: A Land Apart from Time,0,75,21
+Tiffany,Far North,0,75,22
+Tiffany,Practical Magic,0,75,23
+Tiffany,Brave New World,0,75,24
+Tiffany,The Summer Tree,0,75,25
+Tiffany,Flowers For Algernon,0,75,26
+Tiffany,Owl in Love,0,75,27
+Tiffany,Naruto,1,75,28
+Tiffany,Bleach (graphic novel),3,75,29
+Tiffany,Kiss the Dust,0,75,30
+Tiffany,To Kill a Mockingbird,5,75,31
+Tiffany,The Lion the Witch and the Wardrobe,5,75,32
+Tiffany,The Bourne Series,0,75,33
+Tiffany,Life of Pi,0,75,34
+Tiffany,Breathless,0,75,35
+Tiffany,Twilight Series,1,75,36
+Tiffany,Sabriel,0,75,37
+Tiffany,Nineteen Eighty-Four (1984),0,75,38
+Tiffany,Eragon,3,75,39
+Tiffany,Hatchet,4,75,40
+Tiffany,My Sister's Keeper,5,75,41
+Tiffany,The Golden Compass,4,75,42
+Tiffany,Harry Potter Series,5,75,43
+Tiffany,Holes,5,75,44
+Tiffany,Shonen Jump Series,0,75,45
+Tiffany,The Shadow Club,0,75,46
+Tiffany,Bone Series,2,75,47
+Tiffany,Maus: A Survivor's Tale,0,75,48
+Tiffany,The Joy Luck Club,0,75,49
+Tiffany,The Lord of the Rings,5,75,50
+Tiffany,The Hobbit,5,75,51
+Tiffany,Shattered,4,75,52
+Tiffany,The War Of The Worlds,5,75,53
+Tiffany,Dealing with Dragons,0,75,54
+Tiffany,The Chrysalids,4,75,55
+Sidney,The Hitchhiker's Guide To The Galaxy,0,76,1
+Sidney,Watership Down,0,76,2
+Sidney,The Five People You Meet in Heaven,0,76,3
+Sidney,Speak,0,76,4
+Sidney,I Know Why the Caged Bird Sings,0,76,5
+Sidney,Thirteen Reasons Why,0,76,6
+Sidney,Foundation Series,0,76,7
+Sidney,The Sisterhood of the Travelling Pants,0,76,8
+Sidney,A Great and Terrible Beauty,0,76,9
+Sidney,The Da Vinci Code,0,76,10
+Sidney,The Princess Diaries,0,76,11
+Sidney,Ender's Game,0,76,12
+Sidney,The Hunt for Red October,0,76,13
+Sidney,The Hunger Games,0,76,14
+Sidney,The Great Gatsby,3,76,15
+Sidney,Ranger's Apprentice Series,0,76,16
+Sidney,Inkheart,4,76,17
+Sidney,Neuromancer,0,76,18
+Sidney,Lord of the Flies,4,76,19
+Sidney,The Princess Bride,0,76,20
+Sidney,Dinotopia: A Land Apart from Time,0,76,21
+Sidney,Far North,0,76,22
+Sidney,Practical Magic,0,76,23
+Sidney,Brave New World,3,76,24
+Sidney,The Summer Tree,0,76,25
+Sidney,Flowers For Algernon,0,76,26
+Sidney,Owl in Love,0,76,27
+Sidney,Naruto,5,76,28
+Sidney,Bleach (graphic novel),5,76,29
+Sidney,Kiss the Dust,0,76,30
+Sidney,To Kill a Mockingbird,0,76,31
+Sidney,The Lion the Witch and the Wardrobe,4,76,32
+Sidney,The Bourne Series,0,76,33
+Sidney,Life of Pi,4,76,34
+Sidney,Breathless,0,76,35
+Sidney,Twilight Series,0,76,36
+Sidney,Sabriel,0,76,37
+Sidney,Nineteen Eighty-Four (1984),0,76,38
+Sidney,Eragon,5,76,39
+Sidney,Hatchet,5,76,40
+Sidney,My Sister's Keeper,0,76,41
+Sidney,The Golden Compass,0,76,42
+Sidney,Harry Potter Series,5,76,43
+Sidney,Holes,0,76,44
+Sidney,Shonen Jump Series,4,76,45
+Sidney,The Shadow Club,0,76,46
+Sidney,Bone Series,4,76,47
+Sidney,Maus: A Survivor's Tale,0,76,48
+Sidney,The Joy Luck Club,0,76,49
+Sidney,The Lord of the Rings,5,76,50
+Sidney,The Hobbit,5,76,51
+Sidney,Shattered,0,76,52
+Sidney,The War Of The Worlds,0,76,53
+Sidney,Dealing with Dragons,0,76,54
+Sidney,The Chrysalids,0,76,55
+Tony,The Hitchhiker's Guide To The Galaxy,1,77,1
+Tony,Watership Down,1,77,2
+Tony,The Five People You Meet in Heaven,1,77,3
+Tony,Speak,1,77,4
+Tony,I Know Why the Caged Bird Sings,1,77,5
+Tony,Thirteen Reasons Why,1,77,6
+Tony,Foundation Series,1,77,7
+Tony,The Sisterhood of the Travelling Pants,3,77,8
+Tony,A Great and Terrible Beauty,3,77,9
+Tony,The Da Vinci Code,1,77,10
+Tony,The Princess Diaries,1,77,11
+Tony,Ender's Game,3,77,12
+Tony,The Hunt for Red October,3,77,13
+Tony,The Hunger Games,4,77,14
+Tony,The Great Gatsby,5,77,15
+Tony,Ranger's Apprentice Series,1,77,16
+Tony,Inkheart,3,77,17
+Tony,Neuromancer,3,77,18
+Tony,Lord of the Flies,5,77,19
+Tony,The Princess Bride,3,77,20
+Tony,Dinotopia: A Land Apart from Time,1,77,21
+Tony,Far North,1,77,22
+Tony,Practical Magic,1,77,23
+Tony,Brave New World,3,77,24
+Tony,The Summer Tree,3,77,25
+Tony,Flowers For Algernon,1,77,26
+Tony,Owl in Love,3,77,27
+Tony,Naruto,1,77,28
+Tony,Bleach (graphic novel),3,77,29
+Tony,Kiss the Dust,3,77,30
+Tony,To Kill a Mockingbird,4,77,31
+Tony,The Lion the Witch and the Wardrobe,0,77,32
+Tony,The Bourne Series,0,77,33
+Tony,Life of Pi,0,77,34
+Tony,Breathless,0,77,35
+Tony,Twilight Series,0,77,36
+Tony,Sabriel,4,77,37
+Tony,Nineteen Eighty-Four (1984),0,77,38
+Tony,Eragon,0,77,39
+Tony,Hatchet,0,77,40
+Tony,My Sister's Keeper,4,77,41
+Tony,The Golden Compass,0,77,42
+Tony,Harry Potter Series,0,77,43
+Tony,Holes,2,77,44
+Tony,Shonen Jump Series,0,77,45
+Tony,The Shadow Club,1,77,46
+Tony,Bone Series,1,77,47
+Tony,Maus: A Survivor's Tale,1,77,48
+Tony,The Joy Luck Club,0,77,49
+Tony,The Lord of the Rings,5,77,50
+Tony,The Hobbit,5,77,51
+Tony,Shattered,3,77,52
+Tony,The War Of The Worlds,3,77,53
+Tony,Dealing with Dragons,3,77,54
+Tony,The Chrysalids,3,77,55
+Mark,The Hitchhiker's Guide To The Galaxy,5,78,1
+Mark,Watership Down,4,78,2
+Mark,The Five People You Meet in Heaven,0,78,3
+Mark,Speak,0,78,4
+Mark,I Know Why the Caged Bird Sings,0,78,5
+Mark,Thirteen Reasons Why,0,78,6
+Mark,Foundation Series,0,78,7
+Mark,The Sisterhood of the Travelling Pants,0,78,8
+Mark,A Great and Terrible Beauty,0,78,9
+Mark,The Da Vinci Code,4,78,10
+Mark,The Princess Diaries,0,78,11
+Mark,Ender's Game,5,78,12
+Mark,The Hunt for Red October,0,78,13
+Mark,The Hunger Games,0,78,14
+Mark,The Great Gatsby,4,78,15
+Mark,Ranger's Apprentice Series,0,78,16
+Mark,Inkheart,0,78,17
+Mark,Neuromancer,0,78,18
+Mark,Lord of the Flies,3,78,19
+Mark,The Princess Bride,0,78,20
+Mark,Dinotopia: A Land Apart from Time,0,78,21
+Mark,Far North,0,78,22
+Mark,Practical Magic,0,78,23
+Mark,Brave New World,4,78,24
+Mark,The Summer Tree,0,78,25
+Mark,Flowers For Algernon,0,78,26
+Mark,Owl in Love,0,78,27
+Mark,Naruto,4,78,28
+Mark,Bleach (graphic novel),4,78,29
+Mark,Kiss the Dust,0,78,30
+Mark,To Kill a Mockingbird,5,78,31
+Mark,The Lion the Witch and the Wardrobe,3,78,32
+Mark,The Bourne Series,0,78,33
+Mark,Life of Pi,4,78,34
+Mark,Breathless,0,78,35
+Mark,Twilight Series,0,78,36
+Mark,Sabriel,0,78,37
+Mark,Nineteen Eighty-Four (1984),0,78,38
+Mark,Eragon,4,78,39
+Mark,Hatchet,0,78,40
+Mark,My Sister's Keeper,0,78,41
+Mark,The Golden Compass,0,78,42
+Mark,Harry Potter Series,0,78,43
+Mark,Holes,0,78,44
+Mark,Shonen Jump Series,0,78,45
+Mark,The Shadow Club,0,78,46
+Mark,Bone Series,0,78,47
+Mark,Maus: A Survivor's Tale,0,78,48
+Mark,The Joy Luck Club,0,78,49
+Mark,The Lord of the Rings,0,78,50
+Mark,The Hobbit,0,78,51
+Mark,Shattered,0,78,52
+Mark,The War Of The Worlds,0,78,53
+Mark,Dealing with Dragons,0,78,54
+Mark,The Chrysalids,5,78,55
+NuNu,The Hitchhiker's Guide To The Galaxy,0,79,1
+NuNu,Watership Down,0,79,2
+NuNu,The Five People You Meet in Heaven,0,79,3
+NuNu,Speak,0,79,4
+NuNu,I Know Why the Caged Bird Sings,0,79,5
+NuNu,Thirteen Reasons Why,0,79,6
+NuNu,Foundation Series,0,79,7
+NuNu,The Sisterhood of the Travelling Pants,3,79,8
+NuNu,A Great and Terrible Beauty,0,79,9
+NuNu,The Da Vinci Code,0,79,10
+NuNu,The Princess Diaries,0,79,11
+NuNu,Ender's Game,0,79,12
+NuNu,The Hunt for Red October,0,79,13
+NuNu,The Hunger Games,0,79,14
+NuNu,The Great Gatsby,0,79,15
+NuNu,Ranger's Apprentice Series,0,79,16
+NuNu,Inkheart,4,79,17
+NuNu,Neuromancer,0,79,18
+NuNu,Lord of the Flies,4,79,19
+NuNu,The Princess Bride,0,79,20
+NuNu,Dinotopia: A Land Apart from Time,0,79,21
+NuNu,Far North,0,79,22
+NuNu,Practical Magic,0,79,23
+NuNu,Brave New World,0,79,24
+NuNu,The Summer Tree,0,79,25
+NuNu,Flowers For Algernon,0,79,26
+NuNu,Owl in Love,0,79,27
+NuNu,Naruto,0,79,28
+NuNu,Bleach (graphic novel),0,79,29
+NuNu,Kiss the Dust,0,79,30
+NuNu,To Kill a Mockingbird,4,79,31
+NuNu,The Lion the Witch and the Wardrobe,0,79,32
+NuNu,The Bourne Series,0,79,33
+NuNu,Life of Pi,3,79,34
+NuNu,Breathless,0,79,35
+NuNu,Twilight Series,5,79,36
+NuNu,Sabriel,0,79,37
+NuNu,Nineteen Eighty-Four (1984),0,79,38
+NuNu,Eragon,0,79,39
+NuNu,Hatchet,0,79,40
+NuNu,My Sister's Keeper,0,79,41
+NuNu,The Golden Compass,3,79,42
+NuNu,Harry Potter Series,4,79,43
+NuNu,Holes,4,79,44
+NuNu,Shonen Jump Series,0,79,45
+NuNu,The Shadow Club,0,79,46
+NuNu,Bone Series,0,79,47
+NuNu,Maus: A Survivor's Tale,0,79,48
+NuNu,The Joy Luck Club,0,79,49
+NuNu,The Lord of the Rings,0,79,50
+NuNu,The Hobbit,0,79,51
+NuNu,Shattered,0,79,52
+NuNu,The War Of The Worlds,0,79,53
+NuNu,Dealing with Dragons,0,79,54
+NuNu,The Chrysalids,0,79,55
+Hamza ALi,The Hitchhiker's Guide To The Galaxy,0,80,1
+Hamza ALi,Watership Down,0,80,2
+Hamza ALi,The Five People You Meet in Heaven,0,80,3
+Hamza ALi,Speak,0,80,4
+Hamza ALi,I Know Why the Caged Bird Sings,0,80,5
+Hamza ALi,Thirteen Reasons Why,0,80,6
+Hamza ALi,Foundation Series,0,80,7
+Hamza ALi,The Sisterhood of the Travelling Pants,1,80,8
+Hamza ALi,A Great and Terrible Beauty,0,80,9
+Hamza ALi,The Da Vinci Code,5,80,10
+Hamza ALi,The Princess Diaries,3,80,11
+Hamza ALi,Ender's Game,0,80,12
+Hamza ALi,The Hunt for Red October,0,80,13
+Hamza ALi,The Hunger Games,0,80,14
+Hamza ALi,The Great Gatsby,3,80,15
+Hamza ALi,Ranger's Apprentice Series,0,80,16
+Hamza ALi,Inkheart,5,80,17
+Hamza ALi,Neuromancer,0,80,18
+Hamza ALi,Lord of the Flies,2,80,19
+Hamza ALi,The Princess Bride,0,80,20
+Hamza ALi,Dinotopia: A Land Apart from Time,4,80,21
+Hamza ALi,Far North,0,80,22
+Hamza ALi,Practical Magic,0,80,23
+Hamza ALi,Brave New World,0,80,24
+Hamza ALi,The Summer Tree,0,80,25
+Hamza ALi,Flowers For Algernon,0,80,26
+Hamza ALi,Owl in Love,0,80,27
+Hamza ALi,Naruto,1,80,28
+Hamza ALi,Bleach (graphic novel),0,80,29
+Hamza ALi,Kiss the Dust,0,80,30
+Hamza ALi,To Kill a Mockingbird,2,80,31
+Hamza ALi,The Lion the Witch and the Wardrobe,5,80,32
+Hamza ALi,The Bourne Series,0,80,33
+Hamza ALi,Life of Pi,5,80,34
+Hamza ALi,Breathless,0,80,35
+Hamza ALi,Twilight Series,4,80,36
+Hamza ALi,Sabriel,0,80,37
+Hamza ALi,Nineteen Eighty-Four (1984),0,80,38
+Hamza ALi,Eragon,3,80,39
+Hamza ALi,Hatchet,0,80,40
+Hamza ALi,My Sister's Keeper,4,80,41
+Hamza ALi,The Golden Compass,3,80,42
+Hamza ALi,Harry Potter Series,4,80,43
+Hamza ALi,Holes,5,80,44
+Hamza ALi,Shonen Jump Series,0,80,45
+Hamza ALi,The Shadow Club,0,80,46
+Hamza ALi,Bone Series,0,80,47
+Hamza ALi,Maus: A Survivor's Tale,0,80,48
+Hamza ALi,The Joy Luck Club,0,80,49
+Hamza ALi,The Lord of the Rings,3,80,50
+Hamza ALi,The Hobbit,1,80,51
+Hamza ALi,Shattered,0,80,52
+Hamza ALi,The War Of The Worlds,0,80,53
+Hamza ALi,Dealing with Dragons,0,80,54
+Hamza ALi,The Chrysalids,0,80,55
+dencellia,The Hitchhiker's Guide To The Galaxy,0,81,1
+dencellia,Watership Down,0,81,2
+dencellia,The Five People You Meet in Heaven,0,81,3
+dencellia,Speak,0,81,4
+dencellia,I Know Why the Caged Bird Sings,0,81,5
+dencellia,Thirteen Reasons Why,0,81,6
+dencellia,Foundation Series,0,81,7
+dencellia,The Sisterhood of the Travelling Pants,0,81,8
+dencellia,A Great and Terrible Beauty,0,81,9
+dencellia,The Da Vinci Code,0,81,10
+dencellia,The Princess Diaries,0,81,11
+dencellia,Ender's Game,0,81,12
+dencellia,The Hunt for Red October,0,81,13
+dencellia,The Hunger Games,0,81,14
+dencellia,The Great Gatsby,0,81,15
+dencellia,Ranger's Apprentice Series,0,81,16
+dencellia,Inkheart,0,81,17
+dencellia,Neuromancer,0,81,18
+dencellia,Lord of the Flies,2,81,19
+dencellia,The Princess Bride,0,81,20
+dencellia,Dinotopia: A Land Apart from Time,0,81,21
+dencellia,Far North,0,81,22
+dencellia,Practical Magic,0,81,23
+dencellia,Brave New World,0,81,24
+dencellia,The Summer Tree,0,81,25
+dencellia,Flowers For Algernon,0,81,26
+dencellia,Owl in Love,0,81,27
+dencellia,Naruto,3,81,28
+dencellia,Bleach (graphic novel),4,81,29
+dencellia,Kiss the Dust,0,81,30
+dencellia,To Kill a Mockingbird,3,81,31
+dencellia,The Lion the Witch and the Wardrobe,0,81,32
+dencellia,The Bourne Series,0,81,33
+dencellia,Life of Pi,0,81,34
+dencellia,Breathless,0,81,35
+dencellia,Twilight Series,4,81,36
+dencellia,Sabriel,0,81,37
+dencellia,Nineteen Eighty-Four (1984),0,81,38
+dencellia,Eragon,0,81,39
+dencellia,Hatchet,0,81,40
+dencellia,My Sister's Keeper,0,81,41
+dencellia,The Golden Compass,0,81,42
+dencellia,Harry Potter Series,5,81,43
+dencellia,Holes,0,81,44
+dencellia,Shonen Jump Series,4,81,45
+dencellia,The Shadow Club,0,81,46
+dencellia,Bone Series,0,81,47
+dencellia,Maus: A Survivor's Tale,0,81,48
+dencellia,The Joy Luck Club,0,81,49
+dencellia,The Lord of the Rings,2,81,50
+dencellia,The Hobbit,4,81,51
+dencellia,Shattered,0,81,52
+dencellia,The War Of The Worlds,0,81,53
+dencellia,Dealing with Dragons,0,81,54
+dencellia,The Chrysalids,0,81,55
+Nathan,The Hitchhiker's Guide To The Galaxy,0,82,1
+Nathan,Watership Down,0,82,2
+Nathan,The Five People You Meet in Heaven,0,82,3
+Nathan,Speak,0,82,4
+Nathan,I Know Why the Caged Bird Sings,0,82,5
+Nathan,Thirteen Reasons Why,0,82,6
+Nathan,Foundation Series,0,82,7
+Nathan,The Sisterhood of the Travelling Pants,1,82,8
+Nathan,A Great and Terrible Beauty,0,82,9
+Nathan,The Da Vinci Code,5,82,10
+Nathan,The Princess Diaries,3,82,11
+Nathan,Ender's Game,0,82,12
+Nathan,The Hunt for Red October,0,82,13
+Nathan,The Hunger Games,0,82,14
+Nathan,The Great Gatsby,3,82,15
+Nathan,Ranger's Apprentice Series,0,82,16
+Nathan,Inkheart,5,82,17
+Nathan,Neuromancer,0,82,18
+Nathan,Lord of the Flies,2,82,19
+Nathan,The Princess Bride,0,82,20
+Nathan,Dinotopia: A Land Apart from Time,4,82,21
+Nathan,Far North,0,82,22
+Nathan,Practical Magic,0,82,23
+Nathan,Brave New World,0,82,24
+Nathan,The Summer Tree,0,82,25
+Nathan,Flowers For Algernon,0,82,26
+Nathan,Owl in Love,0,82,27
+Nathan,Naruto,1,82,28
+Nathan,Bleach (graphic novel),0,82,29
+Nathan,Kiss the Dust,0,82,30
+Nathan,To Kill a Mockingbird,2,82,31
+Nathan,The Lion the Witch and the Wardrobe,5,82,32
+Nathan,The Bourne Series,0,82,33
+Nathan,Life of Pi,5,82,34
+Nathan,Breathless,0,82,35
+Nathan,Twilight Series,4,82,36
+Nathan,Sabriel,0,82,37
+Nathan,Nineteen Eighty-Four (1984),0,82,38
+Nathan,Eragon,3,82,39
+Nathan,Hatchet,0,82,40
+Nathan,My Sister's Keeper,4,82,41
+Nathan,The Golden Compass,3,82,42
+Nathan,Harry Potter Series,4,82,43
+Nathan,Holes,5,82,44
+Nathan,Shonen Jump Series,0,82,45
+Nathan,The Shadow Club,0,82,46
+Nathan,Bone Series,0,82,47
+Nathan,Maus: A Survivor's Tale,0,82,48
+Nathan,The Joy Luck Club,0,82,49
+Nathan,The Lord of the Rings,3,82,50
+Nathan,The Hobbit,1,82,51
+Nathan,Shattered,0,82,52
+Nathan,The War Of The Worlds,0,82,53
+Nathan,Dealing with Dragons,0,82,54
+Nathan,The Chrysalids,0,82,55
+James,The Hitchhiker's Guide To The Galaxy,4,83,1
+James,Watership Down,3,83,2
+James,The Five People You Meet in Heaven,0,83,3
+James,Speak,0,83,4
+James,I Know Why the Caged Bird Sings,0,83,5
+James,Thirteen Reasons Why,0,83,6
+James,Foundation Series,4,83,7
+James,The Sisterhood of the Travelling Pants,2,83,8
+James,A Great and Terrible Beauty,0,83,9
+James,The Da Vinci Code,0,83,10
+James,The Princess Diaries,3,83,11
+James,Ender's Game,0,83,12
+James,The Hunt for Red October,0,83,13
+James,The Hunger Games,0,83,14
+James,The Great Gatsby,0,83,15
+James,Ranger's Apprentice Series,0,83,16
+James,Inkheart,0,83,17
+James,Neuromancer,0,83,18
+James,Lord of the Flies,3,83,19
+James,The Princess Bride,3,83,20
+James,Dinotopia: A Land Apart from Time,0,83,21
+James,Far North,0,83,22
+James,Practical Magic,0,83,23
+James,Brave New World,1,83,24
+James,The Summer Tree,0,83,25
+James,Flowers For Algernon,0,83,26
+James,Owl in Love,0,83,27
+James,Naruto,1,83,28
+James,Bleach (graphic novel),1,83,29
+James,Kiss the Dust,0,83,30
+James,To Kill a Mockingbird,2,83,31
+James,The Lion the Witch and the Wardrobe,5,83,32
+James,The Bourne Series,0,83,33
+James,Life of Pi,4,83,34
+James,Breathless,0,83,35
+James,Twilight Series,1,83,36
+James,Sabriel,0,83,37
+James,Nineteen Eighty-Four (1984),0,83,38
+James,Eragon,0,83,39
+James,Hatchet,5,83,40
+James,My Sister's Keeper,0,83,41
+James,The Golden Compass,5,83,42
+James,Harry Potter Series,3,83,43
+James,Holes,4,83,44
+James,Shonen Jump Series,0,83,45
+James,The Shadow Club,0,83,46
+James,Bone Series,0,83,47
+James,Maus: A Survivor's Tale,0,83,48
+James,The Joy Luck Club,0,83,49
+James,The Lord of the Rings,1,83,50
+James,The Hobbit,5,83,51
+James,Shattered,0,83,52
+James,The War Of The Worlds,2,83,53
+James,Dealing with Dragons,0,83,54
+James,The Chrysalids,5,83,55
+KeeLed,The Hitchhiker's Guide To The Galaxy,0,84,1
+KeeLed,Watership Down,0,84,2
+KeeLed,The Five People You Meet in Heaven,0,84,3
+KeeLed,Speak,5,84,4
+KeeLed,I Know Why the Caged Bird Sings,0,84,5
+KeeLed,Thirteen Reasons Why,0,84,6
+KeeLed,Foundation Series,0,84,7
+KeeLed,The Sisterhood of the Travelling Pants,5,84,8
+KeeLed,A Great and Terrible Beauty,0,84,9
+KeeLed,The Da Vinci Code,5,84,10
+KeeLed,The Princess Diaries,5,84,11
+KeeLed,Ender's Game,0,84,12
+KeeLed,The Hunt for Red October,0,84,13
+KeeLed,The Hunger Games,0,84,14
+KeeLed,The Great Gatsby,0,84,15
+KeeLed,Ranger's Apprentice Series,0,84,16
+KeeLed,Inkheart,5,84,17
+KeeLed,Neuromancer,2,84,18
+KeeLed,Lord of the Flies,2,84,19
+KeeLed,The Princess Bride,0,84,20
+KeeLed,Dinotopia: A Land Apart from Time,0,84,21
+KeeLed,Far North,0,84,22
+KeeLed,Practical Magic,0,84,23
+KeeLed,Brave New World,0,84,24
+KeeLed,The Summer Tree,0,84,25
+KeeLed,Flowers For Algernon,0,84,26
+KeeLed,Owl in Love,0,84,27
+KeeLed,Naruto,0,84,28
+KeeLed,Bleach (graphic novel),0,84,29
+KeeLed,Kiss the Dust,0,84,30
+KeeLed,To Kill a Mockingbird,3,84,31
+KeeLed,The Lion the Witch and the Wardrobe,0,84,32
+KeeLed,The Bourne Series,0,84,33
+KeeLed,Life of Pi,0,84,34
+KeeLed,Breathless,0,84,35
+KeeLed,Twilight Series,5,84,36
+KeeLed,Sabriel,0,84,37
+KeeLed,Nineteen Eighty-Four (1984),0,84,38
+KeeLed,Eragon,5,84,39
+KeeLed,Hatchet,0,84,40
+KeeLed,My Sister's Keeper,5,84,41
+KeeLed,The Golden Compass,5,84,42
+KeeLed,Harry Potter Series,5,84,43
+KeeLed,Holes,5,84,44
+KeeLed,Shonen Jump Series,0,84,45
+KeeLed,The Shadow Club,0,84,46
+KeeLed,Bone Series,0,84,47
+KeeLed,Maus: A Survivor's Tale,0,84,48
+KeeLed,The Joy Luck Club,0,84,49
+KeeLed,The Lord of the Rings,4,84,50
+KeeLed,The Hobbit,3,84,51
+KeeLed,Shattered,0,84,52
+KeeLed,The War Of The Worlds,0,84,53
+KeeLed,Dealing with Dragons,0,84,54
+KeeLed,The Chrysalids,0,84,55
+Megan,The Hitchhiker's Guide To The Galaxy,5,85,1
+Megan,Watership Down,5,85,2
+Megan,The Five People You Meet in Heaven,0,85,3
+Megan,Speak,0,85,4
+Megan,I Know Why the Caged Bird Sings,0,85,5
+Megan,Thirteen Reasons Why,0,85,6
+Megan,Foundation Series,0,85,7
+Megan,The Sisterhood of the Travelling Pants,0,85,8
+Megan,A Great and Terrible Beauty,0,85,9
+Megan,The Da Vinci Code,4,85,10
+Megan,The Princess Diaries,0,85,11
+Megan,Ender's Game,5,85,12
+Megan,The Hunt for Red October,0,85,13
+Megan,The Hunger Games,0,85,14
+Megan,The Great Gatsby,3,85,15
+Megan,Ranger's Apprentice Series,0,85,16
+Megan,Inkheart,5,85,17
+Megan,Neuromancer,0,85,18
+Megan,Lord of the Flies,3,85,19
+Megan,The Princess Bride,5,85,20
+Megan,Dinotopia: A Land Apart from Time,0,85,21
+Megan,Far North,0,85,22
+Megan,Practical Magic,0,85,23
+Megan,Brave New World,0,85,24
+Megan,The Summer Tree,0,85,25
+Megan,Flowers For Algernon,3,85,26
+Megan,Owl in Love,0,85,27
+Megan,Naruto,5,85,28
+Megan,Bleach (graphic novel),0,85,29
+Megan,Kiss the Dust,0,85,30
+Megan,To Kill a Mockingbird,4,85,31
+Megan,The Lion the Witch and the Wardrobe,5,85,32
+Megan,The Bourne Series,5,85,33
+Megan,Life of Pi,0,85,34
+Megan,Breathless,0,85,35
+Megan,Twilight Series,5,85,36
+Megan,Sabriel,0,85,37
+Megan,Nineteen Eighty-Four (1984),0,85,38
+Megan,Eragon,4,85,39
+Megan,Hatchet,0,85,40
+Megan,My Sister's Keeper,0,85,41
+Megan,The Golden Compass,4,85,42
+Megan,Harry Potter Series,5,85,43
+Megan,Holes,5,85,44
+Megan,Shonen Jump Series,0,85,45
+Megan,The Shadow Club,0,85,46
+Megan,Bone Series,0,85,47
+Megan,Maus: A Survivor's Tale,0,85,48
+Megan,The Joy Luck Club,0,85,49
+Megan,The Lord of the Rings,5,85,50
+Megan,The Hobbit,5,85,51
+Megan,Shattered,0,85,52
+Megan,The War Of The Worlds,5,85,53
+Megan,Dealing with Dragons,0,85,54
+Megan,The Chrysalids,0,85,55

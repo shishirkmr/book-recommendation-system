@@ -1,0 +1,56 @@
+name,author,book_attribtes,genre,page_count,ratings_count,average_rating
+The Hitchhiker's Guide To The Galaxy,Douglas Adams,"{'page_count': 764, 'genre': ['Dent, Arthur'], 'ratings_count': 5, 'average_rating': 3}","['Dent, Arthur']",764.0,5.0,3.0
+Watership Down,Richard Adams,"{'page_count': 496, 'genre': ['Fiction'], 'ratings_count': 227, 'average_rating': 4}",['Fiction'],496.0,227.0,4.0
+The Five People You Meet in Heaven,Mitch Albom,"{'page_count': 240, 'genre': ['Fiction'], 'ratings_count': 252, 'average_rating': 3.5}",['Fiction'],240.0,252.0,3.5
+Speak,Laurie Halse Anderson,"{'page_count': 240, 'genre': ['Juvenile Fiction'], 'ratings_count': 406, 'average_rating': 4}",['Juvenile Fiction'],240.0,406.0,4.0
+I Know Why the Caged Bird Sings,Maya Angelou,"{'page_count': 288, 'genre': ['Biography & Autobiography'], 'ratings_count': 3252, 'average_rating': 4}",['Biography & Autobiography'],288.0,3252.0,4.0
+Thirteen Reasons Why,Jay Asher,"{'page_count': 288, 'genre': ['Juvenile Fiction'], 'ratings_count': 3649, 'average_rating': 3.5}",['Juvenile Fiction'],288.0,3649.0,3.5
+Foundation Series,Isaac Asimov,"{'page_count': 609, 'genre': ['Science fiction'], 'ratings_count': 1, 'average_rating': 5}",['Science fiction'],609.0,1.0,5.0
+The Sisterhood of the Travelling Pants,Ann Brashares,"{'page_count': 312, 'genre': ['Young Adult Fiction'], 'ratings_count': 136, 'average_rating': 3.5}",['Young Adult Fiction'],312.0,136.0,3.5
+A Great and Terrible Beauty,Libba Bray,"{'page_count': 416, 'genre': ['Juvenile Fiction'], 'ratings_count': 250, 'average_rating': 3.5}",['Juvenile Fiction'],416.0,250.0,3.5
+The Da Vinci Code,Dan Brown,"{'page_count': 480, 'genre': None, 'ratings_count': 5, 'average_rating': 5}",,480.0,5.0,5.0
+The Princess Diaries,Meg Cabot,"{'page_count': None, 'genre': ['Young Adult Fiction'], 'ratings_count': 86, 'average_rating': 3.5}",['Young Adult Fiction'],,86.0,3.5
+Ender's Game,Orson Scott Card,"{'page_count': 448, 'genre': ['Fiction'], 'ratings_count': 112, 'average_rating': 4}",['Fiction'],448.0,112.0,4.0
+The Hunt for Red October,Tom Clancy,"{'page_count': 656, 'genre': ['Fiction'], 'ratings_count': 37, 'average_rating': 4.5}",['Fiction'],656.0,37.0,4.5
+The Hunger Games,Suzanne Collins,"{'page_count': 464, 'genre': ['Juvenile Fiction'], 'ratings_count': 56, 'average_rating': 4.5}",['Juvenile Fiction'],464.0,56.0,4.5
+The Great Gatsby,F. Scott Fitzgerald,"{'page_count': 190, 'genre': ['Fiction'], 'ratings_count': None, 'average_rating': None}",['Fiction'],190.0,,
+Ranger's Apprentice Series,John Flanagan,"{'page_count': 327, 'genre': None, 'ratings_count': 1, 'average_rating': 4}",,327.0,1.0,4.0
+Inkheart,Cornelia Funke,"{'page_count': 576, 'genre': ['Juvenile Fiction'], 'ratings_count': 316, 'average_rating': 4}",['Juvenile Fiction'],576.0,316.0,4.0
+Neuromancer,William Gibson,"{'page_count': 352, 'genre': ['Fiction'], 'ratings_count': 214, 'average_rating': 3}",['Fiction'],352.0,214.0,3.0
+Lord of the Flies,William Golding,"{'page_count': 176, 'genre': ['Fiction'], 'ratings_count': 5, 'average_rating': 4}",['Fiction'],176.0,5.0,4.0
+The Princess Bride,William Goldman,"{'page_count': 288, 'genre': ['Fiction'], 'ratings_count': None, 'average_rating': None}",['Fiction'],288.0,,
+Dinotopia: A Land Apart from Time,James Gurney,"{'page_count': 181, 'genre': ['Fiction'], 'ratings_count': 13, 'average_rating': 4.5}",['Fiction'],181.0,13.0,4.5
+Far North,Will Hobbs,"{'page_count': 224, 'genre': ['Juvenile Fiction'], 'ratings_count': 16, 'average_rating': 4}",['Juvenile Fiction'],224.0,16.0,4.0
+Practical Magic,Alice Hoffman,"{'page_count': 304, 'genre': ['Fiction'], 'ratings_count': 81, 'average_rating': 3.5}",['Fiction'],304.0,81.0,3.5
+Brave New World,Aldous Huxley,"{'page_count': 121, 'genre': ['Foreign Language Study'], 'ratings_count': 2989, 'average_rating': 3.5}",['Foreign Language Study'],121.0,2989.0,3.5
+The Summer Tree,Guy Gavriel Kay,"{'page_count': 400, 'genre': ['Fiction'], 'ratings_count': None, 'average_rating': None}",['Fiction'],400.0,,
+Flowers For Algernon,Daniel Keyes,"{'page_count': 304, 'genre': ['Fiction'], 'ratings_count': 178, 'average_rating': 4}",['Fiction'],304.0,178.0,4.0
+Owl in Love,Patrice Kindl,"{'page_count': 214, 'genre': ['Juvenile Fiction'], 'ratings_count': 8, 'average_rating': 3.5}",['Juvenile Fiction'],214.0,8.0,3.5
+Naruto,Masashi Kishimoto,"{'page_count': 187, 'genre': ['Comics & Graphic Novels'], 'ratings_count': None, 'average_rating': None}",['Comics & Graphic Novels'],187.0,,
+Bleach (graphic novel),Tite Kubo,"{'page_count': 200, 'genre': ['Comics & Graphic Novels'], 'ratings_count': 924, 'average_rating': 4}",['Comics & Graphic Novels'],200.0,924.0,4.0
+Kiss the Dust,Elizabeth Laird,"{'page_count': None, 'genre': ['Juvenile Fiction'], 'ratings_count': 4, 'average_rating': 3.5}",['Juvenile Fiction'],,4.0,3.5
+To Kill a Mockingbird,Harper Lee,"{'page_count': 80, 'genre': ['Drama'], 'ratings_count': 133, 'average_rating': 4}",['Drama'],80.0,133.0,4.0
+The Lion the Witch and the Wardrobe,C S Lewis,"{'page_count': 101, 'genre': ['Fiction'], 'ratings_count': 481, 'average_rating': 4.5}",['Fiction'],101.0,481.0,4.5
+The Bourne Series,Robert Ludlum,"{'page_count': 840, 'genre': ['Fiction'], 'ratings_count': None, 'average_rating': None}",['Fiction'],840.0,,
+Life of Pi,Yann Martel,"{'page_count': 336, 'genre': ['Fiction'], 'ratings_count': 2808, 'average_rating': 3.5}",['Fiction'],336.0,2808.0,3.5
+Breathless,Lurlene McDaniel,"{'page_count': 176, 'genre': ['Young Adult Fiction'], 'ratings_count': 15, 'average_rating': 3.5}",['Young Adult Fiction'],176.0,15.0,3.5
+Twilight Series,Stephenie Meyer,"{'page_count': None, 'genre': None, 'ratings_count': 15, 'average_rating': 5}",,,15.0,5.0
+Sabriel,Garth Nix,"{'page_count': 352, 'genre': ['Young Adult Fiction'], 'ratings_count': 191, 'average_rating': 4}",['Young Adult Fiction'],352.0,191.0,4.0
+Nineteen Eighty-Four (1984),George Orwell,"{'page_count': None, 'genre': ['Fiction'], 'ratings_count': None, 'average_rating': None}",['Fiction'],,,
+Eragon,Christopher Paolini,"{'page_count': 528, 'genre': ['Juvenile Fiction'], 'ratings_count': 27, 'average_rating': 4}",['Juvenile Fiction'],528.0,27.0,4.0
+Hatchet,Gary Paulsen,"{'page_count': 192, 'genre': ['Juvenile Fiction'], 'ratings_count': 265, 'average_rating': 4}",['Juvenile Fiction'],192.0,265.0,4.0
+My Sister's Keeper,Jodi Picoult,"{'page_count': 300, 'genre': ['Fiction'], 'ratings_count': 482, 'average_rating': 4}",['Fiction'],300.0,482.0,4.0
+The Golden Compass,Philip Pullman,"{'page_count': 399, 'genre': ['Juvenile Fiction'], 'ratings_count': 3030, 'average_rating': 3.5}",['Juvenile Fiction'],399.0,3030.0,3.5
+Harry Potter Series,J.K. Rowling,"{'page_count': 309, 'genre': ['Juvenile Fiction'], 'ratings_count': 1541, 'average_rating': 4.5}",['Juvenile Fiction'],309.0,1541.0,4.5
+Holes,Louis Sachar,"{'page_count': 256, 'genre': ['Young Adult Fiction'], 'ratings_count': 65, 'average_rating': 4.5}",['Young Adult Fiction'],256.0,65.0,4.5
+Shonen Jump Series,Shueisha,{},,,,
+The Shadow Club,Neil Shusterman,{},,,,
+Bone Series,Jeff Smith,"{'page_count': 132, 'genre': ['Juvenile Fiction'], 'ratings_count': 18, 'average_rating': 4}",['Juvenile Fiction'],132.0,18.0,4.0
+Maus: A Survivor's Tale,Art Spiegelman,"{'page_count': 295, 'genre': ['Biography & Autobiography'], 'ratings_count': 79, 'average_rating': 4.5}",['Biography & Autobiography'],295.0,79.0,4.5
+The Joy Luck Club,Amy Tan,"{'page_count': 368, 'genre': ['Fiction'], 'ratings_count': 113, 'average_rating': 4}",['Fiction'],368.0,113.0,4.0
+The Lord of the Rings,J R R Tolkien,"{'page_count': 1216, 'genre': ['Fiction'], 'ratings_count': 70, 'average_rating': 4.5}",['Fiction'],1216.0,70.0,4.5
+The Hobbit,J R R Tolkien,"{'page_count': 320, 'genre': ['Young Adult Fiction'], 'ratings_count': 9, 'average_rating': 4.5}",['Young Adult Fiction'],320.0,9.0,4.5
+Shattered,Eric Walters,"{'page_count': 216, 'genre': ['Genocide'], 'ratings_count': 4, 'average_rating': 4}",['Genocide'],216.0,4.0,4.0
+The War Of The Worlds,H G Wells,"{'page_count': 288, 'genre': ['Fiction'], 'ratings_count': 124, 'average_rating': 3.5}",['Fiction'],288.0,124.0,3.5
+Dealing with Dragons,Patricia C. Wrede,"{'page_count': 244, 'genre': ['Juvenile Fiction'], 'ratings_count': 68, 'average_rating': 4}",['Juvenile Fiction'],244.0,68.0,4.0
+The Chrysalids,John Wyndham,"{'page_count': 224, 'genre': ['Fiction'], 'ratings_count': 7, 'average_rating': 3.5}",['Fiction'],224.0,7.0,3.5
